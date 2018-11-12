@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\sebas\source\repos\sdl_testproject\sdl_testproject\game.cpp(34): error C2065: 'IMG_INIT_PNG': undeclared identifier
+c:\users\sebas\source\repos\sdl_testproject\sdl_testproject\game.cpp(34): error C3861: 'IMG_Init': identifier not found
+c:\users\sebas\source\repos\sdl_testproject\sdl_testproject\game.cpp(35): error C3861: 'IMG_Load': identifier not found
+  Main.cpp
+  Generating Code...

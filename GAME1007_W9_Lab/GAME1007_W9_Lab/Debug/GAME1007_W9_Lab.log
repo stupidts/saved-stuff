@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\sebas\source\repos\game1007_w9_lab\game1007_w9_lab\main.cpp(74): warning C4101: 'width': unreferenced local variable
+c:\users\sebas\source\repos\game1007_w9_lab\game1007_w9_lab\main.cpp(73): warning C4101: 'length': unreferenced local variable
+  GAME1007_W9_Lab.vcxproj -> C:\Users\sebas\source\repos\GAME1007_W9_Lab\Debug\GAME1007_W9_Lab.exe
