@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\sebastian\source\repos\lamp\lamp\lamp.h(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lamp.vcxproj -> c:\Users\sebastian\source\repos\Lamp\Debug\Lamp.exe
