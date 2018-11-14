@@ -20,8 +20,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Level.txt">
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level4.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

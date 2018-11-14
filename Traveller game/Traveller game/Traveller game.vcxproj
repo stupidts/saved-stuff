@@ -118,7 +118,14 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Level.txt" />
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level1.txt" />
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level2.txt" />
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level3.txt" />
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level4.txt" />
+    <Text Include="..\..\Week 10 Traveller\Week 10 Traveller\Level5.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
