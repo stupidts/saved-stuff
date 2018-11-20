@@ -33,22 +33,20 @@ bool BuildMap(Level& l, const char* n) // Passing 2D array to function.
 
 void PrintMap(Level& l, const Player& p)
 {
-	bool isDoor = false;
+	//bool isDoor = false;
 
 	for (int row = 0; row < ROWS; row++)
 	{
 		for (int col = 0; col < COLS; col++)
 		{
-			for (int i = 0; i < l.m_iNumDoors; i++)
+			/*for (int i = 0; i < l.m_iNumDoors; i++)
 			{
 				if (row == l.doors[i].m_y && col == l.doors[i].m_x)
 				{
 					isDoor = true;
 				}
-			}
-			if (isDoor)
-				cout << 'D';
-			else if (row == p.m_y && col == p.m_x)
+			}*/
+			if (row == p.m_y && col == p.m_x)
 				cout << p.m_cOutput;
 			else
 				cout << l.map[row][col].m_cOutput;
@@ -57,7 +55,7 @@ void PrintMap(Level& l, const Player& p)
 	}
 }
 
-void CheckDoors(int cl, Player& p, Level& l)
+void CheckDoors(int& cl, Player& p, Level& l)
 {
 	cout << "\n\n\nm_iNumDoors " + to_string(l.m_iNumDoors) << endl;
 	for (int i = 0; i < l.m_iNumDoors; i++)
@@ -81,9 +79,20 @@ int main()
 	int currLevel(0);
 
 	if (BuildMap(levels[0], "Level1.txt") == 1)
-	{
 		return 1;
-	}
+	levels[0].AddDoor(14, 20, 1, 17, 14);
+	if (BuildMap(levels[1], "Level2.txt") == 1)
+		return 1;
+	levels[1].AddDoor(17, 14, 0, 14, 20);
+	levels[1].AddDoor(27, 15, 2, 17, 14);
+	levels[1].AddDoor(10, 6 , 3, 27, 11);
+	if (BuildMap(levels[2], "Level3.txt") == 1)
+		return 1;
+	levels[2].AddDoor(17, 14, 1, 27, 15);
+	if (BuildMap(levels[3], "Level4.txt") == 1)
+		return 1;
+	levels[3].AddDoor(27, 11, 1, 10, 6);
+
 
 	while (!quit)
 	{
@@ -123,37 +132,37 @@ int main()
 			system("cls");
 			cout << "\n\n\n\n\n\n\n\nYou died!\n\n\n\n\n\n\n\n" << endl;
 		}
-		if (levels[currLevel].map[player.m_y][player.m_x].m_cOutput == 'D')
+		if (levels[currLevel].map[player.m_y][player.m_x].m_cOutput == 'T')
 		{
 			cout << "\n\n\non a door!" << endl;
 			CheckDoors(currLevel, player, *levels);
 			cout << "\n\n\ncurr: " << currLevel << ", px: " << player.m_x << ", py:" << player.m_y << endl;
-			if (currLevel == 0)
+			/*if (currLevel == 0)
 			{
 				cout << "cl 0" << endl;
-				levels[0].AddDoor(14, 20, 2, 17, 14);
-				BuildMap(*levels, "Level1.txt");
+				levels[0].AddDoor(14, 20, 1, 17, 14);
+				BuildMap(levels[0], "Level2.txt");
 			}
 			if (currLevel == 1)
 			{
 				cout << "cl 1" << endl;
-				levels[1].AddDoor(17, 14, 1, 14, 20);
-				levels[1].AddDoor(27, 15, 3, 17, 14);
-				levels[1].AddDoor(10, 6, 4, 27, 11);
-				BuildMap(*levels, "Level2.txt");
+				levels[1].AddDoor(17, 14, 0, 14, 20);
+				levels[1].AddDoor(27, 15, 2, 17, 14);
+				levels[1].AddDoor(10, 6 , 3, 27, 11);
+				BuildMap(levels[1], "Level2.txt");
 			}
 			if (currLevel == 2)
 			{
 				cout << "cl 2" << endl;
-				levels[2].AddDoor(17, 14, 2, 27, 15);
-				BuildMap(*levels, "Level3.txt");
+				levels[2].AddDoor(17, 14, 1, 27, 15);
+				BuildMap(levels[2], "Level3.txt");
 			}
 			if (currLevel == 3)
 			{
 				cout << "cl 3" << endl;
-				levels[3].AddDoor(27, 11, 2, 10, 6);
-				BuildMap(*levels, "Level4.txt");
-			}
+				levels[3].AddDoor(27, 11, 1, 10, 6 );
+				BuildMap(levels[3], "Level4.txt");
+			}*/
 		}
 	}
 	system("pause");

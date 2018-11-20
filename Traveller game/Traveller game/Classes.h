@@ -30,7 +30,7 @@ public:
 		if (m_cOutput == '*') // * turns into
 			m_cOutput = ' ';  // blank space
 		if (m_cOutput == '+') // + in the file so it's easier to notice in a char mess
-			m_cOutput = 'D';  // Door character
+			m_cOutput = 'T';  // Door character
 							  // vvv checks if the char is a Stone, Moss Stone, wood wall, roof tile, tree stump, full tree or a dungeon brick vvv
 		if (m_cOutput == 'M' || m_cOutput == 'm' || m_cOutput == '=' || m_cOutput == 'H' || m_cOutput == 'O' || m_cOutput == '#' || m_cOutput == 'B') 
 			m_bIsObstacle = true;
@@ -45,7 +45,11 @@ public:
 	int m_x;
 	int m_y;
 	LOTile() {}
-	LOTile(int x, int y) : m_x(x), m_y(y) {}
+	LOTile(const int m_x, const int m_y)
+	{
+		this->m_x = m_x;
+		this->m_y = m_y;
+	}
 };
 
 class Player : public LOTile
@@ -66,10 +70,10 @@ private:
 public:
 	Door()
 	{
-		m_cOutput = 'D'; // D is for door
+		
 	}
 
-	void GetDoor(int tl, int dx, int dy) // accesses the private variables from the outside cold harsh world
+	void GetDoor(int& tl, int& dx, int& dy) // accesses the private variables from the outside cold harsh world
 	{
 		tl = m_iToLevel;
 		dx = m_iDestX;
