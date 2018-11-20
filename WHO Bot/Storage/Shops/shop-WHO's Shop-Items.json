@@ -1,0 +1,448 @@
+{
+  "Weapons":
+  {
+    "1":
+    {
+      "name": "WHO?s Sword",
+      "rarity": 100,
+      "description": "The sword of the almighty! Forged by the one and only WHO?",
+      "buyPrice": 1000000000,
+      "sellPrice": 500000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "2":
+    {
+      "name": "Kek Overlord Sword",
+      "rarity": 95,
+      "description": "",
+      "buyPrice": 500000000,
+      "sellPrice": 250000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "3":
+    {
+      "name": "Kek Alpha Sword",
+      "rarity": 90,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "4":
+    {
+      "name": "Kek Damaged Sword",
+      "rarity": 85,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "5":
+    {
+      "name": "Paladin Spear",
+      "rarity": 80,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "6":
+    {
+      "name": "Paladin Mace",
+      "rarity": 80,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "7":
+    {
+      "name": "Paladin Axe",
+      "rarity": 80,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "8":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "9":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "10":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "11":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "12":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "13":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "14":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "15":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "16":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "17":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "18":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "19":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    },
+    "20":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDamage": 1,
+      "maxDamage": 5
+    }
+  },
+  "Armor":
+  {
+    "1":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "2":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "3":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "4":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "5":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "6":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "7":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "8":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "9":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "10":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "11":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "12":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "13":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "14":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "15":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "16":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "17":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "18":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "19":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    },
+    "20":
+    {
+      "name": "WHO?s Armor",
+      "rarity": 100,
+      "description": "WHO?'s Armor is made by the one and only WHO?, made with dark matter itself.",
+      "buyPrice": 1500000000,
+      "sellPrice": 1035000000,
+      "damageType": "Slash",
+      "minDefense": 1,
+      "maxDefense": 5
+    }
+  }
+}

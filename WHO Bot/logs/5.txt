@@ -1,0 +1,501 @@
+New Log![Delete][who-bot] 265957683260030976 WHO?: !~~c_log~~;
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 475519631818358795 Stats: 
+[UpdateOld][who-bot] 475519631818358795 Stats: 
+[UpdateNew][who-bot] 475519631818358795 Stats: 
+[Message][undefined] 265957683260030976 WHO?: !smsg 147897397572272129 | Hah you're bad noob
+[Message][club-info] 265957683260030976 WHO?: ```css
+To make a club you must ask WHO? in DMs about making one and do the following:
+1) Propose the name of your club.
+2) What is the purpose of your club?
+3) Why do you think it will be a good club?
+```
+[UpdateOld][club-info] 265957683260030976 WHO?: ```css
+To make a club you must ask WHO? in DMs about making one and do the following:
+1) Propose the name of your club.
+2) What is the purpose of your club?
+3) Why do you think it will be a good club?
+```
+[UpdateNew][club-info] 265957683260030976 WHO?: ```css
+To make a club you must ask WHO? in DMs about making one and do the following:
+1) Propose the name of your club.
+2) What is the purpose of your club?
+3) Why do you think it will be a good club?
+```
+[Message][club-info] 265957683260030976 WHO?: 
+[Delete][club-info] 265957683260030976 WHO?: 
+[UpdateOld][club-info] 265957683260030976 WHO?: ```css
+To make a club you must ask WHO? in DMs about making one and do the following:
+1) Propose the name of your club.
+2) What is the purpose of your club?
+3) Why do you think it will be a good club?
+```
+[UpdateNew][club-info] 265957683260030976 WHO?: ```fix
+To make a club you must ask WHO? in DMs about making one and do the following:
+1) Propose the name of your club.
+2) What is the purpose of your club?
+3) Why do you think it will be a good club?
+```
+[Message][who-lottery] 265957683260030976 WHO?: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[GMUpdateOld] 147897397572272129 Morder [object Map] Morder
+[GMUpdateNew] 147897397572272129 Morder [object Map] Morder
+[Message][general] 265957683260030976 WHO?: !hook WHO?, yeeeeeeeeeeeeeeeeeeeeee
+[Message][general] 265957683260030976 WHO?: !hook WHO?, YEEEEEEEEEEEEEEEEEEE
+[Message][general] 265957683260030976 WHO?: !hook WHO?, YEEEEEEEEEEEEEEEEEEE, ff00ff
+[Delete][general] 265957683260030976 WHO?: !hook WHO?, YEEEEEEEEEEEEEEEEEEE, ff00ff
+[Message][general] 475672134669041704 WHO?: 
+[UpdateOld][general] 475672134669041704 WHO?: 
+[UpdateNew][general] 475672134669041704 WHO?: 
+[Message][general] 239889458693013506 ♫Hyron♫: !hook a aa, YEEEEEEEEEEEEEEEEEEE, ff0044
+[Message][general] 239889458693013506 ♫Hyron♫: glitch
+[Message][general] 239889458693013506 ♫Hyron♫: !hook WHO?, bread <@265957683260030976> , ff5555
+[Message][general] 239889458693013506 ♫Hyron♫: wtf
+[Message][general] 239889458693013506 ♫Hyron♫: !hook WHO?, YEEEEEEEEEEEEEEEEEEE, ff00ff
+[Message][general] 239889458693013506 ♫Hyron♫: !help
+[Message][general] 265957683260030976 WHO?: lol it only works for me XD
+[Message][general] 265957683260030976 WHO?: I'll be back in a couple hours 😛
+[Message][general] 265957683260030976 WHO?: Actually I think you can do it just only in the bot channels
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !hook WHO?, YEEEEEEEEEEEEEEEEEEE, ff00ff
+[Delete][who-bot] 239889458693013506 ♫Hyron♫: !hook WHO?, YEEEEEEEEEEEEEEEEEEE, ff00ff
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][general] 239889458693013506 ♫Hyron♫: <@265957683260030976>works
+[Message][who-bot] 265957683260030976 WHO?: Nice
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !hook WHO?, YEEEEEEEEEEEEEEEEEEE <@265957683260030976>, f99999
+[Delete][who-bot] 239889458693013506 ♫Hyron♫: !hook WHO?, YEEEEEEEEEEEEEEEEEEE <@265957683260030976>, f99999
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: Ill show you something cool about it later
+[Message][who-bot] 239889458693013506 ♫Hyron♫: neat
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 216892903165919233 Ethreen42: gay and fake
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: <@216892903165919233>
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who'
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !stats
+[Message][who-lottery] 475681213319872523 Stats: 
+[UpdateOld][who-lottery] 475681213319872523 Stats: 
+[UpdateNew][who-lottery] 475681213319872523 Stats: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 216892903165919233 Ethreen42: !stats
+[Message][who-lottery] 475681213319872523 Stats: 
+[Message][who-lottery] 216892903165919233 Ethreen42: gay and fake
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !state
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !stats
+[Message][who-lottery] 475681213319872523 Stats: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !stats
+[Message][who-lottery] 475681213319872523 Stats: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !stats
+[Message][who-lottery] 475681213319872523 Stats: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: I got 5 and im with 1 wtf
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !stats
+[Message][who-lottery] 475681213319872523 Stats: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !shop
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !ship buy
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !shop buy
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !shop buy 1
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: fuuuuyccikcikcijfuck
+[UserOld] 265957683260030976 WHO?#6790 https://cdn.discordapp.com/avatars/265957683260030976/aeddc9b889af21e9f466233b13b55796.png?size=2048
+[UserNew] 265957683260030976 KillerM4ster#6790 https://cdn.discordapp.com/avatars/265957683260030976/54b413e82a864063465acd79ecbe1ce2.png?size=2048
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: '-'
+[Message][who-bot] 239889458693013506 ♫Hyron♫: helloo
+[Message][who-bot] 239889458693013506 ♫Hyron♫: music pls
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !stop
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 265957683260030976 KillerM4ster: 🐒 that doesnt work
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: jesus
+[Message][undefined] 147897397572272129 Morder: im so sorry for the loud music idk what that is
+[UserOld] 147897397572272129 Morder#9024 https://cdn.discordapp.com/avatars/147897397572272129/c9cfd132e55cf65e4b83646a55864941.png?size=2048
+[UserNew] 147897397572272129 Extinguished Dragon Key#9024 https://cdn.discordapp.com/avatars/147897397572272129/401b5a236821908c5d11dfa9ea185e65.png?size=2048
+[UserOld] 265957683260030976 KillerM4ster#6790 https://cdn.discordapp.com/avatars/265957683260030976/54b413e82a864063465acd79ecbe1ce2.png?size=2048
+[UserNew] 265957683260030976 WHO?#6790 https://cdn.discordapp.com/avatars/265957683260030976/aeddc9b889af21e9f466233b13b55796.png?size=2048
+[Message][general] 239889458693013506 ♫Hyron♫: <@265957683260030976>
+[Message][general] 239889458693013506 ♫Hyron♫: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][general] 265957683260030976 WHO?: <@326001774366294018> I'm actually going to redo the shop system completely
+[Message][general] 326001774366294018 KillerM4ster: Oof, again?
+[Message][general] 265957683260030976 WHO?: wdym again?
+[Message][general] 306526948153360386 GamerOwls: u-oof-o
+[Message][general] 326001774366294018 KillerM4ster: Let me get my laptop wait
+[Message][general] 265957683260030976 WHO?: I've only had one shop system and it is pretty ugly in the code. Anyone who knows anything about code would say it's horrible
+[Message][general] 265957683260030976 WHO?: So I'm going to make it clean and also customizable
+[Message][general] 326001774366294018 KillerM4ster: Nice
+[Message][general] 326001774366294018 KillerM4ster: The old one isn's even a shop, it's a bunch of ugly text
+[Message][general] 265957683260030976 WHO?: It's not even finished
+[Message][general] 265957683260030976 WHO?: it's just an attempt I forgot about so now I'm going to start
+[Message][general] 326001774366294018 KillerM4ster: I'll create a multiplayer game
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 413902897101930497 WHO?: This should be working and if this message shows then the bot is drunk.
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shop
+[Delete][who-bot] 265957683260030976 WHO?: !shop
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Delete][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[UpdateOld][who-bot] 475519631818358795 Shops!: 
+[UpdateNew][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: nice image
+[Message][who-bot] 265957683260030976 WHO?: 10/10 quality
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[UpdateOld][who-bot] 475519631818358795 Shops!: 
+[UpdateNew][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: sick list
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: sick list
+[Message][who-bot] 239889458693013506 ♫Hyron♫: <:GWfroggyBlobWokeThink:398570327942365195>
+[Message][who-bot] 265957683260030976 WHO?: 70 lines of that
+[Message][who-bot] 265957683260030976 WHO?: I'm being stoopid
+[Message][who-bot] 239889458693013506 ♫Hyron♫: <:Bitcoin:429058911434309642>
+[Message][who-bot] 265957683260030976 WHO?: <:Bitcoin:429058911434309642> <:Bitcoin:429058911434309642> <:Bitcoin:429058911434309642>
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[UpdateOld][who2] 475533205609512961 Shops!: 
+[UpdateNew][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 265957683260030976 WHO?: !shpos
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who2] 265957683260030976 WHO?: !shops
+[Message][who2] 475533205609512961 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: !shops
+[Message][who-bot] 475519631818358795 Shops!: 
+[Message][who-bot] 265957683260030976 WHO?: I made it work and now I can sleep
+[Message][who-bot] 265957683260030976 WHO?: I'll work on the club system tomorrow and then I can implement custom shops
+[Message][who-bot] 265957683260030976 WHO?: and then finally the ability to buy and sell items
+[Message][general] 368703093489139723 Hazzer_bazzer: whats thir
+[UpdateOld][general] 368703093489139723 Hazzer_bazzer: whats thir
+[UpdateNew][general] 368703093489139723 Hazzer_bazzer: whats this
+[Message][general] 265957683260030976 WHO?: is my server
+[Message][general] 368703093489139723 Hazzer_bazzer: i got that
+[Message][general] 306526948153360386 GamerOwls: nah, it's killerm4ster's
+[Message][general] 265957683260030976 WHO?: I really want to work on my bot but I also need to prepare for college
+[Message][general] 368703093489139723 Hazzer_bazzer: gIvE mE rOlEs
+[Message][general] 265957683260030976 WHO?: you don't get roles
+[Message][general] 368703093489139723 Hazzer_bazzer: LiAr
+[Message][general] 265957683260030976 WHO?: also this server would be more popular if everyone didn't just talk on the MMFC
+[Message][general] 368703093489139723 Hazzer_bazzer: ¯\_(ツ)_/¯
+[Message][general] 265957683260030976 WHO?: lol
+[Message][general] 265957683260030976 WHO?: /dab
+[Message][general] 368703093489139723 Hazzer_bazzer: (╯°□°）╯︵ ┻━┻
+[Message][general] 265957683260030976 WHO?: ┬─┬ ノ( ゜-゜ノ)
+[GMUpdateOld] 368703093489139723 Hazzer_bazzer [object Map] Hazzer_bazzer
+[GMUpdateNew] 368703093489139723 Hazzer_bazzer [object Map] * slams keyboard *
+[Message][general] 368703093489139723 Hazzer_bazzer: oh waht
+[Message][general] 368703093489139723 Hazzer_bazzer: no go back
+[GMUpdateOld] 368703093489139723 Hazzer_bazzer [object Map] * slams keyboard *
+[GMUpdateNew] 368703093489139723 Hazzer_bazzer [object Map] Hazzer_Bazzer
+[Message][general] 368703093489139723 Hazzer_bazzer: there we  go
+[GMUpdateOld] 368703093489139723 Hazzer_bazzer [object Map] Hazzer_Bazzer
+[GMUpdateNew] 368703093489139723 Hazzer_bazzer [object Map] Hazzer_bazzer
+[Message][general] 265957683260030976 WHO?: ```
+[Message][general] 368703093489139723 Hazzer_bazzer: ¯\_(ツ)_/¯
+[Message][general] 265957683260030976 WHO?: lol
+[Message][general] 265957683260030976 WHO?: /dab
+[Message][general] 368703093489139723 Hazzer_bazzer: (╯°□°）╯︵ ┻━┻
+[Message][general] 265957683260030976 WHO?: ┬─┬ ノ( ゜-゜ノ)
+```
+[Message][general] 368703093489139723 Hazzer_bazzer: ...?
+[Message][general] 265957683260030976 WHO?: ¯\_(ツ)_/¯
+[Message][general] 265957683260030976 WHO?: it's my bots logs
+[Message][general] 265957683260030976 WHO?: who needs dyno when I can make my own 😛
+[Message][general] 368703093489139723 Hazzer_bazzer: m e
+[Message][general] 265957683260030976 WHO?: [Message][general] 368703093489139723 Hazzer_bazzer: m e
+ArE yOu SuRe AbOuT tHaT
+[Message][general] 265957683260030976 WHO?: also 
+doing 
+multiline
+messages 
+looks
+odd
+[Message][general] 265957683260030976 WHO?: ```
+[Message][general] 265957683260030976 WHO?: also 
+doing 
+multiline
+messages 
+looks
+odd
+```
+[UpdateOld][general] 265957683260030976 WHO?: ```
+[Message][general] 265957683260030976 WHO?: also 
+doing 
+multiline
+messages 
+looks
+odd
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```md
+[Message][general] 265957683260030976 WHO?: also 
+doing 
+multiline
+messages 
+looks
+odd
+```
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | I'm Back!!!
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 326001774366294018 KillerM4ster: noice
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | noice indeed. Now I can evolve in the future >:)
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 326001774366294018 KillerM4ster: I want to make a bot
+[UserOld] 196013975291297792 Thinzy#2793 https://cdn.discordapp.com/avatars/196013975291297792/9145c8d9afefdebfeda65b9e4b30b2b6.png?size=2048
+[UserNew] 196013975291297792 Thinzy#2793 https://cdn.discordapp.com/avatars/196013975291297792/037919201ae2092f761c8cf7d8b7589d.png?size=2048
+[UserOld] 306526948153360386 SpoopyOwls#6519 https://cdn.discordapp.com/avatars/306526948153360386/bd67ffbffa0acda83bc9b678a271459c.png?size=2048
+[UserNew] 306526948153360386 SpoopyOwls#6519 https://cdn.discordapp.com/avatars/306526948153360386/7f30cc0212a91d8296fded0dbc93b374.png?size=2048
+[UserOld] 306526948153360386 SpoopyOwls#6519 https://cdn.discordapp.com/avatars/306526948153360386/7f30cc0212a91d8296fded0dbc93b374.png?size=2048
+[UserNew] 306526948153360386 NotThatSpoopyOwlsAnymore#6519 https://cdn.discordapp.com/avatars/306526948153360386/7f30cc0212a91d8296fded0dbc93b374.png?size=2048
+[UserOld] 368703093489139723 Hazzer_Bazzer#6412 https://cdn.discordapp.com/avatars/368703093489139723/dc27bb1aef5c5691e85a0315ad5933ae.png?size=2048
+[UserNew] 368703093489139723 Hazzer_Bazzer#6412 https://cdn.discordapp.com/avatars/368703093489139723/1117d7b763c0f08940d26ae7a64ba09e.png?size=2048
+[UserOld] 265957683260030976 WHO?#6790 https://cdn.discordapp.com/avatars/265957683260030976/89d128f9dbc0097f687c33b76997e3e1.png?size=2048
+[UserNew] 265957683260030976 WHO?#6790 https://cdn.discordapp.com/avatars/265957683260030976/bff8f43057b221e531937c117062d17f.png?size=2048
+[UserOld] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/2944c6657e5ec64e37fa0c365bcf940f.png?size=2048
+[UserNew] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/2a03d6d24c4a9d4e5b3c62d0c7f0d608.png?size=2048
+[UserOld] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/2a03d6d24c4a9d4e5b3c62d0c7f0d608.png?size=2048
+[UserNew] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/02026659bdcd68b78e5bd65bd160fa3e.png?size=2048
+[UserOld] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/02026659bdcd68b78e5bd65bd160fa3e.png?size=2048
+[UserNew] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/6199c288547fe57da18afcaf707675fa.png?size=2048
+[UserOld] 147897397572272129 Al McWhiggin#9024 https://cdn.discordapp.com/avatars/147897397572272129/e7d70615e7e9b913ea823bde0620ab5e.png?size=2048
+[UserNew] 147897397572272129 Door_Knoob#9024 https://cdn.discordapp.com/avatars/147897397572272129/e7d70615e7e9b913ea823bde0620ab5e.png?size=2048
+[UserOld] 147897397572272129 Door_Knoob#9024 https://cdn.discordapp.com/avatars/147897397572272129/e7d70615e7e9b913ea823bde0620ab5e.png?size=2048
+[UserNew] 147897397572272129 Door_Knoob#9024 https://cdn.discordapp.com/avatars/147897397572272129/a7226796d73134681a5e560c71645acf.png?size=2048
+[UserOld] 306526948153360386 NotThatSpoopyOwlsAnymore#6519 https://cdn.discordapp.com/avatars/306526948153360386/7f30cc0212a91d8296fded0dbc93b374.png?size=2048
+[UserNew] 306526948153360386 GamerOwls#6519 https://cdn.discordapp.com/avatars/306526948153360386/7f30cc0212a91d8296fded0dbc93b374.png?size=2048
+[UserOld] 265957683260030976 WHO?#6790 https://cdn.discordapp.com/avatars/265957683260030976/bff8f43057b221e531937c117062d17f.png?size=2048
+[UserNew] 265957683260030976 WHO?#6790 https://cdn.discordapp.com/avatars/265957683260030976/aeddc9b889af21e9f466233b13b55796.png?size=2048
+[UserOld] 306526948153360386 GamerOwls#6519 https://cdn.discordapp.com/avatars/306526948153360386/7f30cc0212a91d8296fded0dbc93b374.png?size=2048
+[UserNew] 306526948153360386 has 4 victry royles sans UP skin#6519 https://cdn.discordapp.com/avatars/306526948153360386/84822d2bffd05bede603baf2df98a122.png?size=2048
+[Message][general] 265957683260030976 WHO?: @here I will probably delete this server because I don't use it or plan on using it anymore 🤔
+[Message][general] 319294193099079680 kawabomb gamer: aight
+[Message][general] 346139990721298434 Brent Da Mage: ok
+[Message][general] 368703093489139723 Hazzer_Bazzer: K den
+[Message][general] 265957683260030976 WHO?: lol
+[Message][general] 346139990721298434 Brent Da Mage: ikr
+[Message][general] 265957683260030976 WHO?: gimme a good time to delete
+[Message][general] 319294193099079680 kawabomb gamer: now
+[Message][general] 368703093489139723 Hazzer_Bazzer: Idk
+[Message][general] 346139990721298434 Brent Da Mage: now
+[Message][general] 368703093489139723 Hazzer_Bazzer: Ok now then
+[Message][general] 265957683260030976 WHO?: <@319294193099079680> tell rolly polly olly that his math is too hard for me
+[Message][general] 319294193099079680 kawabomb gamer: who?
+[Message][general] 346139990721298434 Brent Da Mage: We'll just merge in into MMFD
+[GMUpdateOld] 413902897101930497 WHO? [object Map] WHO?
+[GMUpdateNew] 413902897101930497 WHO? [object Map] WHO?
+[Message][user-join-log] 413902897101930497 WHO?: 
+[GMUpdateOld] 413902897101930497 WHO? [object Map] WHO?
+[GMUpdateNew] 413902897101930497 WHO? [object Map] WHO?
+[Message][bot-stuffs] 265957683260030976 WHO?: even though I invited it just don't comment on it yet
+[Message][bot-stuffs] 265957683260030976 WHO?: I just wanna know if I can play around with it here before people ask about it because it might be totally broken
+[Message][bot-stuffs] 265957683260030976 WHO?: ~~~c_log~~~
+[Delete][bot-stuffs] 265957683260030976 WHO?: ~~~c_log~~~
+[Message][bot-stuffs] 265957683260030976 WHO?: ~~c_log~~
+[Delete][bot-stuffs] 265957683260030976 WHO?: ~~c_log~~
+[Message][comm-1007] 180414365931929618 Innocent: nvm
+[Message][comm-1007] 180414365931929618 Innocent: it's a pain to look up
+[Message][bot-stuffs] 265957683260030976 WHO?: !~~c_log~~
+[Delete][bot-stuffs] 265957683260030976 WHO?: !~~c_log~~
+[Message][bot-stuffs] 265957683260030976 WHO?: !~~c_log~~;

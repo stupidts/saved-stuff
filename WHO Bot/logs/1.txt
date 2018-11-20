@@ -1,0 +1,198 @@
+[kek-club] 196013975291297792 Thinzy: utf8 should be correct for emojis
+[kek-club] 265957683260030976 WHO?: 😛
+[kek-club] 265957683260030976 WHO?: ```
+[kek-club] 196013975291297792 Thinzy: utf8 should be correct for emojis
+[kek-club] 265957683260030976 WHO?: 😛
+```
+[kek-club] 265957683260030976 WHO?: ascii is much better
+[kek-club] 196013975291297792 Thinzy: hmm odd
+[kek-club] 265957683260030976 WHO?: try more emojis
+[kek-club] 196013975291297792 Thinzy: i think its working
+[kek-club] 196013975291297792 Thinzy: very strange though
+[kek-club] 196013975291297792 Thinzy: for me utf8 works and ascii doesnt haha
+[kek-club] 265957683260030976 WHO?: your node js is plebed
+[user-join-log] 186186323869040640 Dread690: 
+[general] 265957683260030976 WHO?: Welcome <@&458310564566007810>
+[general] 265957683260030976 WHO?: Welcome <@&458310564566007810>
+[general] 186186323869040640 Dread690: God damn it. THE PUNS <:rooBlank:399827527289536512>
+[kek-club] 265957683260030976 WHO?: ```
+[user-join-log] 186186323869040640 Dread690: 
+[general] 265957683260030976 WHO?: Welcome <@&458310564566007810>
+[general] 265957683260030976 WHO?: Welcome <@&458310564566007810>
+[general] 186186323869040640 Dread690: God damn it. THE PUNS :rooBlank:
+```
+[kek-club] 265957683260030976 WHO?: pretty cool :3
+[general] 186186323869040640 Dread690: <@265957683260030976> You have your own bot
+[general] 265957683260030976 WHO?: yes
+[general] 265957683260030976 WHO?: I've been working on it in the past couple days and it improved a lot
+[general] 326001774366294018 KillerM4ster: Everyone have their own bot ._.
+[general] 326001774366294018 KillerM4ster: It's a normal thing
+[general] 186186323869040640 Dread690: Sparx is master of plebs <:rooKek:399827499405541406>
+[general] 265957683260030976 WHO?: yep :3
+[general] 186186323869040640 Dread690: Naaa on the discord that I'm mainly on we use Muxy
+[general] 265957683260030976 WHO?: if you check out the WHO? Music voice chat you can try to play any youtube link
+[general] 186186323869040640 Dread690: IM scared
+[general] 326001774366294018 KillerM4ster: You play the youtube link, not video and audio
+[general] 265957683260030976 WHO?: In <#420724328544469045> you can do `!play <any youtube link without the arrows>`
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/y6120QOlsfU
+[who-bot] 413902897101930497 WHO?: Now playing: Darude - Sandstorm - 3m 52s
+[who-bot] 265957683260030976 WHO?: 😉
+[who-bot] 326001774366294018 KillerM4ster: Shush
+[who-bot] 186186323869040640 Dread690: god damn it
+[who-bot] 265957683260030976 WHO?: you try it
+[who-bot] 265957683260030976 WHO?: any song you want
+[who-bot] 186186323869040640 Dread690: Gotcha ya
+[who-bot] 326001774366294018 KillerM4ster: WHO? you said that you was going to make the queue 😠
+[who-bot] 265957683260030976 WHO?: Killer join us
+[who-bot] 265957683260030976 WHO?: It's my second priority
+[who-bot] 265957683260030976 WHO?: first is the log stuff
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=FTQbiNvZqaY
+[who-bot] 413902897101930497 WHO?: Now playing: Toto - Africa (Video) - 4m 35s
+[who-bot] 265957683260030976 WHO?: YES
+[undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | *Beep Boop, Boop Beep*
+[undefined] 413902897101930497 WHO?: 
+[undefined] 265957683260030976 WHO?: !~~ smsg 186186323869040640 | *Beep Boop, Boop Beep*
+[undefined] 413902897101930497 WHO?: 
+[who-bot] 186186323869040640 Dread690: NO ONE CAN TAKE ME AWAY FROM YOU
+[undefined] 326001774366294018 KillerM4ster: Shh
+[undefined] 326001774366294018 KillerM4ster: I dont like you
+[who-bot] 265957683260030976 WHO?: Killer already did
+[undefined] 186186323869040640 Dread690: what the fuck
+[who-bot] 186186323869040640 Dread690: Baby NOOOOOOOOOo <:rooWhine:442070301463937024>
+[who-bot] 265957683260030976 WHO?: ```
+[who-bot] 186186323869040640 Dread690: NO ONE CAN TAKE ME AWAY FROM YOU
+[undefined] 326001774366294018 KillerM4ster: Shh
+[undefined] 326001774366294018 KillerM4ster: I dont like you
+[who-bot] 265957683260030976 WHO?: Killer already did
+[undefined] 186186323869040640 Dread690: what the fuck
+[who-bot] 186186323869040640 Dread690: Baby NOOOOOOOOOo :rooWhine:
+```
+[who-bot] 265957683260030976 WHO?: btw I can see what you two typed to the bot 😉
+[who-bot] 265957683260030976 WHO?: isn't that cool 😏
+[who-bot] 186186323869040640 Dread690: Ohhh no, NotLikeThis
+[who-bot] 265957683260030976 WHO?: Apparently Killer doesn't like my bot 🤔
+[who-bot] 186186323869040640 Dread690: oof, wait. Isnt that our IPs?
+[who-bot] 265957683260030976 WHO?: your ID's
+[who-bot] 265957683260030976 WHO?: 186186323869040640
+[who-bot] 186186323869040640 Dread690: Okay
+[who-bot] 265957683260030976 WHO?: <@186186323869040640>
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=ypCfdrARoLQ
+[who-bot] 413902897101930497 WHO?: Now playing: Doot with the Sickness - 53s
+[who-bot] 265957683260030976 WHO?: <@265957683260030976>
+[who-bot] 186186323869040640 Dread690: owwwwwwww
+[who-bot] 265957683260030976 WHO?: yeah some songs are louder for some reason
+[who-bot] 265957683260030976 WHO?: <@326001774366294018> why don't you like my bot?
+```
+[undefined] 326001774366294018 KillerM4ster: Shh
+[undefined] 326001774366294018 KillerM4ster: I dont like you
+```
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=XtAhISkoJZc
+[who-bot] 413902897101930497 WHO?: Now playing: chop suey but everything is a table - 3m 32s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/onjPLuZp6hY
+[who-bot] 413902897101930497 WHO?: Now playing: ERA - Ameno - 4m 13s
+[who-bot] 265957683260030976 WHO?: lol atm songs can cut off each other
+[who-bot] 186186323869040640 Dread690: my memes <:rooCry:399827523011084298>
+[who-bot] 186186323869040640 Dread690: do you hear anything
+[who-bot] 265957683260030976 WHO?: why does this song start after 30 seconds?
+[who-bot] 186186323869040640 Dread690: there it is
+[who-bot] 265957683260030976 WHO?: poopy youtube link
+[who-bot] 186186323869040640 Dread690: AMENO
+[undefined] 265957683260030976 WHO?: !~~ smsg 186186323869040640 | Copy and paste │║││║║│││║│║││║│ to me to redeem your WHO?s
+[undefined] 413902897101930497 WHO?: 
+[undefined] 186186323869040640 Dread690: │║││║║│││║│║││║│
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[who-bot] 413902897101930497 WHO?: Now playing: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[who-bot] 186186323869040640 Dread690: i've already gotten Rick rolled and I've been here for 10 minutes
+[who-bot] 186186323869040640 Dread690: !play │║││║║│││║│║││║│
+[who-bot] 413902897101930497 WHO?: Input a proper url.
+[who-bot] 186186323869040640 Dread690: shit
+[who-bot] 265957683260030976 WHO?: *not here*
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=pNkQMtZAMAw
+[who-bot] 413902897101930497 WHO?: Now playing: DOOM (2016) OST - BFG Division - 9m 3s
+[undefined] 186186323869040640 Dread690: │║││║║│││║│║││║│
+[who-bot] 186186323869040640 Dread690: Scary Dubstep
+[undefined] 265957683260030976 WHO?: !~~ smsg 186186323869040640 | Copy and paste "!redeem │║││║║│││║│║││║│" to redeem your WHO?s
+[undefined] 413902897101930497 WHO?: 
+[who-bot] 265957683260030976 WHO?: want some more dubstep?
+[undefined] 186186323869040640 Dread690: I ahve to do !redeem to. go fuck yourself
+[undefined] 186186323869040640 Dread690: │║││║║│││║│║││║│
+[undefined] 186186323869040640 Dread690: !redeem │║││║║│││║│║││║│
+[who-bot] 326001774366294018 KillerM4ster: <@413902897101930497> I said that just because I knew that you was reading it ;p
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/GKzsktuqwyU
+[who-bot] 413902897101930497 WHO?: Now playing: Knife Party - Centipede - 4m 6s
+[who-bot] 265957683260030976 WHO?: Ecks Deee
+[who-bot] 186186323869040640 Dread690: Love this song actuall
+[who-bot] 265957683260030976 WHO?: Killer ~~you didn't know until I told you~~ how did you guess?
+[who-bot] 265957683260030976 WHO?: This is loud
+[who-bot] 186186323869040640 Dread690: NOT LOUD ENOUGH <:rooBlind:399827524957241354>
+[who-bot] 265957683260030976 WHO?: That's a blind emoji you pleb
+[who-bot] 186186323869040640 Dread690: SHHHHHHHHH
+[who-bot] 186186323869040640 Dread690: THe master of plebs is here
+[who-bot] 265957683260030976 WHO?: 😮
+[who-bot] 186186323869040640 Dread690: well, online at least
+[who-bot] 265957683260030976 WHO?: <@132619618719105024> join us in WHO? Music for your favourite song
+[who-bot] 265957683260030976 WHO?: <@326001774366294018> you too you pansy
+[who-bot] 265957683260030976 WHO?: Dread are you even able to unmute yourself?
+[who-bot] 186186323869040640 Dread690: no
+[who-bot] 265957683260030976 WHO?: good
+[who-bot] 186186323869040640 Dread690: <:rooBlank:399827527289536512>
+[who-bot] 186186323869040640 Dread690: <:rooKek:399827499405541406> wasnt expecting that
+[who-bot] 265957683260030976 WHO?: good
+[who-bot] 265957683260030976 WHO?: love that end noise
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=NKTpWi5itOM
+[who-bot] 413902897101930497 WHO?: Now playing: Knife Party - Destroy Them With Lazers - 4m 57s
+[who-bot] 186186323869040640 Dread690: I love that way it sound wet
+[who-bot] 265957683260030976 WHO?: EWWW
+[who-bot] 265957683260030976 WHO?: this is the worst song in history :3
+[who-bot] 186186323869040640 Dread690: Bitch
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/plWGCUAlR2A
+[who-bot] 413902897101930497 WHO?: Now playing: [Drumstep] Teminite - Firepower - 4m 40s
+[who-bot] 265957683260030976 WHO?: turn up your volume for ear destruction
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=5bHimOJb-Xw
+[who-bot] 413902897101930497 WHO?: Now playing: Pomf Pomf With lyrics and Download - 2m 20s
+[who-bot] 186186323869040640 Dread690: No
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/plWGCUAlR2A
+[who-bot] 413902897101930497 WHO?: Now playing: [Drumstep] Teminite - Firepower - 4m 40s
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=5bHimOJb-Xw
+[who-bot] 413902897101930497 WHO?: Now playing: Pomf Pomf With lyrics and Download - 2m 20s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/uKxyLmbOc0Q
+[who-bot] 413902897101930497 WHO?: Now playing: Renai Circulation「恋愛サーキュレーション」歌ってみた【＊なみりん】 - 4m 15s
+[who-bot] 186186323869040640 Dread690: yep that one I was also gonna do
+[who-bot] 265957683260030976 WHO?: have you noticed the channel name above WHO? Music?
+[who-bot] 186186323869040640 Dread690: I have, thats a script right?
+[who-bot] 265957683260030976 WHO?: the whole bot is a script
+[who-bot] 265957683260030976 WHO?: but yes I made it show there so you can see the song without hearing it
+[who-bot] 186186323869040640 Dread690: well, a script in a script
+[who-bot] 186186323869040640 Dread690: Could you make another one that shows what would be playing next if you ever make a queue
+[who-bot] 265957683260030976 WHO?: ```
+let songInfo = (info.title + ' - ' + time).toString();
+let nameChannel = bot.channels.get('457363887822733313').setName(songInfo);
+```
+[who-bot] 265957683260030976 WHO?: I could make it show the top 3 songs in queue
+[who-bot] 186186323869040640 Dread690: Thats not too bad. I dont know scripts, but I've done web design.
+[who-bot] 265957683260030976 WHO?: this song is getting too weeby for me
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=f3IgwLT_mYc
+[who-bot] 413902897101930497 WHO?: Now playing: 【Mashup】 Everybody's Circulation - TMABird (Lyrics) - 3m 44s
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 186186323869040640 Dread690: It was a different song
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/G2NjmWRps28
+[who-bot] 413902897101930497 WHO?: Now playing: Ed, Edd, n Eddy Theme {EARRAPE} - 30s
+[who-bot] 186186323869040640 Dread690: WHY does this exist
+[who-bot] 265957683260030976 WHO?: because it's a meme
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 265957683260030976 WHO?: ok you can play songs while I try making the queue
+[who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=YgGzAKP_HuM
+[who-bot] 413902897101930497 WHO?: Now playing: RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband - 3m 58s
+[who-bot] 186186323869040640 Dread690: I actually have to go soon. Im like two minutes
+[who-bot] 265957683260030976 WHO?: Good so I can test the queue 😛
+[who-bot] 186186323869040640 Dread690: yes
+[who-bot] 186186323869040640 Dread690: Ayyy, Ill see ya. leaving now
+[who-bot] 186186323869040640 Dread690: HEY HEY HEY HEY HEY
+[who-bot] 265957683260030976 WHO?: enjoy your slumber
+[who-bot] 186186323869040640 Dread690: Im going out with a friend not sleeping
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: too bad I said ENJOY YOUR SLUMBER
+[who-bot] 186186323869040640 Dread690: FINE <:roo4:399827497237217280>
+[undefined] 265957683260030976 WHO?: !~~ smsg 234092910490943488 | Hello there little one. You are welcomed to the bright lands of WHO? https://discordapp.com/pfcYwP7

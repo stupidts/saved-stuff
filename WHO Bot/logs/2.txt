@@ -1,0 +1,813 @@
+[who2] 265957683260030976 WHO?: Test
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/y6120QOlsfU
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/GDpmVUEjagg
+[who-bot] 413902897101930497 WHO?: Now playing: Daft Punk - Harder, Better, Faster, Stronger - 3m 44s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/y6120QOlsfU
+[who-bot] 413902897101930497 WHO?: Now playing: Darude - Sandstorm - 3m 52s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/5r1LBJK0zxo
+[who-bot] 413902897101930497 WHO?: Now playing: Initial D 5th Stage Soundtrack  GAS GAS GAS - 4m 32s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/dv13gl0a-FA
+[who-bot] 413902897101930497 WHO?: Now playing: Initial D - Deja Vu - 4m 24s
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 265957683260030976 WHO?: almost
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/dv13gl0a-FA
+[who-bot] 413902897101930497 WHO?: Now playing: Initial D - Deja Vu - 4m 24s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/5r1LBJK0zxo
+[who-bot] 413902897101930497 WHO?: Now playing: Initial D 5th Stage Soundtrack  GAS GAS GAS - 4m 32s
+[who-bot] 265957683260030976 WHO?: oh 😮
+[who-bot] 265957683260030976 WHO?: now we wait for this song to end
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/EAwWPadFsOA
+[who-bot] 413902897101930497 WHO?: Now playing: Mortal Kombat Theme Song Original - 4m 46s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[who-bot] 413902897101930497 WHO?: Now playing: ERA - Ameno - 3m 51s
+[general] 265957683260030976 WHO?: Welcome <@234092910490943488> to the best server in town
+[general] 234092910490943488 Bugamashoo: k
+[general] 265957683260030976 WHO?: -_-
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[who-bot] 413902897101930497 WHO?: Now playing: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[TStart][who2] 265957683260030976 WHO?
+[who2] 265957683260030976 WHO?: Test
+[TStop][who2] 265957683260030976 WHO?
+[Update Old][who2] 265957683260030976 WHO?: Test
+
+                  [Update New][who2] 265957683260030976 WHO?: TesT[TStart][who2] 265957683260030976 WHO?
+[who2] 265957683260030976 WHO?: apple
+[Update Old][who2] 265957683260030976 WHO?: apple
+[Update New][who2] 265957683260030976 WHO?: Apple[TStop][who2] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[general] 265957683260030976 WHO?: WOOP
+[TStop][general] 265957683260030976 WHO?
+[Update Old][general] 265957683260030976 WHO?: WOOP
+[Update New][general] 265957683260030976 WHO?: Hello there[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[general] 265957683260030976 WHO?: bbb
+[Update Old][general] 265957683260030976 WHO?: bbb
+[Update New][general] 265957683260030976 WHO?: (edited)
+[Update Old][general] 265957683260030976 WHO?: (edited)
+[Update New][general] 265957683260030976 WHO?: (edited)
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[general] 265957683260030976 WHO?: wdyw Killer
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[PresOld] 265957683260030976 undefined#undefined
+[PresNew] 265957683260030976 undefined#undefined
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: <@326001774366294018>
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ? '-'
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 265957683260030976 WHO?: change your nickname
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Why
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 265957683260030976 WHO?: just do it
+[TStop][general] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: so is it working?
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[PresOld] 326001774366294018 KillerM4ster#8793
+[PresNew] 326001774366294018 KillerM4ster#8793
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: ._.
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][who-bot] 265957683260030976 WHO?: The music is buggy so avoid using it
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: k
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: try again Killer
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ~~it's a log thing~~
+[TStop][general] 265957683260030976 WHO?
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: '-'
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: It's not muted ._.
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: it still says your nickname is KillerM4ster in the logs
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: '-'
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: nvm it's undefined -_-
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: killerm1nt? hmmm its a 'fresh' new take on your name
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Welp
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: KillerM4ster
+KillerM0nster
+KillerM3me
+KillerM1nt
+[Message][general] 326001774366294018 KillerM4ster: I need more names
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 356865266732367873 Brutanian: ¬v¬
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 265957683260030976 WHO?: ```
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: nvm it's undefined -_-
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: killerm1nt? hmmm its a 'fresh' new take on your name
+[TStop][general] 356865266732367873 Brutanian
+```
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: whaaat?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: [GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: that's the part that should say your old and new nickname
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: TStart and TStart is typing start and typing stop
+[Message][general] 356865266732367873 Brutanian: ```css
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: nvm it's undefined -_-
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+[TStop][general] 356865266732367873 Brutanian: Now this is colourful
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: killerm1nt? hmmm its a 'fresh' new take on your name
+[TStop][general] 356865266732367873 Brutanian
+```
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: oof
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: so much prettier
+[Message][general] 326001774366294018 KillerM4ster: What's that format?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ```diff
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+```
+[TStop][general] 265957683260030976 WHO?
+[UpdateOld][general] 265957683260030976 WHO?: ```diff
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```fix
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+```
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Oh
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: It's the same format from my server wait
+[UpdateOld][general] 265957683260030976 WHO?: ```fix
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```css
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+```
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: css
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Yeah
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: lol
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Now show the log :p
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ```fix
+[UpdateNew][general] 265957683260030976 WHO?: ```css
+[GMUpdateOld] 326001774366294018 undefined
+[GMUpdateNew] 326001774366294018 undefined
+```
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: css
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+```
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ._.
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: wait... logception doesn't work when it logs ``
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: whats the yellow format?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: fix
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 265957683260030976 WHO?: ```fix
+fix
+```
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: ```fix
+pineapple
+```
+[Message][general] 265957683260030976 WHO?: ```html
+html
+```
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 356865266732367873 Brutanian: hmm cool
+[TStop][general] 356865266732367873 Brutanian
+[UpdateOld][general] 265957683260030976 WHO?: ```html
+html
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```php
+php
+```
+[UpdateOld][general] 265957683260030976 WHO?: ```php
+php
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```log
+log
+```
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: I forgot yellow and red
+[Delete][general] 265957683260030976 WHO?: ```log
+log
+```
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[GMUpdateOld] 356865266732367873 undefined
+[GMUpdateNew] 356865266732367873 undefined
+[Message][general] 265957683260030976 WHO?: ```diff
+---grey
++green
+-red
+```
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: cool
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[GMUpdateOld] 356865266732367873 undefined
+[GMUpdateNew] 356865266732367873 undefined
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ```md
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: css
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+```
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 356865266732367873 Brutanian: whats that format?
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 265957683260030976 WHO?: ```md
+md
+```
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: im still geting used to formats
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: ```md
+mandatory
+```
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[UpdateOld][general] 265957683260030976 WHO?: ```md
+md
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```md
+[XD][general] rawr
+```
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[UpdateOld][general] 265957683260030976 WHO?: ```md
+[XD][general] rawr
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```md
+[XD][general][rawr]
+```
+[Message][general] 326001774366294018 KillerM4ster: ```md
+[Mega][Doh] ._.
+```
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: ```-red
+hmm
+```
+[UpdateOld][general] 326001774366294018 KillerM4ster: ```md
+[Mega][Doh] ._.
+```
+[UpdateNew][general] 326001774366294018 KillerM4ster: ```md
+[Mega][D'oh] ._.
+```
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: [UpdateOld][general] 326001774366294018 KillerM4ster: ```md
+[Mega][Doh] ._.
+```
+[UpdateNew][general] 326001774366294018 KillerM4ster: ```md
+[Mega][D'oh] ._.
+```
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: XD
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 265957683260030976 WHO?: I now have editing history
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: OMG LOOK THE DIFFERENCE
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 265957683260030976 WHO?: now delete something
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Woah, it will kill me oh no
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: my point is that I only had message logs but now I have everything
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: delete this
+[Delete][general] 265957683260030976 WHO?: delete this
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: Now turn your bot off
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ```css
+[Message][general] 265957683260030976 WHO?: delete this
+[Delete][general] 265957683260030976 WHO?: delete this
+```
+[UpdateOld][general] 265957683260030976 WHO?: ```css
+[Message][general] 265957683260030976 WHO?: delete this
+[Delete][general] 265957683260030976 WHO?: delete this
+```
+[UpdateNew][general] 265957683260030976 WHO?: ```md
+[Message][general] 265957683260030976 WHO?: delete this
+[Delete][general] 265957683260030976 WHO?: delete this
+```
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: I don't need to turn it off
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ~~actually I do because nicknames are still undefined
+[TStop][general] 265957683260030976 WHO?
+[UpdateOld][general] 265957683260030976 WHO?: ~~actually I do because nicknames are still undefined
+[UpdateNew][general] 265957683260030976 WHO?: ~~actually I do because nicknames are still undefined~~
+[GMUpdateOld] 265957683260030976 null
+[GMUpdateNew] 265957683260030976 kasdgbfbklbsgm, gh
+[GMUpdateOld] 265957683260030976 kasdgbfbklbsgm, gh
+[GMUpdateNew] 265957683260030976 null
+[GMUpdateOld] 265957683260030976 undefined
+[GMUpdateNew] 265957683260030976 KillerF4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: Yo
+[TStop][general] 265957683260030976 WHO?
+[GMUpdateOld] 265957683260030976 KillerF4ster
+[GMUpdateNew] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ```md
+[GMUpdateOld] 265957683260030976 null
+[GMUpdateNew] 265957683260030976 kasdgbfbklbsgm, gh
+[GMUpdateOld] 265957683260030976 kasdgbfbklbsgm, gh
+[GMUpdateNew] 265957683260030976 null
+[GMUpdateOld] 265957683260030976 undefined
+[GMUpdateNew] 265957683260030976 KillerF4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: Yo
+[TStop][general] 265957683260030976 WHO?
+[GMUpdateOld] 265957683260030976 KillerF4ster
+[GMUpdateNew] 265957683260030976 WHO?
+```
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Your formats are failing
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: it's not failing
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: it's just that there's only one set of [] where it won't change colour
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: you have to have [] [] two to change colour
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: It's failing
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: Get a better one
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: 🇴 0⃣ 🇫
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ```css
+[GMUpdateOld] 265957683260030976 null
+[GMUpdateNew] 265957683260030976 kasdgbfbklbsgm, gh
+[GMUpdateOld] 265957683260030976 kasdgbfbklbsgm, gh
+[GMUpdateNew] 265957683260030976 null
+[GMUpdateOld] 265957683260030976 undefined
+[GMUpdateNew] 265957683260030976 KillerF4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: Yo
+[TStop][general] 265957683260030976 WHO?
+[GMUpdateOld] 265957683260030976 KillerF4ster
+[GMUpdateNew] 265957683260030976 WHO?
+```
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ```md
+[Message][general] 265957683260030976 WHO?: it's just that there's only one set of [] where it won't change colour
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: you have to have [] [] two to change colour
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: It's failing
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: Get a better one
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: ðŸ‡´ 0âƒ£ ðŸ‡«
+[TStop][general] 326001774366294018 KillerM4ster
+```
+[Message][general] 326001774366294018 KillerM4ster: Look this beautiful blue
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 265957683260030976 WHO?: it works fine with two [] []
+[TStop][general] 265957683260030976 WHO?
+[UpdateOld][general] 356865266732367873 Brutanian: 🇴 0⃣ 🇫
+[UpdateNew][general] 356865266732367873 Brutanian: 🇸 0⃣ 🇷 🇷 🇾
+[Message][general] 326001774366294018 KillerM4ster: LOOK THIS BEAUTIFUL BLUE
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: bleh
+[Message][general] 265957683260030976 WHO?: for normal users it's yellow
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Kek
+[Message][general] 326001774366294018 KillerM4ster: I'm colorblind
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: really...
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Hmm wtf
+[Message][general] 265957683260030976 WHO?: no level of colourblindness can make you see a completely opposite colour
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: KillerF4ster
+[Message][general] 326001774366294018 KillerM4ster: ._.
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: 😉
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: BOY
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: IT NEED TO HAVE A M
+[Message][general] 326001774366294018 KillerM4ster: KillerM______
+[Message][general] 326001774366294018 KillerM4ster: NOT F
+[TStop][general] 326001774366294018 KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: KillerM4ster
+KillerF4ster
+KillerF4ter
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: WHO? is gat
+[TStop][general] 326001774366294018 KillerM4ster
+[UpdateOld][general] 326001774366294018 KillerM4ster: WHO? is gat
+[UpdateNew][general] 326001774366294018 KillerM4ster: WHO? is gay
+[Delete][general] 326001774366294018 KillerM4ster: WHO? is gay
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Done
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Now there's 2 messages in the log 😉
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: i saws thatss
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: ```css
+[Message][general] 326001774366294018 KillerM4ster: WHO? is gat
+[TStop][general] 326001774366294018 KillerM4ster
+[UpdateOld][general] 326001774366294018 KillerM4ster: WHO? is gat
+[UpdateNew][general] 326001774366294018 KillerM4ster: WHO? is gay
+[Delete][general] 326001774366294018 KillerM4ster: WHO? is gay
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Done
+```
+[Message][general] 326001774366294018 KillerM4ster: WHO? saw that too
+[TStop][general] 326001774366294018 KillerM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: sit down fool
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: ik
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: <@&457557793101316096>
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ._.
+[Message][general] 265957683260030976 WHO?: bully Killer
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: what...
+[Message][general] 326001774366294018 KillerM4ster: Boy again?
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: Why?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: Oh god WHO?
+[Message][general] 326001774366294018 KillerM4ster: Hmm
+[Message][general] 265957683260030976 WHO?: you're disrespecting WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: God is a pleb at your side
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: Not the good god
+[Message][general] 265957683260030976 WHO?: Rule #2 Killer
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: The bad god
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: ¬-¬ I will just sit here and watch
+[TStop][general] 356865266732367873 Brutanian
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][undefined] 326001774366294018 KillerM4ster: Rule 3 and 4
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: You may have your role back once you appoligise
+[TStop][general] 265957683260030976 WHO?
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[GMUpdateOld] 326001774366294018 MadM4ster
+[GMUpdateNew] 326001774366294018 MadM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: good enough
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: You broke the rule 4
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: how?
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: yes it did
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 265957683260030976 WHO?: look at rule 5
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: 4) Don't bully noobs **no matter how bad they are**
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: 5) Bully anyone who breaks rule 2 (Even plebs and noobs)
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: 
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 326001774366294018 KillerM4ster: 
+[Message][general] 265957683260030976 WHO?: is that your potato?
+[Message][general] 326001774366294018 KillerM4ster: The rule is breaking the rule
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: <:KillerM4ster:429061124667867136>  <:KillerM4ster:429061124667867136>  <:KillerM4ster:429061124667867136>  <:KillerM4ster:429061124667867136>  <:KillerM4ster:429061124667867136>
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ._.
+[TStop][general] 326001774366294018 KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster undefined MadM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster undefined KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: 👨‍👨‍👦‍👦
+[Delete][general] 326001774366294018 KillerM4ster: 👨‍👨‍👦‍👦
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: What does this even mean?
+[Message][general] 326001774366294018 KillerM4ster: ðŸ‘¨â€ðŸ‘¨â€ðŸ‘¦â€ðŸ‘¦
+[Delete][general] 326001774366294018 KillerM4ster: ðŸ‘¨â€ðŸ‘¨â€ðŸ‘¦â€ðŸ‘¦
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 356865266732367873 Brutanian: hehe
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: hehe
+[Message][general] 265957683260030976 WHO?: wtf is this? ðŸ‘¨â€ðŸ‘¨â€ðŸ‘¦â€ðŸ‘¦
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Brutanian have a role but dont have permissions
+[Message][general] 326001774366294018 KillerM4ster: :P]
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: what permissions?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: Y͛͛̚o̍̌͒ù͐͑ c͗̏͞â̈̅n̋̋͗'̋̓̄t̀͗̒ D͗̾͘e̾̔͝f͌̀͞e̓͆̾ã̈́̚t̀̈̕ y̿́͘ó͌͠ü̑͡ȓ̓̓ Ổ͊v͛͊͆e̒̏̿r̛͗͡l͋̚̕o̍̾͠r̎̑̇d̒͒̽
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: YÌšÍ›Í›oÌÌŒÍ’uÌ€ÍÍ‘ cÍžÍ—ÌaÌ‚ÌˆÌ…nÌ‹Ì‹Í—'Ì‹ÍƒÌ„tÌ€Í—Ì’ DÍ—Ì¾Í˜eÌ¾ÍÌ”fÍŒÍžÌ€eÍƒÍ†Ì¾aÌƒÌšÍ„tÌ•Í€Ìˆ yÌ¿ÌÍ˜oÌÍ ÍŒuÌˆÍ¡Ì‘rÌ‘ÍƒÌ“ OÌ‚Ì‰ÍŠvÍ›ÍŠÍ†eÌ’ÌÌ¿rÍ¡Í—Ì›lÍ‹ÌšÌ•oÌÌ¾Í rÌŽÌ‘Ì‡dÌ’Í’Ì½
+[Message][general] 265957683260030976 WHO?: nice
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: o̅̌͐o͂̅̾ò̽̌ö́͊͠o̅͐̉õ̾̕ǒ͘͡h́͒̏ l̄̉̊o͂̆͝o̎́͐k̛̃̉ s͗͆̾c̈̕̚a̋͆̊r̽̌̔y̐́̿ t̉́̒e̛͋̋x̛̐̐t̉̂̃
+[Message][general] 326001774366294018 KillerM4ster: Potato my boy
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: ```
+o̅̌͐o͂̅̾ò̽̌ö́͊͠o̅͐̉õ̾̕ǒ͘͡h́͒̏ l̄̉̊o͂̆͝o̎́͐k̛̃̉ s͗͆̾c̈̕̚a̋͆̊r̽̌̔y̐́̿ t̉́̒e̛͋̋x̛̐̐t̉̂̃
+```
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 265957683260030976 WHO?: t   ext
+[Message][general] 326001774366294018 KillerM4ster: ᴾᵒᵗᵃᵗᵒ
+[Message][general] 326001774366294018 KillerM4ster: Ｐｏｔａｔｏ
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 356865266732367873 Brutanian: exactly
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: Ｐｏｔａｔｏ
+[Message][general] 326001774366294018 KillerM4ster: POTATO
+[Message][general] 326001774366294018 KillerM4ster: ᴘᴏᴛᴀᴛᴏ
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: ᴾᵒᵗᵃᵗᵒ
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: oʇɐʇoԀ
+[Message][general] 356865266732367873 Brutanian: ᴘᴏᴛᴀᴛᴏ
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: Ԁoʇɐʇo
+[Message][general] 326001774366294018 KillerM4ster: ├
+[Message][general] 326001774366294018 KillerM4ster: ┬
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: ¥
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 326001774366294018 KillerM4ster: ¦
+[Message][general] 356865266732367873 Brutanian: fine u vin
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster

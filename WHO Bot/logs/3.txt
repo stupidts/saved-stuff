@@ -1,0 +1,2216 @@
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: Killer do your fancy potato thing again
+[TStart][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 356865266732367873 Brutanian: 
+[TStop][general] 326001774366294018 KillerM4ster
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: I said fancy not autistic
+[Delete][general] 356865266732367873 Brutanian: 
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 356865266732367873 Brutanian
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 356865266732367873 Brutanian: autistic XD
+[Message][general] 326001774366294018 KillerM4ster: Which one?
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: any
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: >_>
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: POTATO
+ᴘᴏᴛᴀᴛᴏ
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ᴾᵒᵗᵃᵗᵒ  k  ᴘᴏᴛᴀᴛᴏ  k  Ｐｏｔａｔｏ  k  oʇɐʇoԀ
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: alright this one is better
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: [Message][general] 356865266732367873 Brutanian: POTATO
+ᴘᴏᴛᴀᴛᴏ
+[TStart][general] 326001774366294018 KillerM4ster
+[TStop][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: ᴾᵒᵗᵃᵗᵒ  k  ᴘᴏᴛᴀᴛᴏ  k  Ｐｏｔａｔｏ  k  oʇɐʇoԀ
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: alright this one is better
+[TStop][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Hm?
+[TStart][general] 356865266732367873 Brutanian
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: oh is who bot working?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 356865266732367873 Brutanian
+[Message][general] 265957683260030976 WHO?: I changed the encoding from ascii to utf8 again
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 326001774366294018 KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Hm
+[TStop][general] 326001774366294018 KillerM4ster
+[TStart][general] 356865266732367873 Brutanian
+[Message][general] 356865266732367873 Brutanian: so Y/N
+[TStop][general] 356865266732367873 Brutanian
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: No 🤦
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: [Message][general] 356865266732367873 Brutanian: oh is who bot working?
+[TStop][general] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=IbQdws6zgKg
+[Message][who-bot] 413902897101930497 WHO?: Please connect to the <#457390433446920193> voice channel.
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=IbQdws6zgKg
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=IbQdws6zgKg
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: try again
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: TRY AGAIN
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: k
+[Message][who-bot] 356865266732367873 Brutanian: https://www.youtube.com/watch?v=IbQdws6zgKg
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=IbQdws6zgKg
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Super Mario Bros Using Roblox Death Sound!!! - 1m 17s
+[TStop][who-bot] 356865266732367873 Brutanian
+[Delete][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=IbQdws6zgKg
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mMMRGJCFsQE
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Foxsky - Kirby Smash - 3m 53s
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mMMRGJCFsQE
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mMMRGJCFsQE
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: that's how the queue works right now....
+[TStart][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=0s
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=0s
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=0s
+[Message][who-bot] 265957683260030976 WHO?: it just restarts the first song and I don't think it will actually switch songs once that one is over
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Icona Pop - All Night (TheFatRat Remix) - 4m 2s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: now let's just wait for roblox to finish
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: k...?
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: see what happens?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mMMRGJCFsQE
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Foxsky - Kirby Smash - 3m 53s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: and then if you search another song it just plays the original only
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mMMRGJCFsQE
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Foxsky - Kirby Smash - 3m 53s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: nope
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=0s
+[TStop][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Icona Pop - All Night (TheFatRat Remix) - 4m 2s
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: oh yeah
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: lol
+[Message][who-bot] 356865266732367873 Brutanian: !stop
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 356865266732367873 Brutanian: weird
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: lemme remove the queue thing and it will be default
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: k
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: tell me wen u don
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play let songInfo = (info.title + ' - ' + time).toString();
+      let nameChannel = bot.channels.get('458325269141258250').setName(songInfo);
+[Message][who-bot] 413902897101930497 WHO?: Input a proper url.
+[Delete][who-bot] 265957683260030976 WHO?: !play let songInfo = (info.title + ' - ' + time).toString();
+      let nameChannel = bot.channels.get('458325269141258250').setName(songInfo);
+[TStop][who-bot] 265957683260030976 WHO?
+[Delete][who-bot] 413902897101930497 WHO?: Input a proper url.
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: *cough* nothing
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: lol
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mMMRGJCFsQE
+[TStop][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Foxsky - Kirby Smash - 3m 53s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: kirby's my favourite smash character
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: btw that code just sets the title for the channels above
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/15JCb6P60Vw
+[TStop][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Dragonforce - Through the Fire and Flames(Lyrics) - 7m 24s
+[TStop][who-bot] 265957683260030976 WHO?
+[GMUpdateOld] 346139990721298434 Brent Da Mage undefined 𝔹𝕣𝕖𝕟𝕥 𝔻𝕒 𝕄𝕒𝕘𝕖
+[GMUpdateNew] 346139990721298434 Brent Da Mage undefined Brent Da Pleb
+[TStart][general] 265957683260030976 WHO?
+[TStop][general] 265957683260030976 WHO?
+[TStart][general] 265957683260030976 WHO?
+[Message][general] 265957683260030976 WHO?: <@!346139990721298434> wot?
+[TStop][general] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/FTQbiNvZqaY
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Toto - Africa (Video) - 4m 35s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 346139990721298434 Brent Da Mage
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 346139990721298434 Brent Da Mage
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 346139990721298434 Brent Da Mage
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://youtu.be/wuJIqmha2Hk
+[UpdateOld][who-bot] 346139990721298434 Brent Da Mage: !play https://youtu.be/wuJIqmha2Hk
+[UpdateNew][who-bot] 346139990721298434 Brent Da Mage: !play https://youtu.be/wuJIqmha2Hk
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Mr. Blue Sky - 5m 2s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 346139990721298434 Brent Da Mage
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 346139990721298434 Brent Da Mage
+[Message][who-bot] 346139990721298434 Brent Da Mage: oh, that overrides the current song?
+[TStop][who-bot] 346139990721298434 Brent Da Mage
+[Message][who-bot] 346139990721298434 Brent Da Mage: I thought it was a queue.
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: nope the queue doesn't work properly yet
+[TStart][who-bot] 346139990721298434 Brent Da Mage
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 346139990721298434 Brent Da Mage: :\
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[TStop][who-bot] 346139990721298434 Brent Da Mage
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=1s
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=1s
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=gj02xd7CT0s&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=13&t=1s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Icona Pop - All Night (TheFatRat Remix) - 4m 2s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: if the bot ever gets stuck just do !stop
+[TStart][who-bot] 356865266732367873 Brutanian
+[Message][who-bot] 356865266732367873 Brutanian: k
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: <https://youtu.be/-u_D3afnK7U> this one next
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[TStop][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: btw requesting a whole playlist will only play the one song which is good
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/-u_D3afnK7U
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/-u_D3afnK7U
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/-u_D3afnK7U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Cave Story Arranged - Last Battle (Ballos Mix) - 6m 26s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[TStop][who-bot] 265957683260030976 WHO?
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Lol :p
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 265957683260030976 WHO?
+[TStop][kek-club] 265957683260030976 WHO?
+[TStart][kek-club] 265957683260030976 WHO?
+[Message][kek-club] 265957683260030976 WHO?: wtf was this Hyron?
+```css
+[TStart][who-bot] 356865266732367873 Brutanian
+[TStop][who-bot] 356865266732367873 Brutanian
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Lol :p
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+```
+[TStop][kek-club] 265957683260030976 WHO?
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Wtf
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 265957683260030976 WHO?
+[TStop][kek-club] 265957683260030976 WHO?
+[TStart][kek-club] 265957683260030976 WHO?
+[Message][kek-club] 265957683260030976 WHO?: how many times did you fail at typing lol ?
+[TStop][kek-club] 265957683260030976 WHO?
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Was going to type longer message but gave up
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Then lol
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Also can I lag the bot doing this
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[TStart][kek-club] 239889458693013506 ♫Hyron♫
+[TStop][kek-club] 239889458693013506 ♫Hyron♫
+[Message][kek-club] 239889458693013506 ♫Hyron♫: Mom
+[Message][general] 265957683260030976 WHO?: OI who's typing?
+[Message][general] 186186323869040640 Dread690: OI
+[Message][general] 356865266732367873 Brutanian: Moist
+[Message][general] 326001774366294018 KillerM4ster: POTATO HAHAHAHA
+[Message][general] 265957683260030976 WHO?: Does anyone want to come to my place and we can all get moist together 😉
+[Message][general] 356865266732367873 Brutanian: moist potatos
+[Message][general] 356865266732367873 Brutanian: i want some nice moist potatos
+[Message][general] 326001774366294018 KillerM4ster: Let me open google translate first wait
+[Message][general] 265957683260030976 WHO?: 🤦
+[Message][general] 326001774366294018 KillerM4ster: Uhh
+[Delete][general] 265957683260030976 WHO?: 🤦
+[Message][general] 265957683260030976 WHO?: k
+[Message][general] 326001774366294018 KillerM4ster: ._.
+[Message][general] 356865266732367873 Brutanian: ¬v¬
+[Message][general] 326001774366294018 KillerM4ster: Now Ik what is moist :p
+[Message][general] 186186323869040640 Dread690: cuse me
+[Message][general] 356865266732367873 Brutanian: like my ****
+[UpdateOld][general] 356865266732367873 Brutanian: like my ****
+[UpdateNew][general] 356865266732367873 Brutanian: like my ********
+[Message][general] 265957683260030976 WHO?: __--__
+[Message][general] 326001774366294018 KillerM4ster: ʰᵉʰᵉ
+[UpdateOld][general] 356865266732367873 Brutanian: like my ********
+[UpdateNew][general] 356865266732367873 Brutanian: like my **********
+[UpdateOld][general] 265957683260030976 WHO?: __--__
+[UpdateNew][general] 265957683260030976 WHO?: __-__
+[UpdateOld][general] 356865266732367873 Brutanian: like my **********
+[UpdateNew][general] 356865266732367873 Brutanian: like my xxxx
+[Message][general] 326001774366294018 KillerM4ster: ʸᵒᵘ ˡᶦᵏᵉ ᵖᵒᵗᵃᵗᵒˢ?
+[Message][general] 326001774366294018 KillerM4ster: ᴹᵒᶦˢᵗ ᵖᵒᵗᵃᵗᵒˢ
+[Message][general] 356865266732367873 Brutanian: not that big
+[Message][general] 265957683260030976 WHO?: __~~-~~__
+[Message][general] 326001774366294018 KillerM4ster: ＹＯＵ　ＬＩＫＥ　ＭＯＩＳＴ　ＰＯＴＡＴＯＳ？
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][general] 356865266732367873 Brutanian: ＹＥＳ
+[Message][general] 265957683260030976 WHO?: anyone wanna join me in WHO? Music?
+[Message][general] 356865266732367873 Brutanian: depnds
+[Message][general] 326001774366294018 KillerM4ster: <@356865266732367873> ##YOU TOOK SO MUCH TO SAY YES??##
+[Message][general] 326001774366294018 KillerM4ster: 😉
+[Message][general] 265957683260030976 WHO?: because copy paste
+[Message][general] 326001774366294018 KillerM4ster: '-'
+[Message][general] 326001774366294018 KillerM4ster: CoPy PaStE?
+[Message][general] 356865266732367873 Brutanian: i had a lot of c+ctrl v+ctrl
+[Message][general] 326001774366294018 KillerM4ster: I saw that ## is ugly
+[Message][general] 326001774366294018 KillerM4ster: I'll remove it
+[UpdateOld][general] 326001774366294018 KillerM4ster: <@356865266732367873> ##YOU TOOK SO MUCH TO SAY YES??##
+[UpdateNew][general] 326001774366294018 KillerM4ster: <@356865266732367873> YOU TOOK SO MUCH TO SAY YES??
+[Message][general] 265957683260030976 WHO?: oi oi oi oi oi
+[Message][general] 326001774366294018 KillerM4ster: ?
+[Message][general] 326001774366294018 KillerM4ster: \😐
+[Message][general] 326001774366294018 KillerM4ster: \💥
+[Message][general] 265957683260030976 WHO?: !stats
+[Message][general] 413902897101930497 WHO?: 
+[UpdateOld][general] 413902897101930497 WHO?: 
+[UpdateNew][general] 413902897101930497 WHO?: 
+[Message][general] 326001774366294018 KillerM4ster: !stats
+[Message][general] 326001774366294018 KillerM4ster: '-'
+[Message][general] 265957683260030976 WHO?: ok I can do bot commands but the bot avatar doesn't load 🤔
+[Delete][general] 413902897101930497 WHO?: 
+[Message][general] 326001774366294018 KillerM4ster: \👎
+[Message][general] 265957683260030976 WHO?: Only I can use the bot in other channels you pizza pleb
+[Message][general] 326001774366294018 KillerM4ster: \🍕
+[Message][general] 265957683260030976 WHO?: [Message][general] 326001774366294018 KillerM4ster: \🍕
+[Message][general] 326001774366294018 KillerM4ster: >:)
+[Message][general] 326001774366294018 KillerM4ster: 🍕
+[Message][general] 265957683260030976 WHO?: it's the same thing
+[Message][general] 326001774366294018 KillerM4ster: No
+[Message][general] 326001774366294018 KillerM4ster: 🍕
+[Message][general] 326001774366294018 KillerM4ster: \🍕
+[Message][general] 265957683260030976 WHO?: [Message][general] 265957683260030976 WHO?: [Message][general] 326001774366294018 KillerM4ster: \🍕
+[Message][general] 326001774366294018 KillerM4ster: >:)
+[Message][general] 326001774366294018 KillerM4ster: 🍕
+[Message][general] 265957683260030976 WHO?: it's the same thing
+[Message][general] 326001774366294018 KillerM4ster: No
+[Message][general] 265957683260030976 WHO?: on discord it isn't but in the logs it is
+[Delete][general] 265957683260030976 WHO?: [Message][general] 265957683260030976 WHO?: [Message][general] 326001774366294018 KillerM4ster: \🍕
+[Message][general] 326001774366294018 KillerM4ster: >:)
+[Message][general] 326001774366294018 KillerM4ster: 🍕
+[Message][general] 265957683260030976 WHO?: it's the same thing
+[Message][general] 326001774366294018 KillerM4ster: No
+[Message][general] 326001774366294018 KillerM4ster: ?
+[Message][general] 326001774366294018 KillerM4ster: What you're talking about
+[Message][general] 265957683260030976 WHO?: CaN yOu ReAd?
+[Message][general] 326001774366294018 KillerM4ster: No
+[UpdateOld][general] 265957683260030976 WHO?: on discord it isn't but in the logs it is
+[UpdateNew][general] 265957683260030976 WHO?: on discord it isn't but in the logs it isn't
+[Message][general] 265957683260030976 WHO?: then git gud before kweschining me
+[UpdateOld][general] 265957683260030976 WHO?: on discord it isn't but in the logs it isn't
+[UpdateNew][general] 265957683260030976 WHO?: on discord it is but in the logs it isn't
+[Message][general] 326001774366294018 KillerM4ster: I'm already good
+[UpdateOld][general] 326001774366294018 KillerM4ster: No
+[UpdateNew][general] 326001774366294018 KillerM4ster: No
+[Message][general] 265957683260030976 WHO?: 
+[Delete][general] 265957683260030976 WHO?: 
+[Message][general] 326001774366294018 KillerM4ster: BETTER THAN MY DOG
+[UpdateOld][general] 326001774366294018 KillerM4ster: No
+[UpdateNew][general] 326001774366294018 KillerM4ster: No
+[Message][general] 326001774366294018 KillerM4ster: What happen if I delete a pinned message?
+[Message][general] 356865266732367873 Brutanian: ~~i was doing ur dog~~ you has a dog?
+[Message][general] 326001774366294018 KillerM4ster: I have 5 dogs
+[Message][general] 326001774366294018 KillerM4ster: But 2 died so I have 3
+[Message][general] 265957683260030976 WHO?: you has 5 dogs
+[Message][general] 265957683260030976 WHO?: nvm you only has 3
+[Message][general] 356865266732367873 Brutanian: i has 1 but i did have 3
+[Message][general] 265957683260030976 WHO?: Who needs a dog when you can just have a pet flock of Geese
+[Message][general] 326001774366294018 KillerM4ster: Who need a dog when you have WHO?
+[UpdateOld][general] 326001774366294018 KillerM4ster: Who need a dog when you have WHO?
+[UpdateNew][general] 326001774366294018 KillerM4ster: Who needs a dog when you have WHO?
+[Message][general] 356865266732367873 Brutanian: dog need a who when you have a moist
+[Message][general] 265957683260030976 WHO?: **I am not your pet, pizza pleb**
+[Message][general] 326001774366294018 KillerM4ster: **You're not my pet, WHO? pleb**
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[Message][general] 265957683260030976 WHO?: **HOW DARE YOU CALL ME A PLEB**
+[Message][general] 326001774366294018 KillerM4ster: **I'm not**
+[Message][general] 326001774366294018 KillerM4ster: **I'm saying that you're your own pleb**
+[Message][general] 265957683260030976 WHO?: **I AM NOT A PLEB**
+[Message][general] 326001774366294018 KillerM4ster: **You're a mod**
+[Message][general] 265957683260030976 WHO?: **You're a bum :P**
+[Message][general] 326001774366294018 KillerM4ster: **You're... WHAT?*
+[UpdateOld][general] 326001774366294018 KillerM4ster: **You're... WHAT?*
+[UpdateNew][general] 326001774366294018 KillerM4ster: **You're... WHAT?**
+[Message][general] 356865266732367873 Brutanian: **bum an are you**
+[Message][general] 326001774366294018 KillerM4ster: Are bum you an
+[Message][general] 356865266732367873 Brutanian: KillerF4ter
+[Message][general] 326001774366294018 KillerM4ster: <@265957683260030976> **I'll say to my mom that you're doing this to me**
+[Message][general] 326001774366294018 KillerM4ster: 
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] Not a bum
+[Message][general] 356865266732367873 Brutanian: aww is killer sad...
+[Message][general] 326001774366294018 KillerM4ster: No
+[Message][general] 326001774366294018 KillerM4ster: I'm sad all the days, not because of this btw
+[Message][general] 356865266732367873 Brutanian: oh ok
+[Message][general] 326001774366294018 KillerM4ster: At least WHO? is not at the Owl clan
+[Message][general] 265957683260030976 WHO?: Because the owner isn't even an owl
+[Message][general] 326001774366294018 KillerM4ster: He is
+[Message][general] 326001774366294018 KillerM4ster: Everyone is an owl, Idk who is Sharky btw, he is new
+[Message][general] 265957683260030976 WHO?: 🤔 how convincing
+[Message][general] 326001774366294018 KillerM4ster: 😛
+[Message][general] 265957683260030976 WHO?: Your Propaganda isn't working
+[Message][general] 326001774366294018 KillerM4ster: ?
+[Message][general] 265957683260030976 WHO?: YoUr PrOpAgAnDa IsN'T WoRkInG
+[Message][general] 326001774366294018 KillerM4ster: What propaganda
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[GMUpdateOld] 356865266732367873 Brutanian [object Map] Brutanian
+[GMUpdateNew] 356865266732367873 Brutanian [object Map] Owltanian
+[Message][general] 356865266732367873 Brutanian: what...
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 413902897101930497 WHO?: Please go to the WHO? Music voice channel.
+[Message][who-bot] 265957683260030976 WHO?: 🤦
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 413902897101930497 WHO?: Please go to the WHO? Music voice channel.
+[Message][who-bot] 356865266732367873 Brutanian: https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[UpdateOld][who-bot] 356865266732367873 Brutanian: https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[UpdateNew][who-bot] 356865266732367873 Brutanian: https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Message][who-bot] 413902897101930497 WHO?: Please go to the WHO? Music voice channel.
+[Message][who-bot] 265957683260030976 WHO?: 🤦
+[Message][who-bot] 265957683260030976 WHO?: hold on
+[Message][who-bot] 356865266732367873 Brutanian: oh
+[Delete][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Delete][who-bot] 356865266732367873 Brutanian: https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 356865266732367873 Brutanian: it seems to say everythin twice
+[Message][who-bot] 356865266732367873 Brutanian: it seems to say everythin twice
+[Message][who-bot] 265957683260030976 WHO?: is my bot drunk on the job?
+[Message][who-bot] 265957683260030976 WHO?: is my bot drunk on the job?
+[Message][who-bot] 356865266732367873 Brutanian: probably xD
+[Message][who-bot] 356865266732367873 Brutanian: probably xD
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: TheFatRat - MAYDAY feat. Laura Brehm - 4m 7s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: TheFatRat - MAYDAY feat. Laura Brehm - 4m 7s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: TheFatRat - MAYDAY feat. Laura Brehm - 4m 7s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: TheFatRat - MAYDAY feat. Laura Brehm - 4m 7s
+[Message][who-bot] 265957683260030976 WHO?: Yes I can yes I can yes I can
+[Message][who-bot] 265957683260030976 WHO?: Yes I can yes I can yes I can
+[Message][general] 186186323869040640 Dread690: Alright Orisa calm down there
+[Message][general] 186186323869040640 Dread690: Alright Orisa calm down there
+[Message][general] 265957683260030976 WHO?: I aDvIsE YoU tO sTaNd BeHiNd My BaRrIoR
+[Message][general] 265957683260030976 WHO?: I aDvIsE YoU tO sTaNd BeHiNd My BaRrIoR
+[Message][who-bot] 356865266732367873 Brutanian: yes u can what?
+[Message][who-bot] 356865266732367873 Brutanian: yes u can what?
+[Message][who-bot] 265957683260030976 WHO?: try now
+[Message][who-bot] 265957683260030976 WHO?: OH 🤦 🤦 🤦 I had two open at the same time
+[Message][general] 326001774366294018 KillerM4ster: What happen if I say sorry to WHO?
+[Message][who-bot] 265957683260030976 WHO?: It was playing that song twice at the exact same time
+[Message][who-bot] 356865266732367873 Brutanian: !play https://www.youtube.com/watch?v=16vuw7y22BA&list=PL4F37k_-b9hiMxYpw9wOogDcbBWdktf_c&index=19&t=0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: TheFatRat - MAYDAY feat. Laura Brehm - 4m 7s
+[Message][who-bot] 356865266732367873 Brutanian: seems better so far
+[Message][general] 186186323869040640 Dread690: Who you talking about
+[Message][who-bot] 265957683260030976 WHO?: btw you can just click share and then copy the link that isn't a paragraph long
+[Message][who-bot] 356865266732367873 Brutanian: nvrmnd
+[Message][who-bot] 356865266732367873 Brutanian: !stop
+[Message][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/16vuw7y22BA
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/16vuw7y22BA
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/16vuw7y22BA
+[Message][who-bot] 413902897101930497 WHO?: Now playing: TheFatRat - MAYDAY feat. Laura Brehm - 4m 7s
+[Message][who-bot] 356865266732367873 Brutanian: oh yeah
+[Message][general] 326001774366294018 KillerM4ster: <@265957683260030976>
+[Message][general] 265957683260030976 WHO?: ```
+That request has already been used within 24 hours. Please try again after that time.
+```
+[Message][general] 326001774366294018 KillerM4ster: ?
+[Message][general] 326001774366294018 KillerM4ster: I need to wait 19 minutes? ._.
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/FTQbiNvZqaY
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Toto - Africa (Video) - 4m 35s
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: stop being potato WHO? Bot 😠
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/FTQbiNvZqaY
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Toto - Africa (Video) - 4m 35s
+[Message][who-bot] 265957683260030976 WHO?: there we go
+[Message][who-bot] 265957683260030976 WHO?: now that's how it's supposed to work
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 356865266732367873 | *Beep Boop, Boop Beep*
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/h7ArUgxtlJs
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/h7ArUgxtlJs
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/h7ArUgxtlJs
+[Message][who-bot] 413902897101930497 WHO?: Now playing: deadmau5 feat. Rob Swire - Ghosts N Stuff - 3m 14s
+[Message][general] 326001774366294018 KillerM4ster: <@265957683260030976>
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] Not a bum
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] Not a bum
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] Not a bum
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] Not a bum
+[Message][undefined] 356865266732367873 Brutanian: aww
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 356865266732367873 | aww
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 356865266732367873 Brutanian: what?
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 356865266732367873 | what do you mean what?
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 356865266732367873 Brutanian: why are they coming through the WHO? bot
+[Message][who-bot] 265957683260030976 WHO?: sup bois play something 😛
+[Message][who-bot] 265957683260030976 WHO?: aww 😦
+[Message][who-bot] 186186323869040640 Dread690: We thought you were listening to something. not just silence
+[Message][who-bot] 265957683260030976 WHO?: I'm watching youtube and I forgot I was in this vc
+[Message][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=f3IgwLT_mYc
+[Message][who-bot] 413902897101930497 WHO?: Please connect to the <457390433446920193> voice channel.
+[Message][who-bot] 265957683260030976 WHO?: XD
+[Message][who-bot] 265957683260030976 WHO?: that's b r o k e
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6iQcYpgu3Fs
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6iQcYpgu3Fs
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6iQcYpgu3Fs
+[Message][who-bot] 413902897101930497 WHO?: Now playing: UNDER-TALE-PANTS - MOGOLOVONIO (NOW WITH SUBTITLES) - 1m 11s
+[Message][who-bot] 186186323869040640 Dread690: you've stoppped me this time
+[Message][who-bot] 186186323869040640 Dread690: It omly allows you to play music if you're in the chat
+[Message][who-bot] 265957683260030976 WHO?: yep
+[Message][who-bot] 265957683260030976 WHO?: so join it 😉
+[Message][who-bot] 186186323869040640 Dread690: Im talking to my boii. Ill talk to you later tonight, when you're in my bed <:rooGasm:399827508796588032>
+[Delete][who-bot] 186186323869040640 Dread690: Im talking to my boii. Ill talk to you later tonight, when you're in my bed <:rooGasm:399827508796588032>
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/FTQbiNvZqaY
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/FTQbiNvZqaY
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/FTQbiNvZqaY
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Toto - Africa (Video) - 4m 35s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/9ZQJh8sQnlQ
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/9ZQJh8sQnlQ
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/9ZQJh8sQnlQ
+[Message][who-bot] 413902897101930497 WHO?: Now playing: 10 Hours of MINE DIAMONDS | miNECRAFT PARODY OF TAKE ON ME - 10h 0m 0s
+[Delete][who-bot] 265957683260030976 WHO?: !play https://youtu.be/9ZQJh8sQnlQ
+[Delete][who-bot] 413902897101930497 WHO?: Now playing: 10 Hours of MINE DIAMONDS | miNECRAFT PARODY OF TAKE ON ME - 10h 0m 0s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: ffs
+[Message][who-bot] 356865266732367873 Brutanian: ¬v¬
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Fox Stevenson - Endless - 4m 39s
+[Message][who-bot] 265957683260030976 WHO?: good whatever there will be no queue so Killer can cry about it
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Fox Stevenson - Endless - 4m 39s
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 356865266732367873 Brutanian: lel im guessing queue is hard-ish
+[Message][who-bot] 265957683260030976 WHO?: **HARD**
+[Message][who-bot] 356865266732367873 Brutanian: like my... *nevermind*
+[Message][who-bot] 265957683260030976 WHO?: not -ish
+[Message][who-bot] 265957683260030976 WHO?: this queue thing is hella **HARD**
+[Message][who-bot] 356865266732367873 Brutanian: lel
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/lITExahxoyM
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Fox Stevenson - Endless - 4m 39s
+[Message][who-bot] 356865266732367873 Brutanian: are you listening to the music or can i change it
+[Message][who-bot] 265957683260030976 WHO?: you have to be in the channel to change it
+[Message][who-bot] 356865266732367873 Brutanian: i know
+[Message][who-bot] 265957683260030976 WHO?: go ahead
+[Message][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/gj02xd7CT0s
+[Message][who-bot] 265957683260030976 WHO?: I heard this song too many times today
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/gj02xd7CT0s
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/gj02xd7CT0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Icona Pop - All Night (TheFatRat Remix) - 4m 2s
+[Message][who-bot] 356865266732367873 Brutanian: lel
+[Message][who-bot] 265957683260030976 WHO?: Ima work on the fighting
+[Message][who-bot] 265957683260030976 WHO?: !fight
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 356865266732367873 Brutanian: ooooooh
+[Message][who-bot] 265957683260030976 WHO?: oof what happened to the avatarURL?
+[Message][who-bot] 265957683260030976 WHO?: !help
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !fight
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: none of the avatars show up
+[Message][who-bot] 265957683260030976 WHO?: it's supposed to show my pfp where the broken image is
+[Message][who-bot] 356865266732367873 Brutanian: hmm
+[Message][who-bot] 265957683260030976 WHO?: you try a command
+[Message][who-bot] 356865266732367873 Brutanian: !stats
+[Message][who-bot] 356865266732367873 Brutanian: ?
+[Message][who-bot] 265957683260030976 WHO?: hold on there's an error
+[Message][who-bot] 265957683260030976 WHO?: -_-
+[Message][who-bot] 356865266732367873 Brutanian: ¬-¬
+[Message][who-bot] 265957683260030976 WHO?: you're undefined according to my bot
+[Message][who-bot] 356865266732367873 Brutanian: ```pie```
+[Message][who-bot] 356865266732367873 Brutanian: 👍
+[Message][who-bot] 265957683260030976 WHO?: [Message][who-bot] 356865266732367873 Brutanian: ```pie```
+[Delete][who-bot] 265957683260030976 WHO?: [Message][who-bot] 356865266732367873 Brutanian: ```pie```
+[Message][who-bot] 265957683260030976 WHO?: go ahead and request another if you want
+[Message][who-bot] 239889458693013506 ♫Hyron♫: Boom a hyron appears
+[Message][who-bot] 265957683260030976 WHO?: I'm just checking the code
+[Message][who-bot] 265957683260030976 WHO?: __**BOOM**__
+[Message][who-bot] 356865266732367873 Brutanian: ~~shite~~ HI
+[Message][who-bot] 356865266732367873 Brutanian: how you doin' ?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/QyggMXmpJDU
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/QyggMXmpJDU
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/QyggMXmpJDU
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Xan Griffin - Capricorn (feat. WOLFE) - 4m 22s
+[Message][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/5mruSOwvV7o
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/5mruSOwvV7o
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/5mruSOwvV7o
+[Message][who-bot] 413902897101930497 WHO?: Now playing: JJD - Sugar High - 4m 14s
+[Message][who-bot] 356865266732367873 Brutanian: oh sorry
+[Message][who-bot] 265957683260030976 WHO?: oof
+[Message][who-bot] 265957683260030976 WHO?: it's fine
+[Message][who-bot] 356865266732367873 Brutanian: lel XD
+[Message][who-bot] 265957683260030976 WHO?: type `WHO? sucks`
+[Delete][who-bot] 265957683260030976 WHO?: type `WHO? sucks`
+[Message][undefined] 413902897101930497 WHO?: **HOW DARE YOU DISRESPECT WHO?!!!**
+[Message][who-bot] 356865266732367873 Brutanian: you want to have the next song
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/QyggMXmpJDU
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Xan Griffin - Capricorn (feat. WOLFE) - 4m 22s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: hecc
+[Message][who-bot] 265957683260030976 WHO?: you do !stats
+[Message][who-bot] 356865266732367873 Brutanian: !stats
+[Message][who-bot] 265957683260030976 WHO?: I have no clue why it doesn't want to set your default stats
+[Message][who-bot] 356865266732367873 Brutanian: maybe im spelling stats the wrong way round
+[Message][who-bot] 265957683260030976 WHO?: nope it's right
+[Message][who-bot] 356865266732367873 Brutanian: do you not see it...
+[Message][who-bot] 265957683260030976 WHO?: In the console it says "Cannot find whosCollected from undefined"
+[Message][who-bot] 356865266732367873 Brutanian: stats backwards is stats
+[Message][general] 239889458693013506 ♫Hyron♫: Jooj
+[Message][who-bot] 265957683260030976 WHO?: it still thinks you're undefined even though I have something that is supposed to set your default stats if you don't have any
+[Message][general] 356865266732367873 Brutanian: ojjo
+[Message][who-bot] 356865266732367873 Brutanian: bots must be so confusing
+[Message][who-bot] 265957683260030976 WHO?: yeah
+[Message][who-bot] 265957683260030976 WHO?: things that should work don't
+[Message][who-bot] 265957683260030976 WHO?: things that used to work don't
+[Message][who-bot] 265957683260030976 WHO?: things that don't exist change values in json files
+[Message][who-bot] 265957683260030976 WHO?: it's super confusing
+[Message][who-bot] 356865266732367873 Brutanian: weird...
+[Message][who-bot] 265957683260030976 WHO?: alright I cleared everyone's stats but mine
+[Message][who-bot] 265957683260030976 WHO?: now try
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/QyggMXmpJDU
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Xan Griffin - Capricorn (feat. WOLFE) - 4m 22s
+[Delete][who-bot] 265957683260030976 WHO?: !play https://youtu.be/QyggMXmpJDU
+[Delete][who-bot] 413902897101930497 WHO?: Now playing: Xan Griffin - Capricorn (feat. WOLFE) - 4m 22s
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mxXYDfF-7ls
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mxXYDfF-7ls
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/mxXYDfF-7ls
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Adoxe - Cadence - 4m 42s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: <@!356865266732367873> try !stats again
+[Message][who-bot] 265957683260030976 WHO?: I might've fixed it
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 356865266732367873 Brutanian: ok im back
+[Message][who-bot] 356865266732367873 Brutanian: !stats
+[Message][who-bot] 265957683260030976 WHO?: -_-
+[Message][who-bot] 265957683260030976 WHO?: -_-
+[Message][who-bot] 265957683260030976 WHO?: -_-
+[Message][who-bot] 356865266732367873 Brutanian: oh i see
+[Message][who-bot] 356865266732367873 Brutanian: i feel so stupid
+[Message][who-bot] 265957683260030976 WHO?: (node:11052) UnhandledPromiseRejectionWarning: TypeError: Cannot read property '
+whosCollected' of undefined
+[Message][who-bot] 265957683260030976 WHO?: don't feel stupid
+[Message][who-bot] 265957683260030976 WHO?: if anything the bot should
+[Message][who-bot] 356865266732367873 Brutanian: but its shut down...
+[Message][who-bot] 356865266732367873 Brutanian: isn't it
+[Message][who-bot] 265957683260030976 WHO?: It does shutdown but it doesn't announce when it's back on
+[Message][who-bot] 356865266732367873 Brutanian: so is it back on?
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 356865266732367873 Brutanian: yes
+[Message][who-bot] 356865266732367873 Brutanian: !help
+[Message][who-bot] 265957683260030976 WHO?: the bot doesn't like you 😛
+[Message][who-bot] 265957683260030976 WHO?: try to play a song
+[Message][who-bot] 356865266732367873 Brutanian: i can see that....
+[Message][who-bot] 356865266732367873 Brutanian: !play !play https://youtu.be/qmNmK3f2g8g
+[Message][who-bot] 413902897101930497 WHO?: Input a proper url.
+[UpdateOld][who-bot] 356865266732367873 Brutanian: !play !play https://youtu.be/qmNmK3f2g8g
+[UpdateNew][who-bot] 356865266732367873 Brutanian: !play !play https://youtu.be/qmNmK3f2g8g
+[Message][who-bot] 265957683260030976 WHO?: one play not two
+[Message][who-bot] 356865266732367873 Brutanian: lol
+[Message][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/qmNmK3f2g8g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Ghost'n'Ghost - Alright - 4m 8s
+[Message][who-bot] 265957683260030976 WHO?: so..... the bot is drunk
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: try again
+[Message][who-bot] 356865266732367873 Brutanian: !play https://youtu.be/qmNmK3f2g8g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Ghost'n'Ghost - Alright - 4m 8s
+[Message][who-bot] 265957683260030976 WHO?: if the bot doesn't play then just do !stop and it will fix
+[Message][who-bot] 356865266732367873 Brutanian: **yas**
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 356865266732367873 Brutanian: is dat good?
+[Message][who-bot] 356865266732367873 Brutanian: or *bad*
+[Message][who-bot] 265957683260030976 WHO?: it's bad because if you have no stats it won't give you any
+[Message][who-bot] 356865266732367873 Brutanian: hmmm
+[Message][who-bot] 265957683260030976 WHO?: alright time for some console.log(); debugging -_-
+[Message][who-bot] 356865266732367873 Brutanian: oh well
+[Message][who-bot] 265957683260030976 WHO?: test
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: ok partially good
+[Message][who-bot] 265957683260030976 WHO?: the bot still doesn't know how to use our pfp's but it finally remembered how to give us stats
+[Message][undefined] 265957683260030976 WHO?: !~~ stats edit 265957683260030976 whosCollected 1000000
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[UserOld] 356865266732367873 Brutanian#6317
+[UserNew] 356865266732367873 Brutanian#6317
+[Message][undefined] 265957683260030976 WHO?: !~~ stats edit whos 265957683260030976 1000000
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: hecc
+[Message][who-bot] 356865266732367873 Brutanian: !stats
+[Message][who-bot] 356865266732367873 Brutanian: D=
+[Message][who-bot] 265957683260030976 WHO?: FFS
+[Message][who-bot] 356865266732367873 Brutanian: lmao
+[Message][who-bot] 265957683260030976 WHO?: ```
+"356865266732367873": {
+        "userName": "Brutanian",
+        "whosCollected": 0,
+        "weapon": "Unarmed",
+        "armor": "No Armor",
+        "weaponValue": 0,
+        "armorValue": 0
+    }
+```
+[Message][who-bot] 265957683260030976 WHO?: it gave you stats and it still doesn't know anything?
+[Message][who-bot] 265957683260030976 WHO?: do it again
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: ight
+[UpdateOld][who-bot] 265957683260030976 WHO?: ight
+[UpdateNew][who-bot] 265957683260030976 WHO?: aight
+[Message][undefined] 265957683260030976 WHO?: !~~ stats edit whos 265957683260030976 1000000
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: !~~ stats edit whos 265957683260030976 1000000
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: ok finally
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 413902897101930497 WHO?: You don't have enough WHO?s for that!
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: !~~ stats edit whos 265957683260030976 1000000
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought an Apple for 1 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: !~~ stats edit whos 265957683260030976 1000000000
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 356865266732367873 Brutanian: do u think youve fixed the problem with the bot hating me?
+[Message][who-bot] 265957683260030976 WHO?: no
+[Message][who-bot] 265957683260030976 WHO?: the shop is b r o k e
+[Message][who-bot] 356865266732367873 Brutanian: oh ok
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought an Apple for 1 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: no I didn't buy an Apple -_-
+[Message][who-bot] 265957683260030976 WHO?: <@&457557793101316096> type anything
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought an Apple for 1 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: <@239889458693013506> test it too pls
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Apple
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought an Apple for 1 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: 😮
+[Message][who-bot] 265957683260030976 WHO?: ok good
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Paper
+[Message][who-bot] 265957683260030976 WHO?: 😮 not good
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Paper
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought Paper for 5 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: 😮
+[Message][who-bot] 265957683260030976 WHO?: good
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Noob_stick
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Noob_Stick
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought a Noob Stick for 100 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Noob_Armor
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought Noob Armor for 150 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !shop buy Kek_Sword
+[Message][who-bot] 265957683260030976 WHO?: !shop buy kek_Sword
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought a kek Sword 1000000 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !shop buy kek_Armor
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought kek Armor for 1500000 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !shop buy WHO?'s_Sword
+[Message][who-bot] 413902897101930497 WHO?: You don't have enough WHO?s for that!
+[Message][who-bot] 265957683260030976 WHO?: 😮
+[Message][who-bot] 265957683260030976 WHO?: !shop buy WHO?'s_Sword
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought WHO?'s Sword for 1000000000 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !shop buy WHO?'s_Armor
+[Message][who-bot] 413902897101930497 WHO?: WHO? Bought WHO?'s Armor for 1500000000 WHO?s
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: good it works great
+[Message][who-bot] 356865266732367873 Brutanian: does it still hate me
+[Message][who-bot] 265957683260030976 WHO?: nope it's good
+[Message][who-bot] 265957683260030976 WHO?: do !stats
+[Message][who-bot] 356865266732367873 Brutanian: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 356865266732367873 Brutanian: YAY
+[Message][who-bot] 265957683260030976 WHO?: now you can use the who lottery 😄
+[Message][who-bot] 265957683260030976 WHO?: do it in <#459012003785080862> though
+[Message][who-bot] 356865266732367873 Brutanian: how
+[Message][who-bot] 265957683260030976 WHO?: !who
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: wait
+[Message][who-bot] 265957683260030976 WHO?: I need to give that channel permission for WHO? Bot commands
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !who
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: not here
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !stats
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 239889458693013506 ♫Hyron♫: Wut
+[Message][who-bot] 265957683260030976 WHO?: I'm trying to enable it in the other channel
+[Message][who-bot] 239889458693013506 ♫Hyron♫: <#420724328544469045>
+[Message][who-bot] 239889458693013506 ♫Hyron♫: Ahg
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 265957683260030976 WHO?: I said I'm trying to not it's already done 😛
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 265957683260030976 WHO?: can you read?
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !who
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: Wut
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: Read what
+[Message][who-lottery] 265957683260030976 WHO?: I said I'm trying to not it's already done 😛
+[Message][who-lottery] 265957683260030976 WHO?: if it doesn't work why spam it?
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: Ah I didn't see it lol
+[Message][who-lottery] 265957683260030976 WHO?: 🤦 sure
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: <:GWfroggyJerry:398569911007576065> 😂
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: 👌
+[Message][who-lottery] 265957683260030976 WHO?: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: you guys try it because I can use the bot in any channel
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 356865266732367873 Brutanian: aww
+[Message][who-lottery] 265957683260030976 WHO?: now try it in <#420724328544469045>
+[Message][who-lottery] 265957683260030976 WHO?: hold on error
+[Message][who-bot] 356865266732367873 Brutanian: !who
+[Message][who-bot] 356865266732367873 Brutanian: hmmm
+[Message][who-lottery] 356865266732367873 Brutanian: !who who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: D=
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: umm..... it gave you an error because you got ungodly luck which is supposed to half your whos
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: 😄
+[Message][who-lottery] 265957683260030976 WHO?: this is why I dedicated a channel to this so people can mute it if they don't want bleep spam 😛
+[Message][who-lottery] 356865266732367873 Brutanian: yeah lol
+[Message][who-lottery] 356865266732367873 Brutanian: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: what items are there?
+[Message][who-lottery] 356865266732367873 Brutanian: !help
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !shop
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !shop buy stick
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !shop
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: !shop buy
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: 1
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: '-'
+[Message][who-lottery] 356865266732367873 Brutanian: !shop buy 1
+[Message][who-lottery] 356865266732367873 Brutanian: y does bot hate me
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: what bad luck
+[Message][who-lottery] 356865266732367873 Brutanian: i lost about 7 right there
+[Message][who-lottery] 356865266732367873 Brutanian: *4
+[UserOld] 356865266732367873 Brutanian#6317
+[UserNew] 356865266732367873 Brutanian#6317
+[Message][who-lottery] 356865266732367873 Brutanian: do you like my new PP
+[Delete][who-lottery] 356865266732367873 Brutanian: do you like my new PP
+[Message][who-lottery] 356865266732367873 Brutanian: ```do u like my new PP```
+[Delete][who-lottery] 356865266732367873 Brutanian: ```do u like my new PP```
+[Delete][who-lottery] 356865266732367873 Brutanian: what bad luck
+[Delete][who-lottery] 356865266732367873 Brutanian: i lost about 7 right there
+[Delete][who-lottery] 356865266732367873 Brutanian: *4
+[Message][who-lottery] 356865266732367873 Brutanian: Do you like my third attempt at a good profile pic
+[UserOld] 356865266732367873 Brutanian#6317
+[UserNew] 356865266732367873 Brutanian#6317
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: No
+[Message][who-lottery] 239889458693013506 ♫Hyron♫: Jk ys
+[Message][who-lottery] 356865266732367873 Brutanian: heh
+[Message][who-lottery] 356865266732367873 Brutanian: i just made it bigger
+[Message][who-lottery] 356865266732367873 Brutanian: so its easier to see
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: FRICK
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: lol git gud like me the rich boi
+[Message][who-lottery] 265957683260030976 WHO?: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[UserOld] 265957683260030976 WHO?#6790
+[UserNew] 265957683260030976 WHO?#6790
+[Message][who-lottery] 186186323869040640 Dread690: !stats
+[Message][who-lottery] 265957683260030976 WHO?: do it again
+[Message][who-lottery] 186186323869040640 Dread690: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 326001774366294018 KillerM4ster: <@265957683260030976> He is your brother?
+[Message][who-lottery] 265957683260030976 WHO?: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 186186323869040640 Dread690: Ayyy, completly useless
+[Message][who-lottery] 265957683260030976 WHO?: I don't have a brother
+[Message][who-lottery] 326001774366294018 KillerM4ster: So he is your pet?
+[Message][who-lottery] 265957683260030976 WHO?: Killer what are your stats
+[Message][who-lottery] 326001774366294018 KillerM4ster: Idk
+[Message][who-lottery] 265957683260030976 WHO?: Bread is my slave :3
+[Message][who-lottery] 265957683260030976 WHO?: jk he's my dad 2
+[Message][who-lottery] 186186323869040640 Dread690: Im your dad slave <:rooWut:399827526144360448>
+[Message][who-lottery] 265957683260030976 WHO?: instead of saying idk you could... you know.... !stats
+[Message][who-lottery] 326001774366294018 KillerM4ster: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 326001774366294018 KillerM4ster: ._.
+[Message][who-lottery] 326001774366294018 KillerM4ster: Wut
+[Message][who-lottery] 265957683260030976 WHO?: I guess the Username part is useless if it says beside the pfp
+[Message][who-lottery] 326001774366294018 KillerM4ster: Why I have 0?
+[Message][who-lottery] 265957683260030976 WHO?: !stats <@!326001774366294018>
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: because I reset everyones stats because it was broken
+[Message][who-lottery] 326001774366294018 KillerM4ster: '-'
+[Message][who-lottery] 326001774366294018 KillerM4ster: But I was with 7999 ;-;
+[Message][who-lottery] 326001774366294018 KillerM4ster: I was going to get 8k
+[Message][who-lottery] 265957683260030976 WHO?: now do !stats :3
+[Message][who-lottery] 326001774366294018 KillerM4ster: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 326001774366294018 KillerM4ster: ;-;
+[Message][general] 326001774366294018 KillerM4ster: 
+[Message][general] 265957683260030976 WHO?: https://youtu.be/7T0LcFJhLqY
+[UpdateOld][general] 265957683260030976 WHO?: https://youtu.be/7T0LcFJhLqY
+[UpdateNew][general] 265957683260030976 WHO?: https://youtu.be/7T0LcFJhLqY
+[Message][general] 326001774366294018 KillerM4ster: 😉
+[Message][general] 265957683260030976 WHO?: how about just posting the video instead of a picture of the video
+[Message][general] 326001774366294018 KillerM4ster: Because some people dont play the video
+[Message][who-lottery] 186186323869040640 Dread690: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: Bread you messed up your WHO? count
+[UserOld] 265957683260030976 WHO?#6790
+[UserNew] 265957683260030976 WHO?#6790
+[Message][who-lottery] 326001774366294018 KillerM4ster: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 326001774366294018 KillerM4ster: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 326001774366294018 KillerM4ster: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 326001774366294018 KillerM4ster: oof
+[Message][general] 239889458693013506 ♫Hyron♫: Boomoob
+[Message][general] 239889458693013506 ♫Hyron♫: <:GWfroggyJerry:398569911007576065> <:GWfroggyJerry:398569911007576065> <:GWfroggyJerry:398569911007576065> <:GWfroggyJerry:398569911007576065> <:GWfroggyJerry:398569911007576065> <:GWfroggyJerry:398569911007576065>
+[Message][general] 265957683260030976 WHO?: no
+[Message][general] 239889458693013506 ♫Hyron♫: Yes mom
+[Message][general] 265957683260030976 WHO?: no
+[Message][general] 239889458693013506 ♫Hyron♫: Why i have a role called lil boy
+[Message][general] 239889458693013506 ♫Hyron♫: Wtf
+[Message][general] 239889458693013506 ♫Hyron♫: <@265957683260030976>
+[Message][general] 234092910490943488 Bugamashoo: <:pbgSMOKE:449294364519301130>
+[Message][general] 239889458693013506 ♫Hyron♫: Planta ovo
+[Message][general] 239889458693013506 ♫Hyron♫: Jooj
+[Message][general] 186186323869040640 Dread690: Shit man, hate when that happsens, im sorry for you
+[Message][general] 265957683260030976 WHO?: pao
+[Message][general] 239889458693013506 ♫Hyron♫: F f f f f f oda-se
+[Message][general] 265957683260030976 WHO?: **AMENO**
+[Message][general] 239889458693013506 ♫Hyron♫: Tua mãe
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[Message][who-bot] 413902897101930497 WHO?: Now playing: ERA - Ameno - 3m 51s
+[Message][general] 239889458693013506 ♫Hyron♫: Obrigado pela atenção e tenham um dia de merda
+[Delete][general] 239889458693013506 ♫Hyron♫: Obrigado pela atenção e tenham um dia de merda
+[Message][general] 265957683260030976 WHO?: no
+[Delete][general] 265957683260030976 WHO?: no
+[Message][general] 239889458693013506 ♫Hyron♫: WHO? tem uma voz gostosa e deliciosa
+[Message][general] 239889458693013506 ♫Hyron♫: Meu macho-q
+[Message][general] 265957683260030976 WHO?: I am delicious thanks 😉 😚
+[Message][general] 239889458693013506 ♫Hyron♫: Ikr quando eu te como
+[Message][general] 265957683260030976 WHO?: Are you calling me fat? 😠
+[Message][general] 265957683260030976 WHO?: 😠
+[Message][general] 239889458693013506 ♫Hyron♫: Não
+[Message][general] 239889458693013506 ♫Hyron♫: Wtf
+[Message][general] 265957683260030976 WHO?: 💢 😠
+[Message][general] 239889458693013506 ♫Hyron♫: My dick ya pussy = delicious
+[Message][general] 239889458693013506 ♫Hyron♫: Wtf
+[Delete][general] 239889458693013506 ♫Hyron♫: Wtf
+[Message][general] 239889458693013506 ♫Hyron♫: Cook
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NweQRSB4Or4
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NweQRSB4Or4
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NweQRSB4Or4
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Ameno 10h  Version  | eRa - Ameno - 9h 58m 32s
+[Message][general] 356865266732367873 Brutanian: *I don't want to even know whats happening*
+[Message][who-lottery] 356865266732367873 Brutanian: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 356865266732367873 Brutanian: MY WHO?'S
+[Message][general] 239889458693013506 ♫Hyron♫: You talking like big fat ass owl thats whats happening my nigga
+[Message][general] 356865266732367873 Brutanian: suddenly you became a black person
+[Message][general] 239889458693013506 ♫Hyron♫: Racist
+[Message][general] 265957683260030976 WHO?: <@&457554363712405504>
+[Message][general] 356865266732367873 Brutanian: *lel*
+[Message][general] 239889458693013506 ♫Hyron♫: Ye what
+[Message][general] 265957683260030976 WHO?: kek
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] ♫Hyron♫
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] ♫noryH♫
+[Message][general] 239889458693013506 ♫Hyron♫: <@356865266732367873> does the B from your pfp means butt
+[Message][general] 265957683260030976 WHO?: it meanse <@&457557793101316096>
+[Message][general] 239889458693013506 ♫Hyron♫: Weak ass
+[Message][general] 356865266732367873 Brutanian: <@&457554363712405504>
+[Message][general] 239889458693013506 ♫Hyron♫: The one who roasts you BOIII
+[Message][general] 356865266732367873 Brutanian: hi Nory
+[Message][general] 239889458693013506 ♫Hyron♫: Dicku
+[Message][general] 356865266732367873 Brutanian: yes please
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] ♫noryH♫
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] ♫Hyron♫
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] ♫Hyron♫
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[Message][general] 239889458693013506 ♫Hyron♫: In ya bussy
+[Message][general] 356865266732367873 Brutanian: if i had one
+[Message][general] 239889458693013506 ♫Hyron♫: 2 cm dick long
+[Message][general] 356865266732367873 Brutanian: yes you do
+[Message][general] 239889458693013506 ♫Hyron♫: Ask your mom the truth you fat ass
+[Message][general] 265957683260030976 WHO?: this is literally the most autistic fight I've ever witnessed
+[Message][general] 356865266732367873 Brutanian: ikr
+[Message][general] 239889458693013506 ♫Hyron♫: Because an autist recognizes other
+[Message][general] 356865266732367873 Brutanian: i asked she said actually I do have a fat ass D=
+[Message][general] 265957683260030976 WHO?: You're proving my point <@&457554363712405504>
+[Message][general] 239889458693013506 ♫Hyron♫: Yes you are autist
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[Message][general] 356865266732367873 Brutanian: says the person who can't spell autistic right#
+[Message][general] 239889458693013506 ♫Hyron♫: What is bum
+[Message][general] 239889458693013506 ♫Hyron♫: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: B is for Bum you were right
+[Message][general] 239889458693013506 ♫Hyron♫: No b is for bI'm fat ass stupid
+[Message][general] 356865266732367873 Brutanian: yes yes it is
+[Message][general] 239889458693013506 ♫Hyron♫: I'm just following my role <:GWfroggyJerry:398569911007576065>
+[Message][general] 239889458693013506 ♫Hyron♫: Not my rola
+[Message][general] 356865266732367873 Brutanian: ¯\_(ツ)_/¯
+[Message][general] 239889458693013506 ♫Hyron♫: Ya got rekt
+[Message][general] 239889458693013506 ♫Hyron♫: BUM
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: if im a bum then this shouldn't annoy you
+[GMUpdateOld] 306526948153360386 GamerOwls [object Map] GamerOwls
+[GMUpdateNew] 306526948153360386 GamerOwls [object Map] GamerOwls
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 265957683260030976 WHO?: *ehem* rule 6
+[Message][general] 356865266732367873 Brutanian: oh right
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 265957683260030976 WHO?: kek Hyron is a bum
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Delete][general] 356865266732367873 Brutanian: <@&440643643867660309>
+[Message][general] 265957683260030976 WHO?: lololololol
+[Message][general] 356865266732367873 Brutanian: ¬v¬
+[Message][general] 265957683260030976 WHO?: tell me when <@&457554363712405504> grows up and apoligises for wasting your time <@&457557793101316096>
+[Message][general] 356865266732367873 Brutanian: Heh whats the time limit? 10years?
+[Message][general] 265957683260030976 WHO?: *life* >:)
+[Message][general] 356865266732367873 Brutanian: *[Evil Laugh]*
+[Message][general] 306526948153360386 GamerOwls: gotta love the role names
+[Message][general] 265957683260030976 WHO?: 😉
+[GMUpdateOld] 234092910490943488 Bugamashoo [object Map] Bugamashoo
+[GMUpdateNew] 234092910490943488 Bugamashoo [object Map] Bugamashoo
+[GMUpdateOld] 319294193099079680 kawabomb gamer [object Map] kawabomb gamer
+[GMUpdateNew] 319294193099079680 kawabomb gamer [object Map] kawabomb gamer
+[GMUpdateOld] 319294193099079680 kawabomb gamer [object Map] kawabomb gamer
+[GMUpdateNew] 319294193099079680 kawabomb gamer [object Map] kawabomb gamer
+[Message][general] 265957683260030976 WHO?: say `WHO? Sucks`
+[Message][general] 356865266732367873 Brutanian: WHO? Sucks?
+[Delete][general] 356865266732367873 Brutanian: WHO? Sucks?
+[Message][undefined] 413902897101930497 WHO?: **HOW DARE YOU DISRESPECT WHO?!!!**
+[Message][general] 356865266732367873 Brutanian: lel
+[Message][general] 356865266732367873 Brutanian: <@265957683260030976> Hyron kind of apoligised
+[Message][general] 265957683260030976 WHO?: only *kind of* ?????
+[Message][general] 356865266732367873 Brutanian: yeah didn't actually say sorry but...
+[Message][general] 356865266732367873 Brutanian: ¯\_(ツ)_/¯
+[Message][general] 356865266732367873 Brutanian: I wasn't offended in the first place
+[Message][general] 265957683260030976 WHO?: I didn't say apoligise for offending people Hyron I said for wasting our time
+[Message][general] 356865266732367873 Brutanian: oh well uuuuh yea i guess
+[Message][general] 265957683260030976 WHO?: ~~and getting saltier than the dead sea~~
+[Message][general] 356865266732367873 Brutanian: seas can't die
+[Message][general] 356865266732367873 Brutanian: just sayin'
+[Message][general] 356865266732367873 Brutanian: XD
+[Message][general] 265957683260030976 WHO?: then why did the dead sea die?
+[Message][general] 356865266732367873 Brutanian: its faking
+[Message][general] 265957683260030976 WHO?: ~~lowkey I heard people questioning if water expires and I wanted to bash my head against a wall~~
+[Message][general] 356865266732367873 Brutanian: 
+[Message][general] 265957683260030976 WHO?: You can say the same about him
+[Message][general] 265957683260030976 WHO?: :3
+[Message][general] 356865266732367873 Brutanian: im now a messenger pigeon
+[Message][general] 356865266732367873 Brutanian: oh well
+[Message][general] 265957683260030976 WHO?: ~~Hyron can literally message me or my bot and I'll see~~
+[Message][general] 356865266732367873 Brutanian: I think Hyron can see the chat aswell
+[Message][general] 265957683260030976 WHO?: yes
+[Message][general] 356865266732367873 Brutanian: I dunno then
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[Message][general] 239889458693013506 ♫Hyron♫: yey
+[Message][general] 239889458693013506 ♫Hyron♫: look what I got last week
+[Message][general] 265957683260030976 WHO?: is that a hokage?
+[Message][general] 239889458693013506 ♫Hyron♫: I guess that's the english name
+[Message][general] 265957683260030976 WHO?: ~~uh yeah....~~
+[Message][general] 239889458693013506 ♫Hyron♫: in portuguese it's narguile
+[Message][general] 265957683260030976 WHO?: you can search up what I typed
+[Message][general] 239889458693013506 ♫Hyron♫: but there will be only naruto shit
+[Message][general] 239889458693013506 ♫Hyron♫: yeah only naruto
+[Message][general] 239889458693013506 ♫Hyron♫: I don't think it's healthy but whatever
+[Message][general] 239889458693013506 ♫Hyron♫: LOL just this?
+[Message][general] 239889458693013506 ♫Hyron♫: I thought you all would be talking like: "No I can't believe you use that!"
+[Message][general] 239889458693013506 ♫Hyron♫: I picked that photo in google lol
+[Message][general] 265957683260030976 WHO?: ~~rule number one of the internet. Don't get pranked XD~~
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: 😦
+[Message][who-lottery] 265957683260030976 WHO?: try again
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://youtu.be/wuJIqmha2Hk
+[UpdateOld][who-bot] 346139990721298434 Brent Da Mage: !play https://youtu.be/wuJIqmha2Hk
+[UpdateNew][who-bot] 346139990721298434 Brent Da Mage: !play https://youtu.be/wuJIqmha2Hk
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Mr. Blue Sky - 5m 2s
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !pitty
+[Message][who-lottery] 346139990721298434 Brent Da Mage: 😦
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: RULE 6
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: boi don't spam you desperate pleb
+[Message][who-lottery] 346139990721298434 Brent Da Mage: Then mute the bot channel.
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: I'll have to demote you next time you spam
+[Message][who-lottery] 346139990721298434 Brent Da Mage: Wow, the WHO? bot has evolved quite a bit since I was last here.
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 346139990721298434 Brent Da Mage: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-bot] 346139990721298434 Brent Da Mage: So
+[Message][who-bot] 346139990721298434 Brent Da Mage: The music isn't playing back at the correct tempo.
+[Message][who-bot] 346139990721298434 Brent Da Mage: /shurg
+[Message][who-bot] 265957683260030976 WHO?: That's called discord voice chat
+[UpdateOld][who-bot] 346139990721298434 Brent Da Mage: /shurg
+[UpdateNew][who-bot] 346139990721298434 Brent Da Mage: ¯\_(ツ)_/¯
+[Message][who-bot] 186186323869040640 Dread690: Is that how that works?
+[Message][who-bot] 265957683260030976 WHO?: what? \shrug
+[UpdateOld][who-bot] 265957683260030976 WHO?: what? \shrug
+[UpdateNew][who-bot] 265957683260030976 WHO?: what? /shrug
+[Delete][who-bot] 265957683260030976 WHO?: what? /shrug
+[Message][who-bot] 265957683260030976 WHO?: yes
+[Message][who-bot] 186186323869040640 Dread690: i know that there is latency, but does it slow down?
+[Message][who-bot] 265957683260030976 WHO?: ¯\_(ツ)_/¯
+[Message][who-bot] 346139990721298434 Brent Da Mage: ¯\_(ツ)/\_/¯
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/SrxedErOyrs
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/SrxedErOyrs
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/SrxedErOyrs
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Panda Eyes - Fuck Off - 4m 30s
+[Message][who-bot] 265957683260030976 WHO?: lol
+[Message][who-bot] 265957683260030976 WHO?: I just like this song because of its name 😛
+[Message][who-bot] 346139990721298434 Brent Da Mage: <:KillerM4ster:429061124667867136>
+[Message][who-bot] 265957683260030976 WHO?: 
+[Message][who-bot] 346139990721298434 Brent Da Mage: 
+[Message][who-bot] 346139990721298434 Brent Da Mage: I win
+[Message][who-bot] 346139990721298434 Brent Da Mage: >:)
+[Message][who-bot] 265957683260030976 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: I think I win because it's so streatched that you have to open original just to see the edges
+[Message][who-bot] 346139990721298434 Brent Da Mage: 
+[Message][who-bot] 346139990721298434 Brent Da Mage: I win cause of bad editing.
+[Message][who-bot] 346139990721298434 Brent Da Mage: 😃
+[Message][who-bot] 265957683260030976 WHO?: that doesn't even make sense
+[Message][who-bot] 265957683260030976 WHO?: 🤔
+[Message][who-bot] 346139990721298434 Brent Da Mage: yes it does
+[Message][who-bot] 265957683260030976 WHO?: I want to bash my own head into a wall
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NwN8BUPwY_k
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NwN8BUPwY_k
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NwN8BUPwY_k
+[Message][who-bot] 413902897101930497 WHO?: Now playing: LIT RIGHT NOW -- SYDNEY MCGEE REMIX (1Hour) - 1h 1m 37s
+[Message][who-bot] 265957683260030976 WHO?: if you also want to have a head bashing feeling towards yourself just join the music channel
+[Message][who-bot] 346139990721298434 Brent Da Mage: I did it for you.
+[Message][who-bot] 265957683260030976 WHO?: DISGUSTANG!
+[Message][who-bot] 346139990721298434 Brent Da Mage: no u
+[Delete][who-bot] 346139990721298434 Brent Da Mage: no u
+[Message][who-bot] 265957683260030976 WHO?: get out of here
+[Message][who-bot] 265957683260030976 WHO?: good
+[Message][who-bot] 265957683260030976 WHO?: this is what this town needs
+[Message][who-bot] 346139990721298434 Brent Da Mage: no u
+[Delete][who-bot] 346139990721298434 Brent Da Mage: no u
+[Message][who-bot] 265957683260030976 WHO?: I said get out of here
+[Message][who-bot] 346139990721298434 Brent Da Mage: .
+[Message][who-bot] 265957683260030976 WHO?: -
+[Message][who-bot] 239889458693013506 ♫Hyron♫: WHO?
+[Message][who-bot] 346139990721298434 Brent Da Mage: .-.
+[Message][who-bot] 265957683260030976 WHO?: #off-topic <@!239889458693013506>
+[Message][who-bot] 239889458693013506 ♫Hyron♫: toot
+[Message][who-bot] 239889458693013506 ♫Hyron♫: lemme hear ya delicious voice
+[Message][who-bot] 346139990721298434 Brent Da Mage: TOOT
+[Message][who-bot] 265957683260030976 WHO?: Hyron crashed my bot 😠
+[Message][who-bot] 186186323869040640 Dread690: I was just messing around, Im in a call
+[Message][who-bot] 239889458693013506 ♫Hyron♫: what
+[Message][who-bot] 239889458693013506 ♫Hyron♫: how I crashed it
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play
+[Message][who-bot] 413902897101930497 WHO?: Input a proper url.
+[Message][who-bot] 265957683260030976 WHO?: invite everyone in your call to this vc
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NwN8BUPwY_k
+[Message][who-bot] 413902897101930497 WHO?: Now playing: LIT RIGHT NOW -- SYDNEY MCGEE REMIX (1Hour) - 1h 1m 37s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/NwN8BUPwY_k
+[Message][who-bot] 346139990721298434 Brent Da Mage: oh, go no
+[Message][who-bot] 413902897101930497 WHO?: Now playing: LIT RIGHT NOW -- SYDNEY MCGEE REMIX (1Hour) - 1h 1m 37s
+[Message][who-bot] 346139990721298434 Brent Da Mage: no pls
+[Message][who-bot] 239889458693013506 ♫Hyron♫: why
+[Message][who-bot] 346139990721298434 Brent Da Mage: This is awful.
+[Message][who-bot] 265957683260030976 WHO?: XD
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: GOOD MUSIC
+[Message][who-bot] 239889458693013506 ♫Hyron♫: A A A  A
+[Message][who-bot] 265957683260030976 WHO?: I'd rather listen to "I'm so cringe right now" than weeb music :3
+[Message][who-bot] 239889458693013506 ♫Hyron♫: you are rude to WHO? you get bammd
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: you are rude to WHO? you get bammd
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: you are rude to WHO? you get bannd
+[Message][who-bot] 265957683260030976 WHO?: I have never banned anyone
+[Message][who-bot] 239889458693013506 ♫Hyron♫: best part
+[Message][who-bot] 239889458693013506 ♫Hyron♫: :3
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 413902897101930497 WHO?: Please connect to the <457390433446920193> voice channel.
+[Message][who-bot] 239889458693013506 ♫Hyron♫: tum tum tum tum
+[Message][who-bot] 265957683260030976 WHO?: stop with this slander you swine
+[Message][who-bot] 346139990721298434 Brent Da Mage: >:)
+[Message][who-bot] 239889458693013506 ♫Hyron♫: <@265957683260030976> you should make a playlist
+[Message][who-bot] 346139990721298434 Brent Da Mage: !playhttps://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 346139990721298434 Brent Da Mage: ?
+[Message][who-bot] 346139990721298434 Brent Da Mage: Queue working?
+[Message][who-bot] 239889458693013506 ♫Hyron♫: if a music is playing and other says !play it adds to the playlist
+[Message][who-bot] 346139990721298434 Brent Da Mage: OH
+[Message][who-bot] 265957683260030976 WHO?: you need a space after play you dingus
+[Message][who-bot] 346139990721298434 Brent Da Mage: The queu IS working?
+[UpdateOld][who-bot] 346139990721298434 Brent Da Mage: The queu IS working?
+[UpdateNew][who-bot] 346139990721298434 Brent Da Mage: The queue IS working?
+[Message][who-bot] 239889458693013506 ♫Hyron♫: lmme hear my good musics pls
+[Message][who-bot] 346139990721298434 Brent Da Mage: shush dilweed
+[Message][who-bot] 265957683260030976 WHO?: whatever nimrod
+[Message][who-bot] 346139990721298434 Brent Da Mage: dip
+[Message][who-bot] 265957683260030976 WHO?: dip doesn't work like that you dip
+[Message][who-bot] 346139990721298434 Brent Da Mage: no u
+[Message][who-bot] 265957683260030976 WHO?: your childish dead meme phrase can't reflect anything
+[Message][who-bot] 346139990721298434 Brent Da Mage: no u
+[Message][who-bot] 239889458693013506 ♫Hyron♫: good music right
+[Message][who-bot] 239889458693013506 ♫Hyron♫: it's bigroom
+[Message][who-bot] 346139990721298434 Brent Da Mage: shure
+[Message][who-bot] 346139990721298434 Brent Da Mage: bighouse
+[Message][who-bot] 239889458693013506 ♫Hyron♫: smallapartment
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=R9yNWbetJVU
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=R9yNWbetJVU
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=R9yNWbetJVU
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Luis Fonsi, Daddy Yankee - Despacito ft. Justin Bieber (OFFICIAL VIDEO) 2017 - 4m 10s
+[Message][who-bot] 346139990721298434 Brent Da Mage: mediumsizedlivingquarters
+[Message][who-bot] 239889458693013506 ♫Hyron♫: WOOOO
+[Message][who-bot] 239889458693013506 ♫Hyron♫: MEME MUSIC RIGHT THERE
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 346139990721298434 Brent Da Mage: So no queue?
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 346139990721298434 Brent Da Mage: lol
+[Message][who-bot] 239889458693013506 ♫Hyron♫: WHY
+[Message][who-bot] 265957683260030976 WHO?: no dabspacito
+[Message][who-bot] 239889458693013506 ♫Hyron♫: I will put other
+[Message][who-bot] 346139990721298434 Brent Da Mage: no
+[Message][who-bot] 239889458693013506 ♫Hyron♫: shit brazilian music
+[Message][who-bot] 239889458693013506 ♫Hyron♫: I wanna show culture
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[UpdateOld][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[UpdateNew][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 413902897101930497 WHO?: Please connect to the WHO? Music voice channel.
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: LOL
+[Message][who-bot] 346139990721298434 Brent Da Mage: !playhttps://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 346139990721298434 Brent Da Mage: No Brazil
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 346139990721298434 Brent Da Mage: bad
+[Message][who-bot] 346139990721298434 Brent Da Mage: BAD BRAZIL
+[Message][who-bot] 265957683260030976 WHO?: are you racist now Brent?
+[Message][who-bot] 186186323869040640 Dread690: You borked like this entire channel
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 346139990721298434 Brent Da Mage: No, it just doesn't make sanse.
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[UpdateOld][who-bot] 346139990721298434 Brent Da Mage: No, it just doesn't make sanse.
+[UpdateNew][who-bot] 346139990721298434 Brent Da Mage: No, it just doesn't make sense.
+[Message][who-bot] 265957683260030976 WHO?: alright kiddies if you keep fighting over music I'll just keep you out of the voice channel
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: the music was going to start
+[Message][who-bot] 346139990721298434 Brent Da Mage: !play https://www.youtube.com/watch?v=KTlp91iSj5g
+[Message][who-bot] 239889458693013506 ♫Hyron♫: I don't know why I insist in this server
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Everybody Wants To Rule The World (7" Version) - 4m 13s
+[Message][who-bot] 265957683260030976 WHO?: lol I'll mute the bot
+[Message][who-bot] 346139990721298434 Brent Da Mage: I win. >:)
+[Message][who-bot] 346139990721298434 Brent Da Mage: My music is still playing.
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 346139990721298434 Brent Da Mage: 0_0
+[Message][who-bot] 239889458693013506 ♫Hyron♫: now WHO talks
+[Message][who-bot] 265957683260030976 WHO?: I love the sound of silence
+[Message][who-bot] 239889458693013506 ♫Hyron♫: you seem like hitler lol
+[Message][who-bot] 239889458693013506 ♫Hyron♫: I was just going to show some brazilian shit
+[Message][who-bot] 265957683260030976 WHO?: I just have to baby sit two toddlers so my bot doesn't break
+[Message][who-bot] 239889458693013506 ♫Hyron♫: but you don't even let it start
+[Message][who-bot] 346139990721298434 Brent Da Mage: lol
+[Message][who-bot] 346139990721298434 Brent Da Mage: 😃
+[Message][who-bot] 239889458693013506 ♫Hyron♫: you should add queue thingy
+[Message][who-bot] 265957683260030976 WHO?: It's too complicated
+[Message][who-bot] 265957683260030976 WHO?: you try even making a bot start
+[Message][who-bot] 239889458693013506 ♫Hyron♫: alright wanna hear some brazil
+[Message][who-bot] 239889458693013506 ♫Hyron♫: meme music
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=skNCJdLd01U
+[Message][who-bot] 413902897101930497 WHO?: Now playing: MC Digu e MC Keron - Vou Catucar seu Boga (Vídeoclipe Oficial) - 3m 30s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: OOF
+[Message][who-bot] 239889458693013506 ♫Hyron♫: lol
+[Message][who-bot] 239889458693013506 ♫Hyron♫: this is so bad
+[Message][who-bot] 239889458693013506 ♫Hyron♫: funk is so shitty lol
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 413902897101930497 WHO?: Please connect to the WHO? Music voice channel.
+[Message][who-bot] 265957683260030976 WHO?: !play if (!message.member.voiceChannel) return message.channel.send(`Please connect to the WHO? Music voice channel.`);
+[Message][who-bot] 413902897101930497 WHO?: Input a proper url.
+[Delete][who-bot] 265957683260030976 WHO?: !play if (!message.member.voiceChannel) return message.channel.send(`Please connect to the WHO? Music voice channel.`);
+[Delete][who-bot] 413902897101930497 WHO?: Input a proper url.
+[Message][who-bot] 265957683260030976 WHO?: 😉
+[Message][who-bot] 239889458693013506 ♫Hyron♫: lol
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: lemme hear
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ'
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: NO RICK
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 239889458693013506 ♫Hyron♫: PLS NO
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=3Y_y2oTvDow
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Miku Hatsune - Ievan Polkka (VSNS Remix) - 4m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: talk
+[Message][who-bot] 239889458693013506 ♫Hyron♫: I want to hear you
+[Message][who-bot] 239889458693013506 ♫Hyron♫: pls
+[Message][who-bot] 265957683260030976 WHO?: unmute yourself and sing the entire Ameno song
+[Message][who-bot] 239889458693013506 ♫Hyron♫: What
+[UpdateOld][who-bot] 265957683260030976 WHO?: unmute yourself and sing the entire Ameno song
+[UpdateNew][who-bot] 265957683260030976 WHO?: unmute yourself and sing the entire song Ameno
+[Message][who-bot] 239889458693013506 ♫Hyron♫: what is ameno song
+[Message][who-bot] 265957683260030976 WHO?: search it up you dip
+[Message][who-bot] 239889458693013506 ♫Hyron♫: what is dip
+[Message][who-bot] 265957683260030976 WHO?: you
+[Message][who-bot] 239889458693013506 ♫Hyron♫: rude
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=6iHdVa9YQtI
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=6iHdVa9YQtI
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=6iHdVa9YQtI
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Porco Rodolfo!! - 42s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: unmute the bot
+[Message][who-bot] 239889458693013506 ♫Hyron♫: <@265957683260030976>
+[Message][who-bot] 265957683260030976 WHO?: no
+[Message][who-bot] 239889458693013506 ♫Hyron♫: WHy
+[Message][who-bot] 239889458693013506 ♫Hyron♫: it's funny
+[Message][who-bot] 265957683260030976 WHO?: because I'm testing something
+[Message][who-bot] 265957683260030976 WHO?: I don't care about a pig
+[Message][who-bot] 239889458693013506 ♫Hyron♫: emotionless
+[Message][who-bot] 239889458693013506 ♫Hyron♫: bye
+[Message][who-bot] 239889458693013506 ♫Hyron♫: You killed the fun
+[Message][who-bot] 239889458693013506 ♫Hyron♫: Gonna play hot lav
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: Why salti boi role isn't separated
+[Message][who-bot] 239889458693013506 ♫Hyron♫: I want a separated roleeeeee
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[Message][who-bot] 265957683260030976 WHO?: as you wish
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] Roasting people since 1991
+[Message][who-bot] 265957683260030976 WHO?: fine you may play your ~~bad~~ decent weeb music now
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Delete][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+{Request]} 265957683260030976 WHO?: Wii theme song 10 hour version - 10h 0m 0s[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 265957683260030976 WHO?: finally some good music
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Request] 265957683260030976 WHO?: Wii theme song 10 hour version - 10h 0m 0s[Message][who2] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Request] 265957683260030976 WHO?: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who2] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: No thats bad music
+[Message][general] 346139990721298434 Brent Da Mage: >:)
+[Message][general] 346139990721298434 Brent Da Mage: I have a new Roblox alt!
+[Message][general] 346139990721298434 Brent Da Mage: It's called catbeater888
+[Message][general] 234092910490943488 Bugamashoo: you have a need for a roblox alt...?
+[Message][general] 265957683260030976 WHO?: Who even plays roblox these days other than youtubers hungry for views?
+[Message][general] 265957683260030976 WHO?: Last time I played was when I was less than 9 years old ~~my memory is bad fite me~~
+[Message][general] 265957683260030976 WHO?: 
+[Message][general] 265957683260030976 WHO?: *me*
+[Message][general] 239889458693013506 ♫Hyron♫: <:GWfroggyKermitReee:398569982406950922>
+[Message][general] 356865266732367873 Brutanian: KillerKermit
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Request] 265957683260030976 WHO?: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Request] 265957683260030976 WHO?: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[Message][general] 239889458693013506 ♫Hyron♫: 
+[Message][general] 239889458693013506 ♫Hyron♫: Got this
+[UserOld] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/8075858132bf1291bb2b4608b7462af9.png?size=2048
+[UserNew] 326001774366294018 KillerM4ster#8793 https://cdn.discordapp.com/avatars/326001774366294018/3dc09343b76fd01eec8808762b9b6aae.png?size=2048
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] Not a bum
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/oCCwpLBhE4E
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/oCCwpLBhE4E
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/oCCwpLBhE4E
+[Request] 265957683260030976 WHO?: Fireflies But Im Screaming The Lyrics - 3m 51s
+[Message][who-bot] 413902897101930497 WHO?: Now playing: Fireflies But Im Screaming The Lyrics - 3m 51s
+[Message][general] 239889458693013506 ♫Hyron♫: 1400 reais idk in dollars
+[Message][general] 239889458693013506 ♫Hyron♫: But the brake is SO FUCKING HARD
+[Message][general] 265957683260030976 WHO?: stop being bad
+[Message][general] 265957683260030976 WHO?: $491.31CAD or $369.72USD
+[Message][general] 239889458693013506 ♫Hyron♫: <@186186323869040640> its a g920
+[Message][general] 239889458693013506 ♫Hyron♫: <:Patrick:429058990006075395>
+[Message][general] 239889458693013506 ♫Hyron♫: <:KillerM4ster:429061124667867136>
+[Message][general] 239889458693013506 ♫Hyron♫: <@265957683260030976> I want my pfp as emoji now
+[Message][general] 265957683260030976 WHO?: 
+[Message][general] 239889458693013506 ♫Hyron♫: Wut
+[UserOld] 223531450992033794 Sidge#1677 https://cdn.discordapp.com/avatars/223531450992033794/94ef23934a901a58322447e65fd89e9d.png?size=2048
+[UserNew] 223531450992033794 Sidge#1677 https://cdn.discordapp.com/avatars/223531450992033794/c26ebfa646f93bf6c5b2aa314b625f52.png?size=2048
+[Message][general] 356865266732367873 Brutanian: best conversation ever:
+[Message][general] 239889458693013506 ♫Hyron♫: Lol
+[Message][general] 239889458693013506 ♫Hyron♫: Fucking cactus is sooo 2019
+[Message][general] 356865266732367873 Brutanian: Lel
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 265957683260030976 WHO?: https://youtu.be/dQw4w9WgXcQ
+[Delete][who-bot] 265957683260030976 WHO?: https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who-bot] 265957683260030976 WHO?: lol
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: undefined
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: [object Object] | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Rick Astley - Never Gonna Give You Up (Video) | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dQw4w9WgXcQ
+[Request] 265957683260030976 WHO?: Rick Astley - Never Gonna Give You Up (Video) - 3m 32s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/HgzGwKwLmgM
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/HgzGwKwLmgM
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/HgzGwKwLmgM
+[Request] 265957683260030976 WHO?: Queen - Don't Stop Me Now (Official Video) - 3m 37s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/HgzGwKwLmgM
+[Request] 265957683260030976 WHO?: Queen - Don't Stop Me Now (Official Video) - 3m 37s
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/HgzGwKwLmgM
+[Request] 265957683260030976 WHO?: Queen - Don't Stop Me Now (Official Video) - 3m 37s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Queen - Don't Stop Me Now (Official Video) - 3m 37s | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: OH
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/atuFSv2bLa8
+[Request] 265957683260030976 WHO?: Manuel - Gas Gas Gas - 4m 32s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Manuel - Gas Gas Gas - 4m 32s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: oh?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/atuFSv2bLa8
+[Request] 265957683260030976 WHO?: Manuel - Gas Gas Gas - 4m 32s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Manuel - Gas Gas Gas - 4m 32s | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dv13gl0a-FA
+[Request] 265957683260030976 WHO?: Initial D - Deja Vu - 4m 24s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Initial D - Deja Vu - 4m 24s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: k den
+[Message][who-bot] 265957683260030976 WHO?: Right now I'm just testing to see if the songs actually transition
+[Message][who-bot] 265957683260030976 WHO?: and then I'll reload it until the channels say their proper song names
+[Message][general] 186186323869040640 Dread690: I believe he is actually only 6
+[Message][who-bot] 265957683260030976 WHO?: yeah the queue is actually working....
+[Message][who-bot] 265957683260030976 WHO?: yeah I bet
+[Message][who-bot] 186186323869040640 Dread690: Working as intended
+[Message][who-bot] 265957683260030976 WHO?: indeed
+[Message][who-bot] 265957683260030976 WHO?: request a song you like
+[Message][who-bot] 186186323869040640 Dread690: This is my favorite song
+[Message][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=QZm4zseMok0
+[UpdateOld][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=QZm4zseMok0
+[UpdateNew][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=QZm4zseMok0
+[Request] 186186323869040640 Dread690: Sabaton Primo Victoria - 4m 19s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Sabaton Primo Victoria - 4m 19s | Requested by: Dread690#6108
+[Message][who-bot] 265957683260030976 WHO?: OH
+[Message][who-bot] 265957683260030976 WHO?: nice
+[Message][who-bot] 186186323869040640 Dread690: I stole Deja Vu
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[Request] 265957683260030976 WHO?: ERA - Ameno - 3m 51s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: ERA - Ameno - 3m 51s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: the channels work fine now
+[Message][who-bot] 186186323869040640 Dread690: Always with Armeno
+[Message][who-bot] 265957683260030976 WHO?: let's just see if Ameno will play after
+[Message][who-bot] 186186323869040640 Dread690: aight
+[Message][who-bot] 265957683260030976 WHO?: LEEEEEEEROOOOOY JENKINSSSSSSS
+[Message][who-bot] 186186323869040640 Dread690: D-DAY UPON US
+[Message][who-bot] 186186323869040640 Dread690: PRIMO VICTORIA
+[Message][who-bot] 265957683260030976 WHO?: hmmm
+[Message][who-bot] 265957683260030976 WHO?: 🤔
+[Message][who-bot] 186186323869040640 Dread690: <:rooThink:399827523581771796>
+[Message][who-bot] 265957683260030976 WHO?: it needs some tweeeeeking to work
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[Request] 265957683260030976 WHO?: ERA - Ameno - 3m 51s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: ERA - Ameno - 3m 51s | Requested by: WHO?
+[Message][who-bot] 186186323869040640 Dread690: Just a little
+[Message][who-bot] 265957683260030976 WHO?: k den
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: there
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[Request] 265957683260030976 WHO?: ERA - Ameno - 3m 51s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: ERA - Ameno - 3m 51s | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[Request] 265957683260030976 WHO?: ERA - Ameno - 3m 51s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: ERA - Ameno - 3m 51s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !shutdown
+[Message][who-bot] 186186323869040640 Dread690: Go home bot you're drunk
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/6xUnSVTh8fI
+[Request] 265957683260030976 WHO?: ERA - Ameno - 3m 51s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: ERA - Ameno - 3m 51s | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[Request] 265957683260030976 WHO?: DragonForce - Through The Fire And Flames (Video) - 5m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: DragonForce - Through The Fire And Flames (Video) - 5m 0s | Requested by: WHO?
+[Message][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=FdBqOCS8LmM
+[UpdateOld][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=FdBqOCS8LmM
+[UpdateNew][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=FdBqOCS8LmM
+[Request] 186186323869040640 Dread690: Slipknot - Custer (Audio) - 4m 14s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Slipknot - Custer (Audio) - 4m 14s | Requested by: Dread690
+[Message][who-bot] 265957683260030976 WHO?: now we wait
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[Request] 265957683260030976 WHO?: DragonForce - Through The Fire And Flames (Video) - 5m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: DragonForce - Through The Fire And Flames (Video) - 5m 0s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: cool
+[Message][who-bot] 186186323869040640 Dread690: wtf
+[Message][who-bot] 186186323869040640 Dread690: <:rooWhine:442070301463937024>
+[Message][who-bot] 265957683260030976 WHO?: so the last song can be overwritten 😛
+[Message][who-bot] 186186323869040640 Dread690: good to know
+[Message][who-bot] 186186323869040640 Dread690: wait wait wait, what type of remix is this
+[Message][who-bot] 265957683260030976 WHO?: ERA
+[Message][who-bot] 186186323869040640 Dread690: who?
+[Message][who-bot] 265957683260030976 WHO?: no
+[UpdateOld][who-bot] 186186323869040640 Dread690: who?
+[UpdateNew][who-bot] 186186323869040640 Dread690: WHO?
+[Message][who-bot] 186186323869040640 Dread690: yes
+[Message][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=zUzd9KyIDrM
+[Request] 186186323869040640 Dread690: System Of A Down - B.Y.O.B. (Video) - 4m 22s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: System Of A Down - B.Y.O.B. (Video) - 4m 22s | Requested by: Dread690
+[Message][who-bot] 265957683260030976 WHO?: I think it queues it normally but the channels update weird
+[Message][who-bot] 265957683260030976 WHO?: yep it is still a broke
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[Request] 265957683260030976 WHO?: DragonForce - Through The Fire And Flames (Video) - 5m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: DragonForce - Through The Fire And Flames (Video) - 5m 0s | Requested by: WHO?
+[Message][who-bot] 186186323869040640 Dread690: ohhhh, the last channel is just the last song in the queue
+[Message][who-bot] 265957683260030976 WHO?: yeah
+[Message][who-bot] 265957683260030976 WHO?: The visual queue will be broken for a while I think
+[Message][who-bot] 265957683260030976 WHO?: the main thing I want fixed is the auto play
+[Message][who-bot] 186186323869040640 Dread690: well, thats not working
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[Request] 265957683260030976 WHO?: DragonForce - Through The Fire And Flames (Video) - 5m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: DragonForce - Through The Fire And Flames (Video) - 5m 0s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: k den
+[Message][who-bot] 186186323869040640 Dread690: is added to the last one <:rooKek:399827499405541406>
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/0jgrCKhxE1s
+[Request] 265957683260030976 WHO?: DragonForce - Through The Fire And Flames (Video) - 5m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: DragonForce - Through The Fire And Flames (Video) - 5m 0s | Requested by: WHO?#6790
+[Message][who-bot] 186186323869040640 Dread690: IT would help if we picked a next song
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/15GkTo7VlN4
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/15GkTo7VlN4
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/15GkTo7VlN4
+[Request] 265957683260030976 WHO?: SKRILLEX - BANGARANG SHITTYFLUTED - 3m 31s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: SKRILLEX - BANGARANG SHITTYFLUTED - 3m 31s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: lol
+[Message][who-bot] 265957683260030976 WHO?: totally working as planned :3
+[Message][who-bot] 186186323869040640 Dread690: !play https://www.youtube.com/watch?v=L-iepu3EtyE
+[Request] 186186323869040640 Dread690: System Of A Down - Aerials - 4m 3s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: System Of A Down - Aerials - 4m 3s | Requested by: Dread690
+[Message][who-bot] 186186323869040640 Dread690: perfect
+[Message][who-bot] 186186323869040640 Dread690: gotta get ready for work and stuff
+[Message][who-bot] 265957683260030976 WHO?: yeee
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/15GkTo7VlN4
+[Request] 265957683260030976 WHO?: SKRILLEX - BANGARANG SHITTYFLUTED - 3m 31s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: SKRILLEX - BANGARANG SHITTYFLUTED - 3m 31s | Requested by: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/aIcdj4UH9u0
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/aIcdj4UH9u0
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/aIcdj4UH9u0
+[Request] 265957683260030976 WHO?: QUEEN - BOHEMIAN RHAPSODY - SHITTYFLUTED - 5m 56s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: QUEEN - BOHEMIAN RHAPSODY - SHITTYFLUTED - 5m 56s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/YCrQLKArXBo
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/YCrQLKArXBo
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/YCrQLKArXBo
+[Request] 265957683260030976 WHO?: Stephen - Crossfire - 4m 30s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Stephen - Crossfire - 4m 30s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/GYFJjwXtsU4
+[Request] 265957683260030976 WHO?: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s | Requested by: WHO?
+[Message][who-bot] 265957683260030976 WHO?: The channels list the right things now
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 413902897101930497 WHO?: __**Now Playing**__
+**SKRILLEX - BANGARANG SHITTYFLUTED** -- **Requested by:** *WHO?#6790*
+
+__**Queue**__
+1. **QUEEN - BOHEMIAN RHAPSODY - SHITTYFLUTED** -- **Requested by:** *WHO?#6790*
+2. **Stephen - Crossfire** -- **Requested by:** *WHO?#6790*
+3. **Seven Nation Army (Glitch Mob Remix) - Lyric Video** -- **Requested by:** *WHO?#6790*
+[Message][who-bot] 265957683260030976 WHO?: I thought that would look better 😛
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/GYFJjwXtsU4
+[Request] 265957683260030976 WHO?: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/GYFJjwXtsU4
+[Request] 265957683260030976 WHO?: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/GYFJjwXtsU4
+[Request] 265957683260030976 WHO?: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Seven Nation Army (Glitch Mob Remix) - Lyric Video - 4m 17s: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eH4F1Tdb040
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eH4F1Tdb040
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eH4F1Tdb040
+[Request] 265957683260030976 WHO?: Stephen - Crossfire - 4m 31s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Stephen - Crossfire - 4m 31s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/xnKhsTXoKCI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/xnKhsTXoKCI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/xnKhsTXoKCI
+[Request] 265957683260030976 WHO?: Metallica-Master Of Puppets (Lyrics) - 8m 37s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Metallica-Master Of Puppets (Lyrics) - 8m 37s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[Request] 265957683260030976 WHO?: Pegboard Nerds - BAMF - 4m 3s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Pegboard Nerds - BAMF - 4m 3s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dv13gl0a-FA
+[Request] 265957683260030976 WHO?: Initial D - Deja Vu - 4m 24s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Initial D - Deja Vu - 4m 24s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: alright so it works properly now
+[Message][who-bot] 265957683260030976 WHO?: kind of. They still don't auto play
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/8GW6sLrK40k
+[Request] 265957683260030976 WHO?: HOME - Resonance - 3m 33s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: HOME - Resonance - 3m 33s: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dv13gl0a-FA
+[Request] 265957683260030976 WHO?: Initial D - Deja Vu - 4m 24s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Initial D - Deja Vu - 4m 24s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[Request] 265957683260030976 WHO?: Pegboard Nerds - BAMF - 4m 3s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Pegboard Nerds - BAMF - 4m 3s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: now we wait
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: the time is drunk but that's fine
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[Request] 265957683260030976 WHO?: Pegboard Nerds - BAMF - 4m 3s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Pegboard Nerds - BAMF - 4m 3s: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[Request] 265957683260030976 WHO?: Pegboard Nerds - BAMF - 4m 3s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Pegboard Nerds - BAMF - 4m 3s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/S7LJQ9WuOqk
+[Request] 265957683260030976 WHO?: Pegboard Nerds - BAMF - 4m 3s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Pegboard Nerds - BAMF - 4m 3s: WHO?#6790
+[Message][who2] 265957683260030976 WHO?: !~~c_log~~
+[Delete][who2] 265957683260030976 WHO?: !~~c_log~~
+[Message][who2] 265957683260030976 WHO?: !~~c_log~~;
+[Request] 265957683260030976 WHO?: HOME - Resonance - 3m 33s

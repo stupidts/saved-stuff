@@ -1,0 +1,437 @@
+Test Stuffs![Delete][who2] 265957683260030976 WHO?: !~~c_log~~;
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/8GW6sLrK40k
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: HOME - Resonance - 3m 33s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/dv13gl0a-FA
+[Request] 265957683260030976 WHO?: Initial D - Deja Vu - 4m 24s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Initial D - Deja Vu - 4m 24s: WHO?#6790
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/siwpn14IE7E
+[Request] 265957683260030976 WHO?: Kenny Loggins - Danger Zone (Video) - 3m 46s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Kenny Loggins - Danger Zone (Video) - 3m 46s: WHO?
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/siwpn14IE7E
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/siwpn14IE7E
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[Request] 265957683260030976 WHO?: Wii theme song 10 hour version - 10h 0m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Wii theme song 10 hour version - 10h 0m 0s: WHO?#6790
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/y6120QOlsfU
+[Request] 265957683260030976 WHO?: Darude - Sandstorm - 3m 52s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Darude - Sandstorm - 3m 52s: WHO?#6790
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 265957683260030976 WHO?: Running in the 90's - 4m 46s
+[Message][who2] 413902897101930497 WHO?: Added To Queue: Running in the 90's - 4m 46s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/BJ0xBCwkg3E
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/BJ0xBCwkg3E
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 265957683260030976 WHO?: Running in the 90's - 4m 46s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Running in the 90's - 4m 46s: WHO?#6790
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[UpdateOld][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[UpdateNew][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: yeah - 1m 0s: WHO?#6790
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 413902897101930497 WHO?: Added To Queue: yeah - 1m 0s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: 🤔 the bot doesn't auto play the next song in line
+[Message][who-lottery] 265957683260030976 WHO?: !who
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: !stats
+[Message][who-lottery] 413902897101930497 WHO?: 
+[UpdateOld][who-lottery] 413902897101930497 WHO?: 
+[UpdateNew][who-lottery] 413902897101930497 WHO?: 
+[Message][who-lottery] 265957683260030976 WHO?: lol
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][general] 239889458693013506 ♫Hyron♫: his Propaganda
+[Message][general] 239889458693013506 ♫Hyron♫: TOOT
+[Message][general] 265957683260030976 WHO?: 😠
+[Message][general] 265957683260030976 WHO?: it's ok because you're special :thub
+[UpdateOld][general] 265957683260030976 WHO?: it's ok because you're special :thub
+[UpdateNew][general] 265957683260030976 WHO?: it's ok because you're special 👍
+[Message][general] 239889458693013506 ♫Hyron♫: <3
+[Message][general] 326001774366294018 KillerM4ster: "Special"
+[Message][general] 326001774366294018 KillerM4ster: Indeed
+[Message][general] 265957683260030976 WHO?: come join me in the silent WHO? Music channel
+[Message][general] 326001774366294018 KillerM4ster: "Silent"
+[Message][general] 326001774366294018 KillerM4ster: Indeed
+[Message][general] 265957683260030976 WHO?: I'm serious XD
+[Message][general] 265957683260030976 WHO?: my bot won't play the second song
+[Message][general] 326001774366294018 KillerM4ster: oof
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][general] 239889458693013506 ♫Hyron♫: 
+[Message][general] 326001774366294018 KillerM4ster: oh no
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: yeah - 1m 0s: WHO?
+[Message][general] 326001774366294018 KillerM4ster: The bot abandoned us
+[Message][general] 239889458693013506 ♫Hyron♫: rip
+[Message][who-bot] 265957683260030976 WHO?: also it does that 🤔
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Running in the 90's - 4m 46s: ♫Hyron♫
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: yeah - 1m 0s: WHO?
+[Message][who-bot] 265957683260030976 WHO?: wut
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: yeah - 1m 0s: WHO?#6790
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Running in the 90's - 4m 46s: ♫Hyron♫
+[Message][general] 326001774366294018 KillerM4ster: Omg it's louder than the last one
+[Message][general] 265957683260030976 WHO?: turn it down
+[Message][general] 239889458693013506 ♫Hyron♫: ooffoo
+[Message][general] 239889458693013506 ♫Hyron♫: what is a bum
+[Message][general] 239889458693013506 ♫Hyron♫: and why I have it as a role
+[GMUpdateOld] 239889458693013506 ♫Hyron♫ [object Map] ♫Hyron♫
+[GMUpdateNew] 239889458693013506 ♫Hyron♫ [object Map] ♫Hyron♫
+[Message][general] 239889458693013506 ♫Hyron♫: rip music
+[Message][general] 326001774366294018 KillerM4ster: Uh
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[Message][general] 326001774366294018 KillerM4ster: Bum kek
+[Message][general] 239889458693013506 ♫Hyron♫: what is bum
+[Message][general] 265957683260030976 WHO?: just so you know this bot doesn't play anything else until I restart it
+[Message][general] 326001774366294018 KillerM4ster: 
+[Message][general] 265957683260030976 WHO?: and that's the opposite of what I want
+[Message][general] 239889458693013506 ♫Hyron♫: I'm not a bum
+[Message][general] 265957683260030976 WHO?: none of those is what I mean
+[Message][general] 265957683260030976 WHO?: bum as in ()()
+[Message][general] 239889458693013506 ♫Hyron♫: ?
+[Message][general] 326001774366294018 KillerM4ster: Look translations
+[Message][general] 265957683260030976 WHO?: traseiro
+[Message][general] 239889458693013506 ♫Hyron♫: butt
+[Message][general] 239889458693013506 ♫Hyron♫: ass
+[Message][general] 265957683260030976 WHO?: and sem valor
+[Message][general] 326001774366294018 KillerM4ster: 
+[Message][general] 239889458693013506 ♫Hyron♫: but I'm not that
+[Message][general] 265957683260030976 WHO?: a worthless butt
+[Message][general] 239889458693013506 ♫Hyron♫: good
+[Message][general] 326001774366294018 KillerM4ster: 
+[Message][general] 239889458693013506 ♫Hyron♫: kk eae man
+[Message][general] 239889458693013506 ♫Hyron♫: haha hi dude
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/BJ0xBCwkg3E
+[Message][general] 239889458693013506 ♫Hyron♫: hasiudhsaiuhd
+[Request] 265957683260030976 WHO?: Running in the 90's - 4m 46s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Running in the 90's - 4m 46s: WHO?#6790
+[Message][general] 326001774366294018 KillerM4ster: Sup
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: !play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E!play https://youtu.be/BJ0xBCwkg3E
+[Request] 239889458693013506 ♫Hyron♫: Running in the 90's - 4m 46s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Running in the 90's - 4m 46s: ♫Hyron♫
+[Message][general] 326001774366294018 KillerM4ster: OH SHIT
+[Message][general] 326001774366294018 KillerM4ster: LOUD
+[Message][general] 239889458693013506 ♫Hyron♫: 
+[Message][who-bot] 265957683260030976 WHO?: lol that still worked?
+[Message][general] 239889458693013506 ♫Hyron♫: tudurujmurutundutunduntudnuntuduntudnutnduntundutnduntudnum
+[Message][general] 239889458693013506 ♫Hyron♫: tatanananam
+[Message][general] 239889458693013506 ♫Hyron♫: utatautamtuatmautntuatuanutatatatatanynyndayd
+[Message][general] 326001774366294018 KillerM4ster: LOUD
+[Message][general] 326001774366294018 KillerM4ster: FUCK
+[Message][general] 239889458693013506 ♫Hyron♫: (╯°□°）╯︵ ┻━┻
+[Message][general] 326001774366294018 KillerM4ster: LOUD
+[Message][general] 326001774366294018 KillerM4ster: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[Message][general] 265957683260030976 WHO?: New desire
+[Message][general] 265957683260030976 WHO?: Cost a little money
+[Message][general] 239889458693013506 ♫Hyron♫: ┬─┬ ノ( ゜-゜ノ)
+[Message][general] 239889458693013506 ♫Hyron♫: (╯°□°）╯︵ ノ( ゜-゜ノ)
+[Message][general] 326001774366294018 KillerM4ster: Pls, don't put an ear rape
+[Message][general] 265957683260030976 WHO?: elelkelelellelelelellelelelelellelewiuelrktueaulrlueulrlueluerluer
+[Message][general] 326001774366294018 KillerM4ster: 😈
+[Message][general] 265957683260030976 WHO?: it's impossible to put this song into words
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !stop
+[Message][general] 265957683260030976 WHO?: <:Patrick:429058990006075395>
+[Message][who-bot] 239889458693013506 ♫Hyron♫: https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[UpdateOld][who-bot] 239889458693013506 ♫Hyron♫: https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[UpdateNew][who-bot] 239889458693013506 ♫Hyron♫: https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Message][general] 326001774366294018 KillerM4ster: But it's possible to put in 1 word
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: My Hero Academia Season 3 – Opening Theme - 1m 30s: ♫Hyron♫
+[Message][who-bot] 239889458693013506 ♫Hyron♫: gg
+[Message][general] 326001774366294018 KillerM4ster: ::: Awesome
+[Message][who-bot] 265957683260030976 WHO?: dew it again
+[Message][who-bot] 239889458693013506 ♫Hyron♫: OOOOOOOOOOOOOFOOOOOOOOOOFOOOOOOO
+[Message][who-bot] 326001774366294018 KillerM4ster: !play https://www.youtube.com/watch?v=zmEUpMF-HLE
+[Request] 326001774366294018 KillerM4ster: Kero Kero Bonito - Flamingo [mega earrape and bass boost] - 3m 18s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Kero Kero Bonito - Flamingo [mega earrape and bass boost] - 3m 18s: KillerM4ster#8793
+[Message][who-bot] 239889458693013506 ♫Hyron♫: add the bota
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !stop
+[Message][who-bot] 239889458693013506 ♫Hyron♫: https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Message][who-bot] 239889458693013506 ♫Hyron♫: fuck
+[Message][who-bot] 326001774366294018 KillerM4ster: Damn
+[Message][who-bot] 326001774366294018 KillerM4ster: Don't put this bad music
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: My Hero Academia Season 3 – Opening Theme - 1m 30s: ♫Hyron♫#3335
+[Message][who-bot] 239889458693013506 ♫Hyron♫: good music
+[Message][who-bot] 326001774366294018 KillerM4ster: !stop
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: My Hero Academia Season 3 – Opening Theme - 1m 30s: ♫Hyron♫
+[Message][who-bot] 326001774366294018 KillerM4ster: Bad
+[Message][who-bot] 265957683260030976 WHO?: btw the ?t=12s doesn't do anything
+[Message][who-bot] 265957683260030976 WHO?: the bot ignores that
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: My Hero Academia Season 3 – Opening Theme - 1m 30s: ♫Hyron♫
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: My Hero Academia Season 3 – Opening Theme - 1m 30s: ♫Hyron♫
+[Message][who-bot] 265957683260030976 WHO?: alright monkeys it isn't going to work
+[Message][who-bot] 239889458693013506 ♫Hyron♫: 1 million of queues
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play
+[Message][who-bot] 413902897101930497 WHO?: Input a proper url.
+[Message][who-bot] 239889458693013506 ♫Hyron♫: HOW DO YOU DISABLE BIG LETTERS
+[Message][who-bot] 239889458693013506 ♫Hyron♫: HELP ME
+[Message][who-bot] 326001774366294018 KillerM4ster: !play https://www.youtube.com/watch?v=y6120QOlsfU
+[Request] 326001774366294018 KillerM4ster: Darude - Sandstorm - 3m 52s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: Darude - Sandstorm - 3m 52s: KillerM4ster
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !stop it right now fucking freaking shit mothercool
+[Message][who-bot] 239889458693013506 ♫Hyron♫: wait
+[Message][who-bot] 239889458693013506 ♫Hyron♫: it worked
+[Message][who-bot] 239889458693013506 ♫Hyron♫: tf
+[Message][who-bot] 239889458693013506 ♫Hyron♫: !play https://www.youtube.com/watch?v=v1YojYU5nPQ&t=19s
+[Request] 239889458693013506 ♫Hyron♫: My Hero Academia Season 3 – Opening Theme - 1m 30s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: My Hero Academia Season 3 – Opening Theme - 1m 30s: ♫Hyron♫
+[Message][who-bot] 265957683260030976 WHO?: monkeys
+[Message][who-bot] 239889458693013506 ♫Hyron♫: ]
+[Message][who-bot] 265957683260030976 WHO?: 🐒
+[Message][who-bot] 239889458693013506 ♫Hyron♫: queue glitched
+[Message][who-bot] 326001774366294018 KillerM4ster: 🐒
+[Message][who-bot] 239889458693013506 ♫Hyron♫: 
+[Message][who-bot] 265957683260030976 WHO?: I already said multiple times that it doesn't work right
+[Message][who-bot] 326001774366294018 KillerM4ster: "Queue glitched"
+[Message][who-bot] 239889458693013506 ♫Hyron♫: ?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/JHRKVojV1FA
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/JHRKVojV1FA
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/JHRKVojV1FA
+[Request] 265957683260030976 WHO?: Do it again (Chemical Brothers) - Earrape - 5m 36s
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: Do it again (Chemical Brothers) - Earrape - 5m 36s: WHO?#6790
+[Message][who-bot] 326001774366294018 KillerM4ster: !stop
+[Message][who-bot] 326001774366294018 KillerM4ster: Don't
+[Message][who-bot] 265957683260030976 WHO?: lol
+[Message][who-bot] 265957683260030976 WHO?: now if you don't mind I have some work to do so the bot gets fixed
+[Message][undefined] 265957683260030976 WHO?: !smsg 326001774366294018 | lol get plebbed on nerd. Hyron called you a monkey XD XD XD XD XD
+[Message][undefined] 265957683260030976 WHO?: !smsg 326001774366294018 | Come on. Don't be afraid of replying >:) ;0
+[Message][undefined] 265957683260030976 WHO?: !smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | lol get plebbed on nerd. Hyron called you a monkey XD XD XD XD XD
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: !~~ msg 326001774366294018 | Come on. Don't be afraid of replying >:) ;0
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | Come on. Don't be afraid of replying >:) ;0
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 313038909116383243 | >:)
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 313038909116383243 | >:)
+[Message][undefined] 326001774366294018 KillerM4ster: Shh
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 313038909116383243 | >:)
+[Message][undefined] 326001774366294018 KillerM4ster: He didn't
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | He did and you know it >:)
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 326001774366294018 KillerM4ster: He called YOU a monkey, if you're blind
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | i.imgur.com/nKDfllW.gif
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 326001774366294018 KillerM4ster: No
+[Message][undefined] 326001774366294018 KillerM4ster: Ohh
+[Message][undefined] 326001774366294018 KillerM4ster: Someone make an gif of you
+[Message][undefined] 326001774366294018 KillerM4ster: It's cool
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | https://youtu.be/ybGOT4d2Hs8
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | https://youtu.be/ybGOT4d2Hs8
+[UpdateNew][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | https://youtu.be/ybGOT4d2Hs8
+[Message][undefined] 326001774366294018 KillerM4ster: You made an music 😮
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 326001774366294018 | I still think this is one of the best things I've made my bot do 😛 Making it able to message guild members and see their messages. I'm going to make it easier for me to see your messages though 😛 😛
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 326001774366294018 KillerM4ster: It's just an DM, but uglier
+[Message][who-bot] 265957683260030976 WHO?: nothing changed yet bois
+[Message][who-bot] 326001774366294018 KillerM4ster: Because you're sending me messages
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[Message][ruel-breakers] 326001774366294018 KillerM4ster: YE
+[Message][ruel-breakers] 265957683260030976 WHO?: ecks deee
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateOld] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[GMUpdateNew] 326001774366294018 KillerM4ster [object Map] KillerM4ster
+[Message][user-join-log] 147897397572272129 Morder: 
+[Message][general] 265957683260030976 WHO?: Welcome <@147897397572272129> to the ~~House of Plebs~~ Official WHO? server!
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[UpdateOld][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[UpdateNew][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[StartSpeak] 265957683260030976 WHO?
+[Message][who-bot] 413902897101930497 WHO?: Now Playing: yeah - 1m 0s: WHO?#6790
+[StopSpeak] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 413902897101930497 WHO?: Added To Queue: yeah - 1m 0s: WHO?
+[StartSpeak] 265957683260030976 WHO?
+[StopSpeak] 265957683260030976 WHO?
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][undefined] 265957683260030976 WHO?: !~~ smsg 147897397572272129 | Hello there little one >:) >:)
+[Message][undefined] 413902897101930497 WHO?: 
+[UpdateOld][undefined] 413902897101930497 WHO?: 
+[UpdateNew][undefined] 413902897101930497 WHO?: 
+[Message][undefined] 147897397572272129 Morder: hi
+[GMUpdateOld] 147897397572272129 Morder [object Map] Morder
+[GMUpdateNew] 147897397572272129 Morder [object Map] Morder
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Delete][undefined] 265957683260030976 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !hook
+[Message][who-bot] 265957683260030976 WHO?: !hook
+[Message][who-bot] 475519631818358795 Hook Usage: 
+[UpdateOld][who-bot] 475519631818358795 Hook Usage: 
+[UpdateNew][who-bot] 475519631818358795 Hook Usage: 
+[Message][who-bot] 265957683260030976 WHO?: sicc
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[UpdateOld][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[UpdateNew][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Delete][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Delete][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Delete][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Delete][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Delete][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Delete][who-bot] 265957683260030976 WHO?: !hook Kewl stuffs, 1) One 2) Two 3) Three, 696969, https://cdn.discordapp.com/attachments/420745531896365066/475515252943880202/WHOStats.png
+[Message][who-bot] 475519631818358795 Kewl stuffs: 
+[UpdateOld][who-bot] 475519631818358795 Kewl stuffs: 
+[UpdateNew][who-bot] 475519631818358795 Kewl stuffs: 
+[Delete][who-bot] 475519631818358795 Kewl stuffs: 
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 475519631818358795 WHO?: 
+[Delete][who-bot] 475519631818358795 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 475519631818358795 WHO?: 
+[UpdateOld][who-bot] 475519631818358795 WHO?: 
+[UpdateNew][who-bot] 475519631818358795 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 475519631818358795 Stats: 
+[Message][who-bot] 265957683260030976 WHO?: wooo I figured out a fancy way of doing commands now
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who-bot] 265957683260030976 WHO?: !stats
+[Message][who2] 265957683260030976 WHO?: !stats
+[Message][who2] 265957683260030976 WHO?: !stats
+[Message][who2] 265957683260030976 WHO?: !stats
+[Message][who2] 265957683260030976 WHO?: !stats
+[Message][who2] 475533205609512961 Stats: 
+[UpdateOld][who2] 475533205609512961 Stats: 
+[UpdateNew][who2] 475533205609512961 Stats: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][who2] 265957683260030976 WHO?: !stats
+[Message][who2] 475533205609512961 Stats: 
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[UpdateOld][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[UpdateNew][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateOld][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateNew][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[Message][who2] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who2] 475533205609512961 ♫ WHO? Music ♫: 
+[UpdateOld][who2] 475533205609512961 ♫ WHO? Music ♫: 
+[UpdateNew][who2] 475533205609512961 ♫ WHO? Music ♫: 
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][undefined] 265957683260030976 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateOld][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateNew][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[Message][who-bot] 265957683260030976 WHO?: !list
+[Message][who-bot] 413902897101930497 WHO?: 
+[UpdateOld][who-bot] 413902897101930497 WHO?: 
+[UpdateNew][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateOld][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateNew][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[Delete][who-bot] 413902897101930497 WHO?: 
+[Message][who-bot] 265957683260030976 WHO?: !play https://youtu.be/eBCmDbVwnoQ
+[Request] 265957683260030976 WHO?: yeah - 1m 0s
+[Message][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[Message][who-bot] 265957683260030976 WHO?: !stop
+[Message][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateOld][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[UpdateNew][who-bot] 475519631818358795 ♫ WHO? Music ♫: 
+[Message][who-bot] 265957683260030976 WHO?: !~~c_log~~;

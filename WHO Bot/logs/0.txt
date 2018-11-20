@@ -1,0 +1,240 @@
+[Mon Jun 18 2018 10:06:25 GMT-0400 (Eastern Daylight Time)] 265957683260030976 WHO?: Hoopla[Mon Jun 18 2018 10:09:20 GMT-0400 (Eastern Daylight Time)] 265957683260030976 WHO?: 1[Mon Jun 18 2018 10:09:20 GMT-0400 (Eastern Daylight Time)] 265957683260030976 WHO?: 2[Mon Jun 18 2018 10:09:20 GMT-0400 (Eastern Daylight Time)] 265957683260030976 WHO?: 3[Mon Jun 18 2018 10:09:20 GMT-0400 (Eastern Daylight Time)] 265957683260030976 WHO?: 4[general] 265957683260030976 WHO?: Alright bois I'm pretty sure the bot should be up for a while now
+[general] 265957683260030976 WHO?: I'll leave it on since it actually works again 😛 but I didn't do too many improvements just the same stuff with cleaner *but still messy* code
+[who2] 265957683260030976 WHO?: test
+[who2] 265957683260030976 WHO?: kachow
+[who-bot] 265957683260030976 WHO?: !music play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: oh looks like an error
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 239889458693013506 ♫Hyron♫: I sqw
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 239889458693013506 ♫Hyron♫: What is the errir
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: 😮
+[who-bot] 265957683260030976 WHO?: 😮
+[who-bot] 265957683260030976 WHO?: 😮
+[who-bot] 265957683260030976 WHO?: 😮
+[who-bot] 265957683260030976 WHO?: 😮
+[who-bot] 265957683260030976 WHO?: FINALLY
+[general] 265957683260030976 WHO?: @here now my bot is ready and working
+[general] 306526948153360386 GamerOwls: cool
+[general] 265957683260030976 WHO?: please test it out a bit with the music only *other commands might not work so don't break my bot*
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/g0qX62Patoo
+[who-bot] 413902897101930497 WHO?: Now playing: MitiS - Open Window (feat. Anna Yvette) - 3m 53s
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: just checking if the channel name change was working and it is so YAY
+[who-bot] 265957683260030976 WHO?: <@196013975291297792> could you join the WHO? Music channel and leave it
+[who-bot] 265957683260030976 WHO?: I left and I still hear the music 🤔
+[who-bot] 265957683260030976 WHO?: now it's stopped 🤔
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: !stop
+[who-bot] 265957683260030976 WHO?: !play https://youtu.be/2uh44R9x9CI
+[who-bot] 413902897101930497 WHO?: Now playing: Wii theme song 10 hour version - 10h 0m 0s
+[who-bot] 265957683260030976 WHO?: alright it's fixed
+[who-bot] 239889458693013506 ♫Hyron♫: !hwlp
+[who-bot] 239889458693013506 ♫Hyron♫: !help
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !who
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !who
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !who
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !who
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !who
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !who
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !shop
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: !shop buy
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 239889458693013506 ♫Hyron♫: 1
+[who-bot] 265957683260030976 WHO?: oh lol the shop isn't finished so don't worry about that
+[who-bot] 265957683260030976 WHO?: !stats
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 265957683260030976 WHO?: lol
+[who-bot] 326001774366294018 KillerM4ster: Beep beep I'm a sheep
+[who-bot] 265957683260030976 WHO?: BEEP
+[who-bot] 326001774366294018 KillerM4ster: Meow meow I'm a cow
+[who-bot] 265957683260030976 WHO?: what are your stats
+[who-bot] 326001774366294018 KillerM4ster: Stop stop I'm a cop
+[who-bot] 326001774366294018 KillerM4ster: !stats
+[who-bot] 413902897101930497 WHO?: 
+[who-bot] 326001774366294018 KillerM4ster: ._.
+[who-bot] 265957683260030976 WHO?: try to buy an Apple
+[who-bot] 326001774366294018 KillerM4ster: No
+[who-bot] 265957683260030976 WHO?: `!shop buy Apple`
+[who-bot] 265957683260030976 WHO?: I want to know if it works
+[who-bot] 326001774366294018 KillerM4ster: Try you
+[who-bot] 265957683260030976 WHO?: I have the best items so it won't even let me buy them
+[who-bot] 265957683260030976 WHO?: Logs are working 😛
+[who-bot] 326001774366294018 KillerM4ster: Why at the start it's so bad?
+[who-bot] 265957683260030976 WHO?: because I forgot to add \r\n
+[who-bot] 265957683260030976 WHO?: that adds a return
+so the text
+does this
+[who-bot] 239889458693013506 ♫Hyron♫: Sheep sheep I'm a cookie
+[who-bot] 326001774366294018 KillerM4ster: Ik
+[who-bot] 265957683260030976 WHO?: Rawr XD Hyron's a Furry
+[who-bot] 326001774366294018 KillerM4ster: Look this https://www.youtube.com/watch?v=pgwWsTqeIx0
+[who-bot] 265957683260030976 WHO?: this is <#420724328544469045>
+[who-bot] 326001774366294018 KillerM4ster: Bark bark I'm a shark
+[general] 326001774366294018 KillerM4ster: Look this https://www.youtube.com/watch?v=pgwWsTqeIx0
+[who-bot] 265957683260030976 WHO?: sharks don't bark
+[who-bot] 326001774366294018 KillerM4ster: But this shark do
+[who-bot] 326001774366294018 KillerM4ster: Dab dab I'm a crab
+[who-bot] 265957683260030976 WHO?: ```
+[who-bot] 265957683260030976 WHO?: that adds a return
+so the text
+does this
+[who-bot] 239889458693013506 â™«Hyronâ™«: Sheep sheep I'm a cookie
+[who-bot] 326001774366294018 KillerM4ster: Ik
+[who-bot] 265957683260030976 WHO?: Rawr XD Hyron's a Furry
+[who-bot] 326001774366294018 KillerM4ster: Look this https://www.youtube.com/watch?v=pgwWsTqeIx0
+[who-bot] 265957683260030976 WHO?: this is <#420724328544469045>
+[who-bot] 326001774366294018 KillerM4ster: Bark bark I'm a shark
+[general] 326001774366294018 KillerM4ster: Look this https://www.youtube.com/watch?v=pgwWsTqeIx0
+[who-bot] 265957683260030976 WHO?: sharks don't bark
+[who-bot] 326001774366294018 KillerM4ster: But this shark do
+```
+[who-bot] 265957683260030976 WHO?: I have live text logs :3
+[who-bot] 326001774366294018 KillerM4ster: oof Hyron name is a little weird
+[who-bot] 265957683260030976 WHO?: any emoji is
+[who-bot] 265957683260030976 WHO?: 😛
+[who-bot] 265957683260030976 WHO?: [who-bot] 265957683260030976 WHO?: any emoji is
+[who-bot] 265957683260030976 WHO?: ðŸ˜›
+[who-bot] 265957683260030976 WHO?: [who-bot] 265957683260030976 WHO?: [who-bot] 265957683260030976 WHO?: any emoji is
+[who-bot] 265957683260030976 WHO?: Ã°Å¸Ëœâ€º
+[who-bot] 326001774366294018 KillerM4ster: oof
+[who-bot] 326001774366294018 KillerM4ster: █
+[who-bot] 326001774366294018 KillerM4ster: ¦
+[who-bot] 326001774366294018 KillerM4ster: ▄
+[who-bot] 326001774366294018 KillerM4ster: ▒
+[who-bot] 265957683260030976 WHO?: ```
+[who-bot] 326001774366294018 KillerM4ster: oof
+[who-bot] 326001774366294018 KillerM4ster: â–ˆ
+[who-bot] 326001774366294018 KillerM4ster: Â¦
+[who-bot] 326001774366294018 KillerM4ster: â–„
+[who-bot] 326001774366294018 KillerM4ster: â–’
+```
+[who-bot] 326001774366294018 KillerM4ster: Whaat
+[who-bot] 326001774366294018 KillerM4ster: He save the symbol but with another symbol at the side
+[who-bot] 265957683260030976 WHO?: what?
+[who-bot] 326001774366294018 KillerM4ster: [who-bot] 326001774366294018 KillerM4ster: Â¦
+[who-bot] 265957683260030976 WHO?: oh
+[who-bot] 265957683260030976 WHO?: 😛
+[who-bot] 265957683260030976 WHO?: |
+[who-bot] 326001774366294018 KillerM4ster: Fail
+[who-bot] 326001774366294018 KillerM4ster: ¦
+[who-bot] 326001774366294018 KillerM4ster: ¦¦¦¦¦
+[who-bot] 265957683260030976 WHO?: no I was checking to see if it was the same key as on the keyboard
+[who-bot] 326001774366294018 KillerM4ster: :p
+[who-bot] 265957683260030976 WHO?: go into another channel and type something
+[who-bot] 265957683260030976 WHO?: it checks every channel
+[general] 326001774366294018 KillerM4ster: Something
+[who-bot] 265957683260030976 WHO?: [general] 326001774366294018 KillerM4ster: Something
+[general] 326001774366294018 KillerM4ster: What if I edit?
+[who-bot] 265957683260030976 WHO?: [general] 326001774366294018 KillerM4ster: What if I edit?
+[who-bot] 326001774366294018 KillerM4ster: I dont edit ._.
+[general] 265957683260030976 WHO?: try it
+[who-bot] 265957683260030976 WHO?: naw it doesn't check edits
+[who-bot] 265957683260030976 WHO?: but that's because I didn't set it to check that
+[who-bot] 326001774366294018 KillerM4ster: 😛
+[who-bot] 265957683260030976 WHO?: it only checks if you message something
+[who-bot] 265957683260030976 WHO?: also if you put text like this
+```
+YOTE
+```
+[who-bot] 326001774366294018 KillerM4ster: He save
+[who-bot] 326001774366294018 KillerM4ster: Ik
+[who-bot] 265957683260030976 WHO?: so it's pretty cool
+[who-bot] 265957683260030976 WHO?: It saves
+[who-bot] 265957683260030976 WHO?: not he 😛
+[who-bot] 326001774366294018 KillerM4ster: I can make this too
+[who-bot] 265957683260030976 WHO?: he is if it has the male gender
+[who-bot] 326001774366294018 KillerM4ster: I KNOW
+[who-bot] 326001774366294018 KillerM4ster: It's she 😛
+[who-bot] 265957683260030976 WHO?: a text file doesn't have a gender
+[who-bot] 326001774366294018 KillerM4ster: Kek
+[who-bot] 326001774366294018 KillerM4ster: Of course it have
+[who-bot] 265957683260030976 WHO?: ¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦rawr
+[who-bot] 265957683260030976 WHO?: | ¦
+[who-bot] 326001774366294018 KillerM4ster: If they don't have a gender, what's that?
+[who-bot] 265957683260030976 WHO?: those are plugs not .txt files you pleb
+[who-bot] 265957683260030976 WHO?: 
+[who-bot] 326001774366294018 KillerM4ster: Not indeed
+[who-bot] 265957683260030976 WHO?: now time to make it log edits and deletes and other fun stuffs
+[who-bot] 326001774366294018 KillerM4ster: If it's a log why you want to delete?
+[who-bot] 265957683260030976 WHO?: ***make it log edits and deletes***
+[who-bot] 326001774366294018 KillerM4ster: Why?
+[who-bot] 326001774366294018 KillerM4ster: Or you will put like (deleted)
+[who-bot] 265957683260030976 WHO?: it will say `[who-bot] 326001774366294018 KillerM4ster: [DELETED] the message you deleted
+[who-bot] 326001774366294018 KillerM4ster: Hm
+[kek-club] 196013975291297792 Thinzy: <@265957683260030976>
+[kek-club] 196013975291297792 Thinzy: look at this chat
+[kek-club] 265957683260030976 WHO?: looks like a weird version of the current one
+[kek-club] 196013975291297792 Thinzy: yea
+[kek-club] 196013975291297792 Thinzy: this one you can upload files
+[kek-club] 196013975291297792 Thinzy: its like a mini discord chat
+[kek-club] 265957683260030976 WHO?: ```
+[kek-club] 196013975291297792 Thinzy: look at this chat
+[kek-club] 265957683260030976 WHO?: looks like a weird version of the current one
+[kek-club] 196013975291297792 Thinzy: yea
+[kek-club] 196013975291297792 Thinzy: this one you can upload files
+[kek-club] 196013975291297792 Thinzy: its like a mini discord chat
+```
+[kek-club] 196013975291297792 Thinzy: you got logs :3
+[kek-club] 265957683260030976 WHO?: yep
+[kek-club] 196013975291297792 Thinzy: niiice
+[kek-club] 265957683260030976 WHO?: partial logging done
+[kek-club] 196013975291297792 Thinzy: js ye?
+[kek-club] 265957683260030976 WHO?: spent all morning from 8 to 11:30
+[kek-club] 265957683260030976 WHO?: node js
+[kek-club] 196013975291297792 Thinzy: dang
+[kek-club] 196013975291297792 Thinzy: oooh hook it up to some apis
+[kek-club] 265957683260030976 WHO?: quoi?
+[kek-club] 196013975291297792 Thinzy: you can use the fs module
+[kek-club] 196013975291297792 Thinzy: http://aws.random.cat/meow
+[kek-club] 196013975291297792 Thinzy: theres a random cat api :3
+[kek-club] 265957683260030976 WHO?: naw
+[kek-club] 265957683260030976 WHO?: I already us the fs btw
+[kek-club] 196013975291297792 Thinzy: ooh what for
+[kek-club] 265957683260030976 WHO?: that's how I can translate our conversations onto a .txt file
+[kek-club] 196013975291297792 Thinzy: o
+[kek-club] 265957683260030976 WHO?: also I store our stats and stuff like that onto json files
+[kek-club] 265957683260030976 WHO?: so I can manually edit your stuff and 'cheat' WHO?s in
+[kek-club] 265957683260030976 WHO?: 😛
+[kek-club] 196013975291297792 Thinzy: lol
+[kek-club] 196013975291297792 Thinzy: you should use enmaps for storing also, maybe as a back up in case the json file becomes corrupted
+[kek-club] 265957683260030976 WHO?: wait..... if I change the txt output from utf8 to ascii would that make it show stuff like 😛 as `:P` instead of ðŸ˜› ?
+[kek-club] 265957683260030976 WHO?: It would be better if the emojis showed up as their name instead of ðŸ˜›
+[kek-club] 265957683260030976 WHO?: lemme try
+[kek-club] 196013975291297792 Thinzy: lol yea
