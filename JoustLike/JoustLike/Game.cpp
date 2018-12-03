@@ -113,13 +113,18 @@ void Game::update(Player& p)
 		if (m_bUpPressed && m_bJumpPress && m_bJumpLetGo && p.m_y >= 0)
 		{
 			p.MoveY(-p.m_iJumpHeight);
+			p.MoveY(-p.m_iJumpHeight/2);
 			m_iJumpCtr = 0;
 			m_bJumpLetGo = false;
 		}
 		else
 		{
+			//cout << m_bJumpPress << endl;
 			if (p.m_y <= 650)    //artificial stopping as if there was a ground
-				p.MoveY(1);      //gravity
+			{
+				if (m_iTickCtr % 2 == 0)
+					p.MoveY(1);      //gravity
+			}
 		}
 	}
 	if (m_bLeftPressed)
@@ -176,8 +181,12 @@ void Game::handleEvents()
 						m_bJumpPress = false;
 						if (m_iJumpCtr >= m_iJumpCooldown && m_bJumpLetGo)
 						{
-							m_bJumpPress = true;
-							m_iJumpCtr = 0;
+							while (m_iJumpDur < m_iJumpDurMax)
+							{
+								m_bJumpPress = true;
+								m_iJumpCtr = 0;
+								m_iJumpDur++;
+							}
 						}
 					}
 				}
@@ -209,6 +218,7 @@ void Game::handleEvents()
 			case 'W':
 				m_bUpPressed = false;
 				m_bJumpLetGo = true;
+				m_iJumpDur = 0;
 				break;
 			case 's':
 			case 'S':

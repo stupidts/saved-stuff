@@ -19,6 +19,8 @@ private:
 	int m_iTickMax = 8;
 	int m_iJumpCooldown = 3;
 	int m_iJumpCtr = 0;
+	int m_iJumpDur = 0;
+	int m_iJumpDurMax = 50;
 	bool m_bHover = false;
 	bool m_bJumpLetGo = true;
 	bool m_bJumpPress = false;
