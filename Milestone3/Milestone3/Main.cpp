@@ -4,7 +4,6 @@
 #include <conio.h> // Sorry non-Windows users. 
 #include "SDL.h"
 #include "Game.h"
-#include "Player.h"
 using namespace std;
 #define ROWS 24
 #define COLS 32
@@ -25,37 +24,15 @@ bool BuildMap(Level& l, const char* n, SDL_Renderer* g, SDL_Texture* texture) //
 			{
 				inFile >> temp;
 				temp = (temp == '*' ? ' ' : temp);
+				l.map[row][col].SetImage(g, texture);
 				l.map[row][col].SetBGTile(temp, texture);
+				l.map[row][col].m_rDst = { col * 32, row * 32, 32, 32 };
 			}
 		}
 		inFile.close();
 		return 0;
 	}
 	return 1;
-}
-
-void PrintMap(Level& l, const Player& p)
-{
-	//bool isDoor = false;
-
-	for (int row = 0; row < ROWS; row++)
-	{
-		for (int col = 0; col < COLS; col++)
-		{
-			/*for (int i = 0; i < l.m_iNumDoors; i++)
-			{
-				if (row == l.doors[i].m_y && col == l.doors[i].m_x)
-				{
-					isDoor = true;
-				}
-			}*/
-			/*if (row == p.m_y && col == p.m_x)
-				cout << p.m_cOutput;
-			else
-				cout << l.map[row][col].m_cOutput;*/
-		}
-		cout << endl;
-	}
 }
 
 void CheckDoors(int& cl, Player& p, Level& l)
@@ -78,19 +55,21 @@ int main(int argc, char* args[])
 	bool quit = false;
 	Level levels[5];
 	Game game; // Defining game object.
-	Player p;
 	
 	IMG_Init(IMG_INIT_PNG);
 	SDL_Surface* tileSurf = IMG_Load("Tiles.png");
 	SDL_Texture* tileText = SDL_CreateTextureFromSurface(game.GetRenderer(), tileSurf);
-	//SDL_Surface* playerSurf = IMG_Load("Player.png");
-	//SDL_Texture* playerText = SDL_CreateTextureFromSurface(game.GetRenderer(), playerSurf);
+	SDL_FreeSurface(tileSurf);
+	SDL_Surface* playerSurf = IMG_Load("Player.png");
+	SDL_Texture* playerText = SDL_CreateTextureFromSurface(game.GetRenderer(), playerSurf);
+	SDL_FreeSurface(playerSurf);
+	Player p(COLS / 2, ROWS / 2, game.GetRenderer(), playerText);
 
 	char input;
 	//Player player(COLS / 2, ROWS / 2);
 	int currLevel(0);
 
-	if (BuildMap(levels[0], "Level1.txt", game.GetRenderer(), tileText) == 1)
+	/*if (BuildMap(levels[0], "Level1.txt", game.GetRenderer(), tileText) == 1)
 		return 1;
 	levels[0].AddDoor(14, 20, 1, 17, 14);
 	if (BuildMap(levels[1], "Level2.txt", game.GetRenderer(), tileText) == 1)
@@ -103,18 +82,21 @@ int main(int argc, char* args[])
 	levels[2].AddDoor(17, 14, 1, 27, 15);
 	if (BuildMap(levels[3], "Level4.txt", game.GetRenderer(), tileText) == 1)
 		return 1;
-	levels[3].AddDoor(27, 11, 1, 10, 6);
+	levels[3].AddDoor(27, 11, 1, 10, 6);*/
 
 	game.init("SDL Engine Demo", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 1024, 768, 0);
+	Player player(COLS / 2, ROWS / 2, game.GetRenderer(), playerText);
 	while (game.running())
 	{
-		game.handleEvents(levels[currLevel], p, currLevel);
+		game.handleEvents();
 		if (game.tick())
 		{
-			game.update(p, levels[currLevel], currLevel);
-			game.render(p, levels[currLevel]);
+			game.update(levels[currLevel], p, currLevel);
+			game.render(levels[currLevel], p);
 		}
 	}
+	SDL_DestroyTexture(tileText);
+	SDL_DestroyTexture(playerText);
 	game.clean();
 	system("pause");
 	/*while (!quit)

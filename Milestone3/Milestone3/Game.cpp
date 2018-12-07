@@ -1,7 +1,6 @@
 #include <chrono>
 #include <iostream>
 #include "Game.h"
-#include "Player.h"
 #include "Level.h"
 using namespace std;
 using namespace chrono;
@@ -38,13 +37,20 @@ bool Game::init(const char* title, int xpos, int ypos, int width,
 			return false; // Window init fail.
 		}
 		IMG_Init(IMG_INIT_PNG); // Initializing image system.
-		m_image = IMG_Load("Player.png");
-		if (m_image == 0)
+		m_sPlayer = IMG_Load("Player.png");
+		if (m_sPlayer == 0)
 		{
-			cout << "image load fail" << endl;
+			cout << "player load fail" << endl;
 			return false;
 		}
-		m_texture = SDL_CreateTextureFromSurface(m_pRenderer, m_image);
+		m_tPlayer = SDL_CreateTextureFromSurface(m_pRenderer, m_sPlayer);
+		m_sTile = IMG_Load("Tiles.png");
+		if (m_sTile == 0)
+		{
+			cout << "tile load fail" << endl;
+			return false;
+		}
+		m_tTile = SDL_CreateTextureFromSurface(m_pRenderer, m_sTile);
 	}
 	else
 	{
@@ -93,30 +99,18 @@ bool Game::tick()
 	return false;
 }
 
-void Game::update(Player& p, Level& l, int currLevel)
+void Game::update(Level& l, Player& p, int currLevel)
 {
-	if (m_bUpPressed)
-	{
-		p.MoveY(-8);
-		m_bUpPressed = false;
-	}
-	if (m_bDownPressed)
-	{
-		p.MoveY(8);
-		m_bDownPressed = false;
-	}
-	if (m_bLeftPressed)
-	{
-		p.MoveX(-8);
-		p.m_bRight = false;
-		m_bLeftPressed = false;
-	}
-	if (m_bRightPressed)
-	{
-		p.MoveX(8);
-		p.m_bRight = true;
-		m_bRightPressed = false;
-	}
+	if (m_bUpPressed && l.map[(p.m_rDst.y / 32) - 1][p.m_rDst.x / 32].m_bIsObstacle != true)
+		p.m_rDst.y -= 32;
+	if (m_bDownPressed && l.map[(p.m_rDst.y / 32) + 1][p.m_rDst.x / 32].m_bIsObstacle != true)
+		p.m_rDst.y += 32;
+	if (m_bLeftPressed && l.map[p.m_rDst.y / 32][(p.m_rDst.x / 32) - 1].m_bIsObstacle != true)
+		p.m_rDst.x -= 32;
+	if (m_bRightPressed && l.map[p.m_rDst.y / 32][(p.m_rDst.x / 32) + 1].m_bIsObstacle != true)
+		p.m_rDst.y += 32;
+	if (l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_bIsHazard == true)
+		cout << "Hazard" << endl;
 	if (m_bUpPressed || m_bDownPressed || m_bLeftPressed || m_bRightPressed)//Player is moving
 	{
 		if (m_iTickCtr == m_iTickMax)
@@ -133,7 +127,7 @@ void Game::update(Player& p, Level& l, int currLevel)
 	}
 }
 
-void Game::handleEvents(Level& level, Player player, int currLevel)
+void Game::handleEvents()
 {
 	SDL_Event event;
 
@@ -194,7 +188,7 @@ void Game::handleEvents(Level& level, Player player, int currLevel)
 	}
 }
 
-void Game::render(Player& p, Level& l)
+void Game::render(Level& l, Player& p)
 {
 	SDL_RenderClear(m_pRenderer); // Clear the screen to the draw color.
 	
@@ -206,15 +200,17 @@ void Game::render(Player& p, Level& l)
 				SDL_RenderCopy(m_pRenderer, l.map[row][col].m_pTexture, &l.map[row][col].m_rSrc, &l.map[row][col].m_rDst);
 		}
 	}
-	SDL_RenderCopyEx(m_pRenderer, m_texture, p.GetSrc(), p.GetDst(), 0, 0, (p.m_bRight ? SDL_FLIP_NONE : SDL_FLIP_HORIZONTAL));
+	SDL_RenderCopyEx(m_pRenderer, m_tPlayer, p.GetSrc(), p.GetDst(), 0, 0, (p.m_bRight ? SDL_FLIP_NONE : SDL_FLIP_HORIZONTAL));
 	SDL_RenderPresent(m_pRenderer); // Draw anew.
 }
 
 void Game::clean()
 {
 	cout << "cleaning game" << endl;
-	SDL_DestroyTexture(m_texture);
-	SDL_FreeSurface(m_image);
+	SDL_DestroyTexture(m_tPlayer);
+	SDL_DestroyTexture(m_tTile);
+	SDL_FreeSurface(m_sPlayer);
+	SDL_FreeSurface(m_sTile);
 	SDL_DestroyRenderer(m_pRenderer);
 	SDL_DestroyWindow(m_pWindow);
 	IMG_Quit();

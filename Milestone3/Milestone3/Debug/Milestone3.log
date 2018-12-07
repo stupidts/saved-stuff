@@ -1,5 +1,2 @@
 ﻿  Game.cpp
-  Main.cpp
-c:\users\sebas\source\repos\milestone3\milestone3\main.cpp(89): warning C4101: 'input': unreferenced local variable
-  Generating Code...
   Milestone3.vcxproj -> C:\Users\sebas\source\repos\Milestone3\Debug\Milestone3.exe

@@ -1,13 +1,12 @@
 #pragma once
 #include "SDL.h"
 #include "SDL_image.h"
-#include "Player.h"
 #include "Level.h"
 #define OTILES 8
 #define HTILES 1
 #define ROWS 24
 #define COLS 32
-#define FPS 60
+#define FPS 10
 
 constexpr char g_cOTiles[OTILES] = { 'M', 'm', '#', 'O', '=', 'H', 'B', '%' };
 constexpr char g_cHTiles[HTILES] = { 'X' };
@@ -30,8 +29,10 @@ private:
 	// 
 	SDL_Window* m_pWindow;
 	SDL_Renderer* m_pRenderer;
-	SDL_Surface* m_image;
-	SDL_Texture* m_texture;
+	SDL_Surface* m_sPlayer;
+	SDL_Texture* m_tPlayer;
+	SDL_Surface* m_sTile;
+	SDL_Texture* m_tTile;
 public:
 	Game() :m_iFPS(FPS), m_bGotTick(false), m_bUpPressed(false),
 		m_bDownPressed(false), m_bLeftPressed(false), m_bRightPressed(false) {}
@@ -41,9 +42,9 @@ public:
 		int height, int flags);
 	bool running();
 	bool tick();
-	void update(Player& p, Level& l, int currLevel);
-	void handleEvents(Level& level, Player player, int currLevel);
-	void render(Player& p, Level& l);
+	void update(Level& l, Player& p, int currLevel);
+	void handleEvents();
+	void render(Level& l, Player& p);
 	void clean();
 
 	SDL_Renderer* GetRenderer()
