@@ -1,6 +1,7 @@
 #pragma once
 #include "SDL.h"
 #include "SDL_image.h"
+#include <iostream>
 #define ROWS 24
 #define COLS 32
 
@@ -25,6 +26,7 @@ struct Sprite
 	void SetImage(SDL_Renderer* r, SDL_Texture* t)
 	{
 		m_pTexture = t;
+		m_pRenderer = r;
 	}
 };
 
@@ -33,62 +35,96 @@ class BGTile : public Sprite
 public:
 	bool m_bIsObstacle;
 	bool m_bIsHazard;
+	bool m_bIsDoor;
 
 	BGTile()
 	{
 		m_bIsObstacle = false;
 		m_bIsHazard = false;
+		m_bIsDoor = false;
 	}
 
 	void SetBGTile(const char c, SDL_Texture* texture)
 	{
+		m_rSrc.w = m_rDst.w = 32;
+		m_rSrc.h = m_rDst.h = 32;
 		m_cOutput = c;
 		if (m_cOutput == '+') // + in the file so it's easier to notice in a char mess
-			m_cOutput = 'D';  // Door character
-							  // vvv checks if the char is a Stone, Moss Stone, wood wall, roof tile, tree stump, full tree or a dungeon brick vvv
-		if (m_cOutput == 'M' || m_cOutput == 'm' || m_cOutput == '=' || m_cOutput == 'H' || m_cOutput == 'O' || m_cOutput == '#' || m_cOutput == 'B')
+		{
+			m_cOutput = 'Q';  // Door character
+			m_bIsDoor = true;
+		}				  // vvv checks if the char is a Stone, Moss Stone, wood wall, roof tile, tree stump, full tree or a dungeon brick vvv
+		else if (m_cOutput == 'M' || m_cOutput == 'm' || m_cOutput == '=' || m_cOutput == 'H' || m_cOutput == 'O' || m_cOutput == '#' || m_cOutput == 'B')
 			m_bIsObstacle = true;
-		if (m_cOutput == 'X') // is it a hazard?
+		else if (m_cOutput == 'X') // is it a hazard?
 			m_bIsHazard = true;
+		else
+		{
+			m_bIsObstacle = false;
+			m_bIsDoor = false;
+			m_bIsHazard = false;
+		}
 
-
+		SetRect();
 	}
 
 	void SetRect()
 	{
-		if (m_cOutput == ',')
+		switch (m_cOutput)
+		{
+		case ',':
 			m_rSrc = { 0, 0, 32, 32 };
-		else if (m_cOutput == ';')
+			break;
+		case ';':
 			m_rSrc = { 32, 0, 32, 32 };
-		else if (m_cOutput == 'M')
+			break;
+		case 'M':
 			m_rSrc = { 64, 0, 32, 32 };
-		else if (m_cOutput == 'm')
+			break;
+		case 'm':
 			m_rSrc = { 96, 0, 32, 32 };
-		else if (m_cOutput == '.')
+			break;
+		case '.':
 			m_rSrc = { 128, 0, 32, 32 };
-		else if (m_cOutput == '-')
+			break;
+		case '-':
 			m_rSrc = { 160, 0, 32, 32 };
-		else if (m_cOutput == '~')
+			break;
+		case '~':
 			m_rSrc = { 192, 0, 32, 32 };
-		else if (m_cOutput == 'X')
+			break;
+		case 'X':
 			m_rSrc = { 224, 0, 32, 32 };
-		if (m_cOutput == '#')
+			break;
+		case '#':
 			m_rSrc = { 0, 32, 32, 32 };
-		else if (m_cOutput == 'O')
+			break;
+		case 'O':
 			m_rSrc = { 32, 32, 32, 32 };
-		else if (m_cOutput == '=')
+			break;
+		case '=':
 			m_rSrc = { 64, 32, 32, 32 };
-		else if (m_cOutput == 'H')
+			break;
+		case 'H':
 			m_rSrc = { 96, 32, 32, 32 };
-		else if (m_cOutput == 'B')
+			break;
+		case 'B':
 			m_rSrc = { 128, 32, 32, 32 };
-		else if (m_cOutput == '_')
+			break;
+		case '_':
 			m_rSrc = { 160, 32, 32, 32 };
-		else if (m_cOutput == 'Q')
+			break;
+		case 'Q':
 			m_rSrc = { 192, 32, 32, 32 };
-		else if (m_cOutput == '%')
+			break;
+		case '%':
 			m_rSrc = { 224, 32, 32, 32 };
+			break;
+		}
+		
 	}
+
+	
 };
 
 class LOTile : public Sprite
@@ -117,7 +153,7 @@ public:
 	int m_y;
 	int m_iSpeed;
 	int m_iFrameCtr = 0;
-	int m_iFrameMax = 6;
+	int m_iFrameMax = 1;
 	bool m_bRight = true;
 	SDL_Rect m_rSrc;
 	SDL_Rect m_rDst;
@@ -131,8 +167,7 @@ public:
 		m_rSrc = { 0, 0, 32, 32 };
 		m_rSrc.w = m_rDst.w = 32;
 		m_rSrc.h = m_rDst.h = 32;
-		m_pRenderer = r;
-		m_pTexture = t;
+		SetImage(r, t);
 		UpdateDst();
 	}
 	void MoveX(int m)
@@ -147,6 +182,14 @@ public:
 	}
 	const SDL_Rect* GetSrc() { return &m_rSrc; }
 	const SDL_Rect* GetDst() { return &m_rDst; }
+	void OnFire()
+	{
+		m_rSrc.x = 32;
+	}
+	void Swimming()
+	{
+		m_rSrc.x = 64;
+	}
 	void AdvanceAnim()
 	{
 		m_iFrameCtr++;
@@ -154,12 +197,12 @@ public:
 		{
 			m_iFrameCtr = 0;
 		}
-		m_rSrc.x = 44 * m_iFrameCtr;
+		m_rSrc.x = 32 * m_iFrameCtr;
 	}
 	void SetIdle()
 	{
 		m_iFrameCtr = 0;
-		m_rSrc.x = 44 * m_iFrameCtr;
+		m_rSrc.x = 32 * m_iFrameCtr;
 	}
 };
 
@@ -176,11 +219,11 @@ public:
 
 	}
 
-	void GetDoor(int& tl, int& dx, int& dy) // accesses the private variables from the outside cold harsh world
+	void GetDoor(int* tl, int* dx, int* dy) // accesses the private variables from the outside cold harsh world
 	{
-		tl = m_iToLevel;
-		dx = m_iDestX;
-		dy = m_iDestY;
+		*tl = m_iToLevel;
+		*dx = m_iDestX * 32;
+		*dy = m_iDestY * 32;
 
 	}
 
@@ -194,7 +237,7 @@ public:
 	}
 };
 
-class Level : public Door
+class Level
 {
 public:
 	int m_iNumDoors;

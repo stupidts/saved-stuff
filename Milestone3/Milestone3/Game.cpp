@@ -90,7 +90,7 @@ bool Game::tick()
 		if (m_bGotTick == false)
 		{
 			m_bGotTick = true;
-			cout << "Tick " << tick << " @ " << count << endl;
+			//cout << "Tick " << tick << " @ " << count << endl;
 			return true;
 		}
 		return false;
@@ -99,19 +99,52 @@ bool Game::tick()
 	return false;
 }
 
-void Game::update(Level& l, Player& p, int currLevel)
+void Game::update(Level& l, Player& p, int* currLevel, SDL_Texture* t)
 {
 	if (m_bUpPressed && l.map[(p.m_rDst.y / 32) - 1][p.m_rDst.x / 32].m_bIsObstacle != true)
+	{
 		p.m_rDst.y -= 32;
+		cout << l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_cOutput << endl;
+	}
+	m_bUpPressed = false;
 	if (m_bDownPressed && l.map[(p.m_rDst.y / 32) + 1][p.m_rDst.x / 32].m_bIsObstacle != true)
+	{
 		p.m_rDst.y += 32;
+		cout << l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_cOutput << endl;
+	}
+	m_bDownPressed = false;
 	if (m_bLeftPressed && l.map[p.m_rDst.y / 32][(p.m_rDst.x / 32) - 1].m_bIsObstacle != true)
+	{
 		p.m_rDst.x -= 32;
+		cout << l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_cOutput << endl;
+	}
+	m_bLeftPressed = false;
 	if (m_bRightPressed && l.map[p.m_rDst.y / 32][(p.m_rDst.x / 32) + 1].m_bIsObstacle != true)
-		p.m_rDst.y += 32;
+	{
+		p.m_rDst.x += 32;
+		cout << l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_cOutput << endl;
+	}
+	m_bRightPressed = false;
+
+
+	if (l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_cOutput == 'Q')
+	{
+		cout << "\n\n\non a door!" << endl;
+		cout << "currLevel: " << currLevel << endl;
+		CheckDoors(currLevel, p, l);
+		cout << "currLevel: " << currLevel << endl;
+	}
+
 	if (l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_bIsHazard == true)
+	{
 		cout << "Hazard" << endl;
-	if (m_bUpPressed || m_bDownPressed || m_bLeftPressed || m_bRightPressed)//Player is moving
+		p.OnFire();
+	}
+	else if (l.map[p.m_rDst.y / 32][p.m_rDst.x / 32].m_cOutput == '~')
+	{
+		p.Swimming();
+	}
+	else if (m_bUpPressed || m_bDownPressed || m_bLeftPressed || m_bRightPressed)//Player is moving
 	{
 		if (m_iTickCtr == m_iTickMax)
 		{
@@ -138,31 +171,6 @@ void Game::handleEvents()
 		case SDL_QUIT:
 			m_bRunning = false;
 			break;
-		/*case SDL_KEYDOWN:
-			switch (event.key.keysym.sym)
-			{
-			case 'w':
-			case 'W':
-				if (m_bUpPressed)
-					m_bUpPressed = false;
-				break;
-			case 's':
-			case 'S':
-				if (m_bDownPressed)
-					m_bDownPressed = false;
-				break;
-			case 'a':
-			case 'A':
-				if (m_bLeftPressed)
-					m_bLeftPressed = false;
-				break;
-			case 'd':
-			case 'D':
-				if (m_bRightPressed)
-					m_bRightPressed = false;
-				break;
-			}
-			break;*/
 		case SDL_KEYUP:
 			switch (event.key.keysym.sym)
 			{
@@ -190,7 +198,8 @@ void Game::handleEvents()
 
 void Game::render(Level& l, Player& p)
 {
-	SDL_RenderClear(m_pRenderer); // Clear the screen to the draw color.
+	//cout << "Game::render" << endl;
+	SDL_RenderClear(m_pRenderer);
 	
 	for (int row = 0; row < ROWS; row++)
 	{
@@ -198,10 +207,11 @@ void Game::render(Level& l, Player& p)
 		{
 			if (l.map[row][col].m_cOutput != ' ')
 				SDL_RenderCopy(m_pRenderer, l.map[row][col].m_pTexture, &l.map[row][col].m_rSrc, &l.map[row][col].m_rDst);
+			//cout << "Tile Render: " << row << " " << col << " " << l.map[row][col].m_cOutput << endl;
 		}
 	}
 	SDL_RenderCopyEx(m_pRenderer, m_tPlayer, p.GetSrc(), p.GetDst(), 0, 0, (p.m_bRight ? SDL_FLIP_NONE : SDL_FLIP_HORIZONTAL));
-	SDL_RenderPresent(m_pRenderer); // Draw anew.
+	SDL_RenderPresent(m_pRenderer);
 }
 
 void Game::clean()

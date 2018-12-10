@@ -43,5 +43,8 @@
     <Text Include="Level4.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="Level5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
